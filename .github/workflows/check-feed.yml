@@ -28,7 +28,7 @@ jobs:
           git commit -m "update episodes"
           git push origin main
       - name: notify success
-        if: ${{ success() }}
+        if: ${{ success() }} && steps.check.outputs.result == 'updated'
         run: |
           curl -X POST -H "Content-Type: application/json" -d '{"value1": "tamanishi/check-rebuild-feed", "value2": "succeeded"}' https://maker.ifttt.com/trigger/update_rebuild_json/with/key/${{ secrets.WEB_HOOK_KEY }}
       - name: notify fail
