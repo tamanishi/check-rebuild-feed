@@ -25,6 +25,52 @@
     
     
       <item>
+        <title>332: Acqui-hire Roadmap (rui314)</title>
+        <description><![CDATA[ <p>Rui Ueyama さんをゲストに迎えて、シンガポール、リンカ、夏時間、F1、サプライチェーン攻撃などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.tracetogether.gov.sg/">TraceTogether</a></li>
+<li><a href="https://techtaiwan.com/20210525/covid19-contact-tracing-taiwan/">Covid-19 SMS Contact Tracing in Taiwan</a></li>
+<li><a href="https://www.singpass.gov.sg/main">Singpass - Your Improved Digital ID</a></li>
+<li><a href="https://techcrunch.com/2022/02/07/irs-facial-recognition-id-me/">The IRS won’t make you verify your identity with facial recognition after all</a></li>
+<li><a href="https://github.com/rui314/mold">rui314/mold: mold: A Modern Linker</a></li>
+<li><a href="https://www.sifive.com/boards/hifive-unmatched">HiFive Unmatched - SiFive</a></li>
+<li><a href="https://www.reuters.com/world/us/us-senate-approves-bill-that-would-make-daylight-savings-time-permanent-2023-2022-03-15/">U.S. Senate approves bill to make daylight saving time permanent</a></li>
+<li><a href="https://www.youtube.com/watch?v=Vee-LG-zRfU">Rebuild 331: Apple M1 Ultra 発祥の地 吉野家USA #rebuildfm</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZBcBor0pdGI">Rebuild 326: Intel 武闘派CEO Pat Gelsinger #rebuildfm</a></li>
+<li><a href="https://wtf1.com/post/f1s-is-speaking-with-netflix-after-drivers-fake-dts-complaints/">F1 Is Speaking With Netflix After Drivers’ ‘Fake’ DTS Complaints</a></li>
+<li><a href="https://cppconf.ru/en/">C++ Russia 2022</a></li>
+<li><a href="https://yapcrussia.org/">YAPC::Russia</a></li>
+<li><a href="https://www.wired.com/story/open-source-sabotage-protestware/">Open Source Software Faces Threats of Protestware and Sabotage</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Thu, 31 Mar 2022 00:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/332/</link>
+        <guid isPermaLink="true">https://rebuild.fm/332/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>rui314</atom:name>
+          <atom:uri>https://rebuild.fm/people/rui314/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Rui Ueyama さんをゲストに迎えて、シンガポール、リンカ、夏時間、F1、サプライチェーン攻撃などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:46:55</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep332.mp3" type="audio/mpeg" length="51766602" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>331: Inspired By Yoshinoya (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、Apple イベント、M1 Ultra, Mac Studio などについて話しました。</p>
 <h3>Show Notes</h3><ul>
