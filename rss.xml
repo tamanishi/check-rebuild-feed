@@ -25,6 +25,67 @@
     
     
       <item>
+        <title>336: AirPods Amateur (N)</title>
+        <description><![CDATA[ <p>Naoki Hiroshima さんをゲストに迎えて、WWDC, アプリ内課金、Swift, シミュレーション仮説などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.macrumors.com/2022/06/01/twitter-removing-tweetdeck-for-mac/">Twitter Shutting Down TweetDeck for Mac in July</a></li>
+<li><a href="https://mashable.com/article/elon-musk-makes-tesla-employees-return-to-office">Elon Musk tells Tesla workers that &#39;remote work is no longer acceptable&#39;</a></li>
+<li><a href="https://9to5mac.com/2022/05/01/the-final-years-of-jony-ive-at-apple/">The final years of Jony Ive at Apple</a></li>
+<li><a href="https://www.androidauthority.com/google-pixel-tablet-3163922/">Google Pixel Tablet</a></li>
+<li><a href="https://www.androidpolice.com/amazon-in-app-digital-goods-purchases-play-store/">Amazon stops selling digital goods in its Android app to escape Google&#39;s Play Store tax</a></li>
+<li><a href="https://www.npr.org/2022/05/30/1102036580/fda-investigates-hepatitis-a-outbreak-potentially-linked-to-fresh-strawberries">FDA investigates hepatitis A outbreak potentially linked to strawberries</a></li>
+<li><a href="https://www.theverge.com/2022/6/1/23150601/sheryl-sandberg-stepping-down-meta-facebook-coo-14-years">Sheryl Sandberg will step down from her role as COO of Meta this fall</a></li>
+<li><a href="https://www.theverge.com/2022/5/19/23126349/glitch-fastly-acquired-coding-anil-dash-fog-creek">Glitch acquired by cloud service provider Fastly</a></li>
+<li><a href="https://www.joelonsoftware.com/">Joel on Software</a></li>
+<li><a href="https://www.amazon.co.jp/Joel-Software-%E3%82%B8%E3%83%A7%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%AB%E3%82%B9%E3%82%AD-ebook/dp/B0963FNRT8/?tag=bulknews-22">Joel on Software | ジョエル・スポルスキ</a></li>
+<li><a href="https://www.amazon.co.jp/%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E3%81%A8%E7%94%BB%E5%AE%B6-%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E6%99%82%E4%BB%A3%E3%81%AE%E5%89%B5%E9%80%A0%E8%80%85%E3%81%9F%E3%81%A1-%E3%83%9D%E3%83%BC%E3%83%AB-%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0/dp/4274065979?tag=bulknews-22">ハッカーと画家 コンピュータ時代の創造者たち | ポール グレアム</a></li>
+<li><a href="https://blog.1password.com/1password-8-for-mac/">1Password 8 for Mac</a></li>
+<li><a href="https://rjbs.cloud/blog/2022/05/perl-5.36/">perl v5.36.0 has been released</a></li>
+<li><a href="https://forums.swift.org/t/pitch-regular-expression-literals/52820">Regular Expression Literals - Swift Forums</a></li>
+<li><a href="https://blog.8-p.info/en/2020/07/17/perl/">Three odd things I know about Perl</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B01DJ34YBK?tag=bulknews-22">禅とオートバイ修理技術</a></li>
+<li><a href="https://www.techtarget.com/searchcio/definition/proof-of-concept-POC">proof of concept (POC)</a></li>
+<li><a href="https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/">A Datasette tutorial written by GPT-3</a></li>
+<li><a href="https://openai.com/blog/dall-e/">DALL·E: Creating Images from Text</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/google/google-quietly-bans-deepfake-training-projects-on-colab/">Google quietly bans deepfake training projects on Colab</a></li>
+<li><a href="http://n.h7a.org/blog/entry/1435">Sturgis 2006 (その4) - ぼんやりと考えたこと</a></li>
+<li><a href="https://rebuild.fm/portal/">Rebuild サポータープログラム</a></li>
+<li><a href="https://www.amazon.co.jp/Build-Unorthodox-Making-Things-English-ebook/dp/B09BNJ6GBV?tag=bulknews-22">Build: An Unorthodox Guide to Making Things Worth Making</a></li>
+<li><a href="https://www.amazon.co.jp/Creative-Selection-Apple-%E5%89%B5%E9%80%A0%E3%82%92%E7%94%9F%E3%82%80%E5%8A%9B-%E3%82%B1%E3%83%B3%E3%83%BB%E3%82%B3%E3%82%B7%E3%82%A8%E3%83%B3%E3%83%80-ebook/dp/B07PRQY9JM/?tag=bulknews-22">Creative Selection　Apple 創造を生む力</a></li>
+<li><a href="https://foodondemandnews.com/11182021/doordash-to-acquire-wolt-for-8-billion/">DoorDash to Acquire Wolt for $8 Billion</a></li>
+<li><a href="https://atp.fm/">Accidental Tech Podcast</a></li>
+<li><a href="https://hypercritical.co/2022/03/30/independence-day">Hypercritical: Independence Day</a></li>
+<li><a href="https://twitter.com/Bilingual_News/status/1522119963557134338">バイリンガルニュース</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sat, 04 Jun 2022 22:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/336/</link>
+        <guid isPermaLink="true">https://rebuild.fm/336/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>N</atom:name>
+          <atom:uri>https://rebuild.fm/people/N/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Naoki Hiroshima さんをゲストに迎えて、WWDC, アプリ内課金、Swift, シミュレーション仮説などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>3:15:29</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep336.mp3" type="audio/mpeg" length="94278210" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>335: From the Cradle to the Grave in Metaverse (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、Google I/O, Pixel, メタバースなどについて話しました。</p>
 <h3>Show Notes</h3><ul>
@@ -337,7 +398,7 @@
 <li><a href="https://rebuild.fm/search?q=%E3%82%8F%E3%82%93%E3%81%93%E3%81%9D%E3%81%B0">わんこそば</a></li>
 <li><a href="https://twitter.com/ngnchiikawa">ちいかわ占い 朝5時58分 (@ngnchiikawa)</a></li>
 <li><a href="https://www.androidcentral.com/samsung-galaxy-s22-new-google-app-features">Google unpacks new Galaxy S22 features, Google Duo to get Apple SharePlay-like live sharing</a></li>
-<li><a href="https://twitter.com/togenkyoo/status/1494632536210907137?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1494632536210907137%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fpaperusercontent.com%2Fintegrations%2Fembed%2Fiframe%2Ftweet%3Fid%3D1494632536210907137">スマホに通知がきたら矢文でお知らせしてくれるマシーン</a></li>
+<li><a href="https://twitter.com/togenkyoo/status/1494632536210907137?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1494632536210907137%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpaperusercontent.com%2Fintegrations%2Fembed%2Fiframe%2Ftweet%3Fid%3D1494632536210907137">スマホに通知がきたら矢文でお知らせしてくれるマシーン</a></li>
 <li><a href="https://www.intel.com/content/www/us/en/newsroom/news/intel-technology-roadmaps-milestones.html">Intel Technology Roadmaps and Milestones</a></li>
 <li><a href="https://www.bloomberg.com/news/articles/2022-02-15/intel-to-buy-israel-s-tower-semiconductor-for-5-4-billion">Intel (INTC) to Buy Israel’s Tower Semiconductor</a></li>
 <li><a href="https://www.zdnet.com/article/intel-invests-in-open-source-risc-v-processors-with-a-billion-dollars-in-new-chip-foundries/">Intel invests in open-source RISC-V processors, creates billion-dollar fund</a></li>
@@ -499,7 +560,7 @@
 
 <p>スポンサー: <a href="https://www.linode.com/rebuild">Linode</a></p>
 <h3>Show Notes</h3><ul>
-<li><a href="https://www.amazon.co.jp/audio-technica-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9B%E3%83%B3-%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF-%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88-ATR2100x-USB/dp/B08KDVW9Z3/?tag=bulknews-22&amp;th=1">ATR2100x-USB</a></li>
+<li><a href="https://www.amazon.co.jp/audio-technica-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9B%E3%83%B3-%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF-%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88-ATR2100x-USB/dp/B08KDVW9Z3/?tag=bulknews-22&th=1">ATR2100x-USB</a></li>
 <li><a href="https://9to5mac.com/2021/09/16/class-action-lawsuit-screen-cracks/">Class-action lawsuit filed for M1 MacBook screen cracks</a></li>
 <li><a href="https://www.theverge.com/2022/1/11/22878059/chips-processors-cpu-gpu-2022-intel-amd-nvidia-qualcomm-apple-arm-x86">Everything you need to know about 2022’s biggest chips from CES</a></li>
 <li><a href="https://arstechnica.com/gadgets/2021/11/intels-alder-lake-big-little-cpu-design-tested-its-a-barn-burner/">Intel’s Alder Lake big.little CPU design, tested: It’s a barn burner</a></li>
@@ -515,7 +576,7 @@
 <li><a href="https://www.androidpolice.com/hey-google-why-cant-i-turn-on-my-lights-without-unlocking-my-pixel/">Hey Google, why can’t I turn on my lights without unlocking my Pixel?</a></li>
 <li><a href="https://www.pcgamer.com/google-to-downgrade-existing-smart-speakers-after-losing-sonos-patent-case/">Google to downgrade existing smart speakers after losing Sonos patent case</a></li>
 <li><a href="https://www.eldenring.jp/">ELDEN RING</a></li>
-<li><a href="https://www.amazon.co.jp/%E5%B1%B1%E5%B4%8E%E5%AE%9F%E6%A5%AD-Yamazaki-%E3%83%86%E3%83%AC%E3%83%93%E8%A3%8F%E5%8F%8E%E7%B4%8D%E3%83%A9%E3%83%83%E3%82%AF-%E7%B4%84W57%C3%97D11%C3%97H12-5cm-4484/dp/B07P5474QG/?tag=bulknews-22&amp;th=1">山崎実業(Yamazaki) テレビ裏収納ラック</a></li>
+<li><a href="https://www.amazon.co.jp/%E5%B1%B1%E5%B4%8E%E5%AE%9F%E6%A5%AD-Yamazaki-%E3%83%86%E3%83%AC%E3%83%93%E8%A3%8F%E5%8F%8E%E7%B4%8D%E3%83%A9%E3%83%83%E3%82%AF-%E7%B4%84W57%C3%97D11%C3%97H12-5cm-4484/dp/B07P5474QG/?tag=bulknews-22&th=1">山崎実業(Yamazaki) テレビ裏収納ラック</a></li>
 <li><a href="https://store.steampowered.com/app/1687540/_/?l=japanese">昭和米国物語</a></li>
 <li><a href="https://www.amazon.co.jp/%E5%86%86-%E5%8A%89%E6%85%88%E6%AC%A3%E7%9F%AD%E7%AF%87%E9%9B%86-%E5%8A%89-%E6%85%88%E6%AC%A3-ebook/dp/B09LGXJR9B/?tag=bulknews-22">円　劉慈欣短篇集</a></li>
 <li><a href="https://www.amazon.co.jp/%E7%81%AB%E5%AE%88-%E8%A7%92%E5%B7%9D%E6%9B%B8%E5%BA%97%E5%8D%98%E8%A1%8C%E6%9C%AC-%E5%8A%89-%E6%85%88%E6%AC%A3-ebook/dp/B09N2ZH95X?tag=bulknews-22">火守</a></li>
@@ -568,7 +629,7 @@
 <li><a href="https://developer.apple.com/documentation/authenticationservices/securing_logins_with_icloud_keychain_verification_codes">Securing Logins with iCloud Keychain Verification Codes</a></li>
 <li><a href="https://maestral.app/">Maestral</a></li>
 <li><a href="https://www.caldigit.com/thunderbolt-4-element-hub/">Thunderbolt 4 | USB4 | Element Hub</a></li>
-<li><a href="https://www.amazon.com/Anker-Charger-PowerPort-Charging-Station/dp/B09J1XTLJ6?&amp;linkCode=ll1&amp;tag=bulknewstypep-20">Anker USB C Charger 120W, 547 Charger, PowerPort III 4-Port Charging Station</a></li>
+<li><a href="https://www.amazon.com/Anker-Charger-PowerPort-Charging-Station/dp/B09J1XTLJ6?&linkCode=ll1&tag=bulknewstypep-20">Anker USB C Charger 120W, 547 Charger, PowerPort III 4-Port Charging Station</a></li>
 <li><a href="https://www.caseyliss.com/2021/12/7/monitor-liss">The State of External Retina Displays</a></li>
 <li><a href="https://www.theverge.com/2021/12/21/22848957/lg-dualup-32-inch-4k-ultra-fine-monitors-announced-specs">LG’s new 16:18 monitor looks like a multitasking powerhouse</a></li>
 <li><a href="https://ssl.1242.com/aplform/form/aplform.php?fcode=jpa2021_listener">第3回 JAPAN PODCAST AWARDS 「リスナーズ・チョイス」 リスナー投票フォーム</a></li>
@@ -904,7 +965,7 @@
 <li><a href="https://www.eff.org/deeplinks/2018/09/esni-privacy-protecting-upgrade-https">ESNI: A Privacy-Protecting Upgrade to HTTPS</a></li>
 <li><a href="https://www.amazon.co.jp/%E3%83%86%E3%82%A4%E3%82%AF%E3%83%80%E3%82%A6%E3%83%B3%E2%80%95%E8%8B%A5%E3%81%8D%E5%A4%A9%E6%89%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%AD%A6%E8%80%85vs%E8%B6%85%E5%A4%A7%E7%89%A9%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E3%80%88%E4%B8%8A%E3%80%89-%E4%B8%8B%E6%9D%91-%E5%8A%AA/dp/4198605017?tag=bulknews-22">テイクダウン―若き天才日本人学者vs超大物ハッカー</a></li>
 <li><a href="https://www.imdb.com/title/tt0159784/">Takedown</a></li>
-<li><a href="https://www.youtube.com/watch?v=P1ww1IXRfTA&amp;t=356s">The complete FUN TO IMAGINE with Richard Feynman</a></li>
+<li><a href="https://www.youtube.com/watch?v=P1ww1IXRfTA&t=356s">The complete FUN TO IMAGINE with Richard Feynman</a></li>
 <li><a href="https://www.theverge.com/2021/10/14/22725886/apple-airpods-pro-repair-program-extended-three-years-crackling-noise-cancellation-problems">Apple extends AirPods Pro repair program for crackling or ANC issues</a></li>
 <li><a href="https://www.theverge.com/2021/9/23/22626723/eu-commission-universal-charger-usb-c-micro-lightning-connector-smartphones">EU proposes mandatory USB-C on all devices, including iPhones</a></li>
 <li><a href="https://style.nikkei.com/article/DGXMZO68477800V20C21A1000000?page=2">NMNの効果が期待できるのは40～50代以降:老化を遅らせ、元気続く</a></li>
@@ -948,7 +1009,7 @@
 <li><a href="https://fingerprintjs.com/blog/ios15-icloud-private-relay-vulnerability/">iOS 15 iCloud Private Relay Vulnerability Identified</a></li>
 <li><a href="https://www.theverge.com/22689453/ipados-15-home-screen-icons-widgets-grid-features-design">iPadOS 15 ruined my iPad’s homescreen</a></li>
 <li><a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z">Kids who grew up with search engines could change STEM education forever</a></li>
-<li><a href="https://www.amazon.com/dp/B078NSDFSB?tag=googhydr-20&amp;hvadid=548786426326&amp;hvpos=&amp;hvnetw=g&amp;hvrand=14105745134501358903&amp;hvpone=&amp;hvptwo=&amp;hvqmt=e&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9031942&amp;hvtargid=kwd-347442626813&amp;ref=pd_sl_1ehl8mh3ph_e">Amazon Astro</a></li>
+<li><a href="https://www.amazon.com/dp/B078NSDFSB?tag=googhydr-20&hvadid=548786426326&hvpos=&hvnetw=g&hvrand=14105745134501358903&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031942&hvtargid=kwd-347442626813&ref=pd_sl_1ehl8mh3ph_e">Amazon Astro</a></li>
 <li><a href="https://www.vice.com/en/article/93ypp8/leaked-documents-amazon-astro-surveillance-robot-tracking">Leaked Documents Show How Amazon’s Astro Robot Tracks Everything You Do</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B09DN8M7YK?tag=bulknews-22">Kindle Paperwhite シグニチャー エディション</a></li>
 <li><a href="https://www.apple.com/shop/product/MK293LL/A/magic-keyboard-with-touch-id-for-mac-models-with-apple-silicon-us-english">Magic Keyboard with Touch ID for Mac models with Apple silicon</a></li>
@@ -1009,7 +1070,7 @@
 <li><a href="https://wwws.warnerbros.co.jp/dune-movie/">DUNE/デューン 砂の惑星</a></li>
 <li><a href="https://www.youtube.com/watch?v=JIThBMSABTo">The Matrix Resurrections | Official Trailer</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B09CD11XJ8/?tag=bulknews-22">望郷太郎（５）</a></li>
-<li><a href="https://wise.com/promotion/referral-landing?utm_source=url&amp;utm_medium=invite&amp;utm_content=&amp;utm_campaign=&amp;referralCode=tatsuhikom9&amp;referralToken=tatsuhikom9&amp;profileType=PERSONAL">Wise: Online Money Transfers</a></li>
+<li><a href="https://wise.com/promotion/referral-landing?utm_source=url&utm_medium=invite&utm_content=&utm_campaign=&referralCode=tatsuhikom9&referralToken=tatsuhikom9&profileType=PERSONAL">Wise: Online Money Transfers</a></li>
 <li><a href="https://www.theverge.com/2021/9/14/22674704/nintendo-switch-bluetooth-audio-software-update">Nintendo finally adds Bluetooth audio to the Switch in new software update</a></li>
 <li><a href="https://www.4gamer.net/games/990/G999026/20210917162/">Bluetoothオーディオに対応したSwitchで，Bluetoothヘッドセットの接続と遅延を検証してみた</a></li>
 <li><a href="https://tv.apple.com/us/show/the-morning-show/umc.cmc.25tn3v8ku4b39tr6ccgb8nl6m">The Morning Show | Apple TV+</a></li>
@@ -1109,7 +1170,7 @@
 <li><a href="https://math.stackexchange.com/">Mathematics Stack Exchange</a></li>
 <li><a href="https://www.w3.org/Math/">W3C Math Home</a></li>
 <li><a href="https://www.elecom.co.jp/products/TB-A20MFLNSPL.html">着脱式ペーパーライク 上質紙</a></li>
-<li><a href="https://www.amazon.com/ELECOM-Pencil-Feel-Anti-Harmful-Anti-Fingerprints-TB-A20MFLNSPLL/dp/B08R6SRF6V?&amp;linkCode=shr&amp;tag=bulknewstypep-20&amp;language=en_US&amp;ref_=as_li_ss_shr&amp;creativeASIN=B08R6SRF6V&amp;camp=213733&amp;creative=393177&amp;linkId=64dece9124456331101517e8f3d55d2f">ELECOM Pencil-Feel Screen Protector</a></li>
+<li><a href="https://www.amazon.com/ELECOM-Pencil-Feel-Anti-Harmful-Anti-Fingerprints-TB-A20MFLNSPLL/dp/B08R6SRF6V?&linkCode=shr&tag=bulknewstypep-20&language=en_US&ref_=as_li_ss_shr&creativeASIN=B08R6SRF6V&camp=213733&creative=393177&linkId=64dece9124456331101517e8f3d55d2f">ELECOM Pencil-Feel Screen Protector</a></li>
 <li><a href="https://blog.1password.com/totp-for-1password-users/">TOTP for 1Password users</a></li>
 <li><a href="https://store.google.com/us/product/titan_security_key?hl=en-US">Titan Security Key</a></li>
 <li><a href="https://oddtaxi.jp/">オッドタクシー</a></li>
@@ -1161,7 +1222,7 @@
 <li><a href="https://techcrunch.com/2021/08/25/final-vote-delayed-for-koreas-plan-to-ban-google-and-apple-in-app-payment-rules/">Final vote delayed for Korea’s plan to ban Google and Apple in-app payment rules</a></li>
 <li><a href="https://www.4gamer.net/games/999/G999905/20210826081/">［CEDEC 2021］フランス人開発者が，日本のゲーム業界の常識を斬る</a></li>
 <li><a href="https://game.watch.impress.co.jp/docs/news/1346450.html">「Ghost of Tsushima」の“日本版”を作る</a></li>
-<li><a href="https://jp.ign.com/ghost-of-tsushima-directors-cut/53846/feature/ghost-of-tsushima?amp=1&amp;__twitter_impression=true">『Ghost of Tsushima』序盤のあの名シーンができるまで</a></li>
+<li><a href="https://jp.ign.com/ghost-of-tsushima-directors-cut/53846/feature/ghost-of-tsushima?amp=1&__twitter_impression=true">『Ghost of Tsushima』序盤のあの名シーンができるまで</a></li>
 <li><a href="https://www.youtube.com/watch?v=gPz0vx32Rks">Gamers Reactions To The Seeing The AMAZING Title Intro To Ghost of Tsushima</a></li>
 <li><a href="https://www.imdb.com/title/tt0091203/">Highlander (1986) - IMDb</a></li>
 <li><a href="https://automaton-media.com/articles/newsjp/20200630-129139/">『The Last of Us Part II』盲目のゲーマーがクリア報告</a></li>
@@ -1380,7 +1441,7 @@
 <li><a href="http://gundam-hathaway.net/">機動戦士ガンダム 閃光のハサウェイ</a></li>
 <li><a href="https://www.netflix.com/title/81439253">Mobile Suit Gundam Hathaway | Netflix</a></li>
 <li><a href="https://www.itmedia.co.jp/news/articles/2107/20/news068.html">シン・エヴァ、日本のAmazonプライムビデオで8月13日から配信</a></li>
-<li><a href="https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7?ign-itscg=MC_20000&amp;ign-itsct=atvp_brand_omd&amp;mttn3pid=Google%20AdWords&amp;mttnagencyid=a5e&amp;mttncc=US&amp;mttnsiteid=143238&amp;mttnsubad=OUS2019805_1-516299333508-c&amp;mttnsubkw=79970523513__8kL2TQn6_&amp;mttnsubplmnt=">For All Mankind | Apple TV+</a></li>
+<li><a href="https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7?ign-itscg=MC_20000&ign-itsct=atvp_brand_omd&mttn3pid=Google%20AdWords&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=OUS2019805_1-516299333508-c&mttnsubkw=79970523513__8kL2TQn6_&mttnsubplmnt=">For All Mankind | Apple TV+</a></li>
 <li><a href="https://www.youtube.com/watch?v=oZbCe38mnu0">#3延長編!ドラクエ３のデバッグしてたら新バグ発生方法見つけた</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B018RPXNU8/?tag=bulknews-22">しまなみ誰そ彼</a></li>
 <li><a href="https://chainsawman.dog/">アニメ『チェンソーマン』</a></li>
@@ -1847,7 +1908,7 @@
 <li><a href="https://www.amazon.co.jp/gp/video/detail/B077BSPRK6/ref=atv_dp_amz_det_c_Z0r2A3_1_1">君の膵臓をたべたい</a></li>
 <li><a href="https://www.amazon.co.jp/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%8C%E5%86%B7%E3%82%81%E3%81%AA%E3%81%84%E3%81%86%E3%81%A1%E3%81%AB-%E6%9C%89%E6%9D%91%E6%9E%B6%E7%B4%94/dp/B07P8J99SX">コーヒーが冷めないうちに</a></li>
 <li><a href="https://www.amazon.co.jp/gp/video/detail/B084GF8CBM/">マスカレード・ホテル</a></li>
-<li><a href="https://www.amazon.co.jp/500%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E5%A4%A2%E3%81%AE%E6%9D%9F-%E5%AD%97%E5%B9%95%E7%89%88-%E3%83%80%E3%82%B3%E3%82%BF%E3%83%BB%E3%83%95%E3%82%A1%E3%83%8B%E3%83%B3%E3%82%B0/dp/B07NZHP666/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;crid=38HWJUTBOHDSR&amp;dchild=1&amp;keywords=500%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E5%A4%A2%E3%81%AE%E6%9D%9F&amp;qid=1617602882&amp;s=instant-video&amp;sprefix=500%2Cinstant-video%2C177&amp;sr=1-1">500ページの夢の束(字幕版)</a></li>
+<li><a href="https://www.amazon.co.jp/500%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E5%A4%A2%E3%81%AE%E6%9D%9F-%E5%AD%97%E5%B9%95%E7%89%88-%E3%83%80%E3%82%B3%E3%82%BF%E3%83%BB%E3%83%95%E3%82%A1%E3%83%8B%E3%83%B3%E3%82%B0/dp/B07NZHP666/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=38HWJUTBOHDSR&dchild=1&keywords=500%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E5%A4%A2%E3%81%AE%E6%9D%9F&qid=1617602882&s=instant-video&sprefix=500%2Cinstant-video%2C177&sr=1-1">500ページの夢の束(字幕版)</a></li>
 <li><a href="https://www.amazon.co.jp/%E8%A8%98%E6%86%B6%E3%81%AB%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%EF%BC%81-%E4%B8%AD%E4%BA%95%E8%B2%B4%E4%B8%80/dp/B087MXW77F">記憶にございません！</a></li>
 <li><a href="https://www.rottentomatoes.com/">Rotten Tomatoes</a></li>
 <li><a href="https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7">For All Mankind | Apple TV+</a></li>
@@ -1997,7 +2058,7 @@
         <title>298: Functional Programming Is the Future (naan)</title>
         <description><![CDATA[ <p>Kazuho Okui さんをゲストに迎えて、ポッドキャスト、ニューヨーク暮らし、写真アプリ、ニュース、Hotwire などについて話しました。</p>
 <h3>Show Notes</h3><ul>
-<li><a href="https://www.youtube.com/watch?v=5YRn41OnfPE&amp;feature=youtu.be">Steve Jobs Stories</a></li>
+<li><a href="https://www.youtube.com/watch?v=5YRn41OnfPE&feature=youtu.be">Steve Jobs Stories</a></li>
 <li><a href="https://techcrunch.com/2021/02/03/spotify-hints-toward-plans-for-podcast-subscriptions-a-la-carte-payments/">Spotify plans for podcast subscriptions</a></li>
 <li><a href="https://rebuild.fm/supporter/">Rebuild: Supporter</a></li>
 <li><a href="https://developer.apple.com/sign-in-with-apple/">Sign in with Apple - Apple Developer</a></li>
@@ -2110,7 +2171,7 @@
 <li><a href="https://www.bloomberg.com/news/articles/2021-02-03/jeff-bezos-steps-down-heralding-new-era-for-amazon">Jeff Bezos Steps Down as CEO, Heralding New Era for Amazon</a></li>
 <li><a href="https://twitter.com/ankithharathi/status/1357133234803535872">Who is Andy Jassy</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Mason_%28Perl%29">Mason (Perl)</a></li>
-<li><a href="https://archive.seattletimes.com/archive/?date=20040418&amp;slug=geniusal18">The problem solver: Al Vermeulen</a></li>
+<li><a href="https://archive.seattletimes.com/archive/?date=20040418&slug=geniusal18">The problem solver: Al Vermeulen</a></li>
 <li><a href="https://www.infoq.com/news/2021/01/elastic-aws-open-source/">Elastic Changes Licences for Elasticsearch and Kibana: AWS Forks Both</a></li>
 <li><a href="https://www.elastic.co/blog/licensing-change">Doubling down on open, Part II | Elastic Blog</a></li>
 <li><a href="https://drewdevault.com/2021/01/19/Elasticsearch-does-not-belong-to-Elastic.html">Elasticsearch does not belong to Elastic</a></li>
@@ -2337,7 +2398,7 @@
 <li><a href="https://www.theverge.com/2020/12/18/22189450/microsoft-arm-processors-chips-servers-surface-report">Microsoft reportedly designing its own ARM-based chips for servers and Surface PCse</a></li>
 <li><a href="https://techcrunch.com/2020/12/18/troubles-at-chinas-biggest-chipmaker-smic/">Troubles rise for China’s biggest chipmaker SMIC</a></li>
 <li><a href="https://www.reuters.com/article/usa-biden-tai/bidens-trade-nominee-has-family-roots-in-both-taiwan-and-china-idUSL1N2IR2OY">Biden&#39;s trade nominee has family roots in both Taiwan and China</a></li>
-<li><a href="https://stadia.com/link/referrals?si_rid=6851071792054686556&amp;si_rt=1">Stadia</a></li>
+<li><a href="https://stadia.com/link/referrals?si_rid=6851071792054686556&si_rt=1">Stadia</a></li>
 <li><a href="https://plusstyle.jp/original/">+Style ORIGINAL</a></li>
 <li><a href="https://homebridge.io/">Homebridge</a></li>
 <li><a href="https://www.amazon.co.jp/Philips-Hue-%E3%83%92%E3%83%A5%E3%83%BC-%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC-%E4%BA%BA%E6%84%9F%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/dp/B076ZFF1KR/?tag=bulknews-22">Philips Hueモーションセンサー</a></li>
@@ -2400,7 +2461,7 @@
 <li><a href="http://openlab.jp/skk/index-j.html">SKK</a></li>
 <li><a href="https://github.com/codefirst/aquaskk">Aquaskk</a></li>
 <li><a href="https://www.theverge.com/2020/12/17/22188007/sony-cyberpunk-2077-removed-playstation-store-full-refunds-policy">Sony is pulling Cyberpunk 2077 from the PlayStation Store and offering full refunds</a></li>
-<li><a href="https://stadia.com/link/referrals?si_rid=6851071792054686556&amp;si_rt=1">Stadia</a></li>
+<li><a href="https://stadia.com/link/referrals?si_rid=6851071792054686556&si_rt=1">Stadia</a></li>
 <li><a href="https://www.theverge.com/2020/12/7/22162574/google-stadia-opens-youtube-livestream-feature-december-8">Google Stadia will let all users livestream games directly to YouTube</a></li>
 <li><a href="https://www.formula1.com/en/latest/article.watch-the-story-of-george-russells-dramatic-mercedes-debut-in-the-sakhir-gp.tyNBYhhMco1JQzAncuftA.html">The story of George Russell&#39;s dramatic Mercedes debut in the Sakhir Grand Prix</a></li>
 <li><a href="https://www.formula1.com/en/latest/article.it-ignited-the-competitive-spirit-says-alonso-after-posting-fastest-time-in.35ih4HLNFKBdiqiBvMNpTq.html">‘It ignited the competitive spirit’ says Alonso after posting fastest time in Abu Dhabi test</a></li>
@@ -2762,7 +2823,7 @@
 <li><a href="https://github.com/covidgreen/covid-green-app">covidgreen/covid-green-app</a></li>
 <li><a href="https://www.covidshield.app/">COVID Shield</a></li>
 <li><a href="https://www.theverge.com/2020/9/1/21410281/apple-google-coronavirus-exposure-notification-contact-tracing-app-system">Apple and Google to simplify exposure notification with new app system</a></li>
-<li><a href="https://2020census.gov/?cid=20003:census%202020:sem.ga:p:dm:en:&amp;utm_source=sem.ga&amp;utm_medium=p&amp;utm_campaign=dm:en&amp;utm_content=20003&amp;utm_term=census%202020">Take the 2020 Census | U.S. Census Bureau</a></li>
+<li><a href="https://2020census.gov/?cid=20003:census%202020:sem.ga:p:dm:en:&utm_source=sem.ga&utm_medium=p&utm_campaign=dm:en&utm_content=20003&utm_term=census%202020">Take the 2020 Census | U.S. Census Bureau</a></li>
 <li><a href="https://launchnightin.withgoogle.com/en/">Gogole: Launch Night In</a></li>
 <li><a href="https://www.theverge.com/2020/9/30/21492549/google-tv-app-play-movies-name-change-chromecast">The Google Play Movies &amp; TV Android app is now called Google TV</a></li>
 <li><a href="https://www.theverge.com/2020/10/1/21496666/xcloud-microsoft-xbox-games-pass-chromecast-with-google-tv-stadia-streaming">New Chromecast works as a cheap but unsupported xCloud streamer</a></li>
@@ -2824,7 +2885,7 @@
 <li><a href="https://apps.apple.com/us/app/widgetsmith/id1523682319">Widgetsmith on the App Store</a></li>
 <li><a href="https://www.relay.fm/radar/201">Under the Radar #201: Widgetsmith - Relay FM</a></li>
 <li><a href="https://www.macrumors.com/2020/09/24/apple-band-only-solo-loop-returns/">Apple Now Allowing Band-Only Returns For Ill-Fitting Solo Loop</a></li>
-<li><a href="https://www.youtube.com/watch?v=pDvy9Qjky2U&amp;t=1s">Apple Watch 何がいいの？ みんなの質問に答えます！</a></li>
+<li><a href="https://www.youtube.com/watch?v=pDvy9Qjky2U&t=1s">Apple Watch 何がいいの？ みんなの質問に答えます！</a></li>
 <li><a href="https://us.amazfit.com/products/amazfit-zenbuds">Amazfit ZenBuds</a></li>
 <li><a href="https://www.bose.com/en_us/products/wellness/noise_masking_sleepbuds/noise-masking-sleepbuds-ii.html#v=noise_masking_sleepbuds_ii_white">Noise-masking Sleepbuds with Alarm | Bose</a></li>
 <li><a href="https://www.oculus.com/quest-2/">Oculus Quest 2</a></li>
@@ -2884,7 +2945,7 @@
 <li><a href="https://www.theverge.com/2020/9/13/21435507/nvidia-acquiring-arm-40-billion-chips-ai-deal">Nvidia is acquiring Arm for $40 billion</a></li>
 <li><a href="https://www.facebookconnect.com/en">Facebook Connect</a></li>
 <li><a href="https://www.youtube.com/watch?v=sXmY26pOE-Y">John Carmack Unscripted Live Keynote</a></li>
-<li><a href="https://www.youtube.com/watch?v=P7mFEGah27c&amp;feature=youtu.be&amp;t=520">John Carmack - Special Horizon Chat || Facebook Connect</a></li>
+<li><a href="https://www.youtube.com/watch?v=P7mFEGah27c&feature=youtu.be&t=520">John Carmack - Special Horizon Chat || Facebook Connect</a></li>
 <li><a href="https://iosdc.jp/2020/">iOSDC Japan 2020</a></li>
 <li><a href="https://www.theverge.com/2020/9/16/21439531/amazon-music-podcasts-prime-titles">Amazon Music now has podcasts</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Grooveshark">Grooveshark</a></li>
@@ -3204,7 +3265,7 @@
 <li><a href="https://www.nagasaki-tabinet.com/ghost_of_tsushima/">Ghost of Tsushima - About Tsushima</a></li>
 <li><a href="https://japansinks2020.com/">日本沈没2020</a></li>
 <li><a href="https://uchubrewing.com/">UCHU BREWING</a></li>
-<li><a href="https://www.sayweee.com/invite_friends/landing?referral_id=7204735&amp;lang=en">Weee! Asian Grocery, Delivery.</a></li>
+<li><a href="https://www.sayweee.com/invite_friends/landing?referral_id=7204735&lang=en">Weee! Asian Grocery, Delivery.</a></li>
 <li><a href="https://www.amazon.co.jp/Anker-PowerWave-Pad-B2C-Iteration/dp/B07YFRDLXG/?tag=bulknews-22">Anker PowerWave Pad Alloy ワイヤレス充電器</a></li>
 <li><a href="https://www.amazon.co.jp/RAVPower-Pioneer-Technology%E6%8E%A1%E7%94%A8%E3%80%91-Switch%E3%81%AA%E3%81%A9%E5%AF%BE%E5%BF%9C-RP-PC133/dp/B0868P1FBP/?tag=bulknews-22">RAVPower Type C 急速充電器 65W USB-A + USB-C</a></li>
 <li><a href="https://store.amplifi.com/products/amplifi-hd-mesh-router">AmpliFi HD Mesh Router</a></li>
@@ -3556,7 +3617,7 @@
 <li><a href="https://www.fastly-debug.com/">Fastly Debug App</a></li>
 <li><a href="https://dropbox-debug.com/">Dropbox Debug</a></li>
 <li><a href="https://featureflags.io/canary-testing/">Canary Testing – Feature Flags, Toggles, Controls</a></li>
-<li><a href="https://fi.google.com/about/?rc=XD15J3&amp;utm_source=Website&amp;utm_campaign=Referral&amp;utm_medium=banner+codes">Google Fi</a></li>
+<li><a href="https://fi.google.com/about/?rc=XD15J3&utm_source=Website&utm_campaign=Referral&utm_medium=banner+codes">Google Fi</a></li>
 <li><a href="https://daringfireball.net/linked/2020/05/19/rogan-spotify">‘Joe Rogan Experience’ Podcast Will Be Exclusive to Spotify</a></li>
 <li><a href="https://rebuild.fm/supporter/">Rebuild: Supporter</a></li>
 <li><a href="https://dithering.fm/">Dithering</a></li>
@@ -3662,8 +3723,8 @@
 <li><a href="https://www.amazon.com/Japanese-Natto-Starter-Spores-Nattomoto/dp/B07DK2D289">Japanese Natto Starter Spores (Nattomoto)</a></li>
 <li><a href="https://www.gsmarena.com/iphone_se_2020_appears_on_antutu_reveals_underclocked_chipset-news-42826.php">iPhone SE (2020) AnTuTu scores reveal underclocked chipset</a></li>
 <li><a href="https://www.theverge.com/2020/4/16/21223943/iphone-google-fi-activate-esim-dual-sim-ios">You can now activate Google Fi via eSIM on newer iPhones</a></li>
-<li><a href="https://www.mintmobile.com/?utm_campaign=Refer-a-friend%20Landing%20Page&amp;utm_content=personal_url&amp;utm_medium=referral&amp;utm_source=Friendbuy&amp;fbuy_ref_code=ncRdC">Mint Mobile</a></li>
-<li><a href="https://fi.google.com/about/?rc=XD15J3&amp;utm_source=Website&amp;utm_campaign=Referral&amp;utm_medium=banner+codes">Google Fi</a></li>
+<li><a href="https://www.mintmobile.com/?utm_campaign=Refer-a-friend%20Landing%20Page&utm_content=personal_url&utm_medium=referral&utm_source=Friendbuy&fbuy_ref_code=ncRdC">Mint Mobile</a></li>
+<li><a href="https://fi.google.com/about/?rc=XD15J3&utm_source=Website&utm_campaign=Referral&utm_medium=banner+codes">Google Fi</a></li>
 <li><a href="https://www.theverge.com/2020/5/7/21249346/amd-ryzen-pro-4000-business-processor-security-release">AMD launches Ryzen Pro 4000 series to take on Intel’s vPro</a></li>
 <li><a href="https://pc.watch.impress.co.jp/docs/news/1251244.html">「Radeon RX 5600 XT」がBIOS更新でメモリ帯域が17%向上</a></li>
 <li><a href="https://venturebeat.com/2020/04/30/intel-launches-s-series-cpus-primed-for-gamers/">Intel launches S-Series CPUs primed for gamers</a></li>
@@ -3674,7 +3735,7 @@
 <li><a href="https://www.vulture.com/2020/05/alexandria-ocasio-cortez-is-getting-into-animal-crossing.html">Alexandria Ocasio-Cortez Is Getting Into ‘Animal Crossing’</a></li>
 <li><a href="https://www.bbc.com/news/amp/world-us-canada-52457805">Pentagon releases UFO videos for the record</a></li>
 <li><a href="https://twitter.com/finalfantasyvii/status/1138890277534478337">FINAL FANTASY VII REMAKE: “We anticipate development of the second game to be more efficient&quot;</a></li>
-<li><a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D/dp/B087N4H688/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;dchild=1&amp;keywords=upload&amp;qid=1589181609&amp;sr=8-1">アップロード</a></li>
+<li><a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D/dp/B087N4H688/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=upload&qid=1589181609&sr=8-1">アップロード</a></li>
 <li><a href="https://www.netflix.com/title/80097140">Altered Carbon</a></li>
 <li><a href="https://www.netflix.com/title/81030224">Ghost in the Shell: SAC_2045</a></li>
 <li><a href="https://www.playstation.com/en-us/games/the-last-of-us-part-ii-ps4/">The Last of Us Part II</a></li>
@@ -3714,7 +3775,7 @@
 <li><p><a href="https://twitter.com/miyagawa/status/1256502711853256704">TBSラジオ「見事なお仕事」で #rebuildfm が紹介された</a></p></li>
 <li><p><a href="https://japanese.engadget.com/jp-2020-04-21-zoom.html">Zoom飲みで遊ぶ「オンライン人狼」</a></p></li>
 <li><p><a href="https://www.youtube.com/channel/UC9UI_fNxTbfEJImAg5Y7pOw">レインボー コントチャンネル - YouTube</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=HTk2wqBxVfY&amp;feature=youtu.be">短編映画『カメラを止めるな！リモート大作戦！』本編</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=HTk2wqBxVfY&feature=youtu.be">短編映画『カメラを止めるな！リモート大作戦！』本編</a></p></li>
 <li><p><a href="https://www.netflix.com/title/81115994">Tiger King</a></p></li>
 <li><p><a href="https://www.hbo.com/the-jinx-the-life-and-deaths-of-robert-durst">The Jinx: The Life and Deaths of Robert Durst</a></p></li>
 <li><p><a href="https://www.netflix.com/title/80000770">Making A Murderer</a></p></li>
@@ -3783,7 +3844,7 @@
 <li><a href="https://www.apple.com/shop/product/MXQT2LL/A/magic-keyboard-for-ipad-pro-11%E2%80%91inch-2nd-generation-us-english">Magic Keyboard for iPad Pro 11‑inch (2nd generation)</a></li>
 <li><a href="https://www.youtube.com/watch?v=V9vH9ODbC28">iPad Pro用 Magic Keyboard がやってきた！前編</a></li>
 <li><a href="https://blog.hubspot.com/marketing/scrolljacking-the-good-the-bad-the-ugly">Scrolljacking: The Good, The Bad, and The Ugly</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2020-04-23/apple-aims-to-sell-macs-with-its-own-chips-starting-in-2021?utm_medium=social&amp;utm_content=tech&amp;utm_campaign=socialflow-organic&amp;utm_source=twitter&amp;cmpid=socialflow-twitter-business&amp;cmpid%3D=socialflow-twitter-tech">Apple Aims to Sell Macs With Its Own Chips Starting in 2021</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2020-04-23/apple-aims-to-sell-macs-with-its-own-chips-starting-in-2021?utm_medium=social&utm_content=tech&utm_campaign=socialflow-organic&utm_source=twitter&cmpid=socialflow-twitter-business&cmpid%3D=socialflow-twitter-tech">Apple Aims to Sell Macs With Its Own Chips Starting in 2021</a></li>
 <li><a href="https://www.apple.com/rosetta/index.html">Apple - Rosetta</a></li>
 <li><a href="https://apple.stackexchange.com/questions/363337/how-to-find-cause-of-high-kernel-task-cpu-usage/363933">macos - How to find cause of high kernel_task cpu usage?</a></li>
 <li><a href="https://scrapbox.io/basuke/MacBook_Pro_tempature_quick_test">MacBook Pro tempature quick test - Basuke&#39;s Space</a></li>
@@ -3954,7 +4015,7 @@
 <li><a href="https://www.eurogamer.net/articles/digitalfoundry-2020-inside-xbox-series-x-full-specs">Inside Xbox Series X: the full specs</a></li>
 <li><a href="https://www.youtube.com/watch?v=7Fjn4GRw8qE">Xbox Series X Hands On, Gameplay &amp; Controller!</a></li>
 <li><a href="https://news.xbox.com/en-us/2020/03/16/xbox-series-x-tech/">Xbox Series X: A Closer Look at the Technology Powering the Next Generation</a></li>
-<li><a href="https://www.youtube.com/watch?v=ph8LyNIT9sg&amp;feature=emb_title">The Road to PS5</a></li>
+<li><a href="https://www.youtube.com/watch?v=ph8LyNIT9sg&feature=emb_title">The Road to PS5</a></li>
 <li><a href="https://www.eurogamer.net/articles/digitalfoundry-2019-hands-on-with-minecraft-rtx-path-tracing">Hands on with Minecraft RTX</a></li>
 <li><a href="https://www.gamesradar.com/gamestop-closing-over-300-stores-this-year/">Gamestop closing over 300 stores this year</a></li>
 <li><a href="http://shirobako-movie.com/">劇場版『SHIROBAKO』</a></li>
@@ -4138,7 +4199,7 @@
 <li><a href="https://www.theverge.com/2020/1/27/21083616/ghost-in-the-shell-sac-2045-netflix-trailer-first">Watch Netflix’s first full Ghost in the Shell trailer - The Verge</a></li>
 <li><a href="https://www.netflix.com/title/80204890">FORMULA 1 栄光のグランプリ</a></li>
 <li><a href="https://www.netflix.com/title/81035279">FYRE</a></li>
-<li><a href="http://shop.backjoy-jp.com/?mode=cate&amp;cbid=1262500&amp;csid=0">Backjoy</a></li>
+<li><a href="http://shop.backjoy-jp.com/?mode=cate&cbid=1262500&csid=0">Backjoy</a></li>
 <li><a href="https://sakamotohouse.com/SHOP/149BS.html">バランス シナジー</a></li>
 </ul>
  ]]></description>
@@ -4230,7 +4291,7 @@
 <li><a href="https://www.pcworld.com/article/3512619/intel-confirms-tiger-lake-is-the-next-intel-core-processor-you-need-to-care-about.html">Intel confirms &#39;Tiger Lake&#39;</a></li>
 <li><a href="https://newsroom.intel.com/biography/raja-m-koduri/#gs.uqixck">Intel: Raja M. Koduri</a></li>
 <li><a href="https://www.theverge.com/2020/1/6/21054244/intel-dg1-discrete-gpu-first-announcement-ces-2020">Intel announces its first discrete DG1 GPU</a></li>
-<li><a href="https://www.youtube.com/watch?v=DkaUaC6vJZk&amp;t=284">Intel event at CES 2020 in 9 minutes</a></li>
+<li><a href="https://www.youtube.com/watch?v=DkaUaC6vJZk&t=284">Intel event at CES 2020 in 9 minutes</a></li>
 <li><a href="https://www.theverge.com/2020/1/21/21075200/podcast-amd-ceo-lisa-su-interview-ryzen-chips-ces-2020-vergecast-intel">AMD CEO Dr. Lisa Su talks new Ryzen 4000 chips and out-performing Intel</a></li>
 <li><a href="https://www.extremetech.com/extreme/304022-tsmc-will-kick-off-5nm-iphone-soc-production-in-q2-2020">TSMC Will Kick Off 5nm iPhone SoC Production in Q2 2020</a></li>
 <li><a href="https://www.techspot.com/news/83711-broadcom-inks-new-15-billion-deal-apple-supply.html">Broadcom inks new $15 billion deal with Apple to supply wireless chips through mid-2023</a></li>
@@ -4419,7 +4480,7 @@
 <li><a href="https://riscv.org/">RISC-V Foundation</a></li>
 <li><a href="https://www.itmedia.co.jp/news/articles/1912/02/news054.html">Intel、「Qualcommの不正な競争障壁のせいでモデム事業をAppleに売却して大損」と主張</a></li>
 <li><a href="https://aws.amazon.com/ec2/graviton/">AWS Graviton - Amazon Web Services</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&amp;hl=en_US">NFC Tools</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&hl=en_US">NFC Tools</a></li>
 <li><a href="https://www.amazon.co.jp/%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4-NFC%E3%82%BF%E3%82%B0-10%E6%9E%9A%E5%85%A5%E3%82%8A-%E7%99%BD-MM-NFCT/dp/B00GXSGL5G/?tag=bulknews-22">サンワサプライ NFCタグ(10枚入り) </a></li>
 <li><a href="https://www.amazon.co.jp/dp/B07WHSZMFC/?tag=bulknews-22">なめらかな世界と、その敵 | 伴名 練n</a></li>
 <li><a href="https://note.com/urabe_ryray/n/nd1370eb8d534">テッド・チャンの紹介・解説｜卜部理玲</a></li>
@@ -4612,7 +4673,7 @@
         <title>251: To Tim Apple (yuka)</title>
         <description><![CDATA[ <p>Yuka Ohishi さんをゲストに迎えて、Pixel 4, iPhone, MacBook Pro, Andy Rubin, WeWork, Adobe などについて話しました。</p>
 <h3>Show Notes</h3><ul>
-<li><a href="https://airnow.gov/index.cfm?action=airnow.local_city&amp;cityid=317">AIRNow - San Francisco, CA Air Quality</a></li>
+<li><a href="https://airnow.gov/index.cfm?action=airnow.local_city&cityid=317">AIRNow - San Francisco, CA Air Quality</a></li>
 <li><a href="https://store.google.com/us/product/pixel_4">Pixel 4</a></li>
 <li><a href="https://www.dxomark.com/google-pixel-4-camera-review/">Google Pixel 4 camera review - DXOMARK</a></li>
 <li><a href="https://www.androidpolice.com/2019/10/20/google-explains-why-it-doesnt-support-4k-video-recording-at-60fps/">Google explains why it doesn&#39;t support 4K video recording at 60fps on Pixels</a></li>
@@ -4632,7 +4693,7 @@
 <li><a href="https://www.youtube.com/user/unboxtherapy">Unbox Therapy</a></li>
 <li><a href="https://www.youtube.com/watch?v=7USNL5Mqnrk">省スペース！YouTuber デスク作ってみた</a></li>
 <li><a href="https://www.youtube.com/watch?v=s3bD2pD5S6A">ぼくのYouTube Live配信機材を紹介します！前編</a></li>
-<li><a href="https://www.youtube.com/watch?v=wKLR5QupRYI&amp;t=834s">これで490円って…ウソだろ！？めちゃくちゃ使える衝撃のサンプラーアプリ「Koala Sampler」</a></li>
+<li><a href="https://www.youtube.com/watch?v=wKLR5QupRYI&t=834s">これで490円って…ウソだろ！？めちゃくちゃ使える衝撃のサンプラーアプリ「Koala Sampler」</a></li>
 <li><a href="https://www.zoom.co.jp/products/production-recording/live-sound-recording/zoom-livetrak-l-8/">Zoom LiveTrak L-8</a></li>
 <li><a href="https://www.amazon.co.jp/SHURE-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9-USB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9-X2U-%E3%80%90%E5%9B%BD%E5%86%85%E6%AD%A3%E8%A6%8F%E5%93%81%E3%80%91/dp/B001PPXFAG/?tag=bulknews-22">SHURE X2U</a></li>
 <li><a href="https://www.wired.com/story/andy-rubins-essential-gem-google-android/">Andy Rubin’s Essential Gem Isn’t Just a New Phone</a></li>
@@ -4839,7 +4900,7 @@
 <li><a href="https://venmo.com/">Venmo</a></li>
 <li><a href="https://www.mofa.go.jp/mofaj/toko/todoke/zairyu/index.html">「在留届」をご存知ですか？ ｜ 外務省</a></li>
 <li><a href="https://www.ratebeer.com/beer/ballast-point-sculpin-ipa/50008/">Sculpin IPA</a></li>
-<li><a href="https://www.amazon.com/Digital-Densitometer-Concentration-Refractometer-Portable/dp/B073RFC6W9/ref=sr_1_8?keywords=refractometer+coffee&amp;qid=1567572709&amp;s=gateway&amp;sr=8-8">Coffee Concentration Refractometer</a></li>
+<li><a href="https://www.amazon.com/Digital-Densitometer-Concentration-Refractometer-Portable/dp/B073RFC6W9/ref=sr_1_8?keywords=refractometer+coffee&qid=1567572709&s=gateway&sr=8-8">Coffee Concentration Refractometer</a></li>
 <li><a href="https://fortune.com/2011/09/23/blue-bottle-the-best-coffee-you-may-ever-drink/">Blue Bottle: The best coffee you may ever drink</a></li>
 <li><a href="https://android-developers.googleblog.com/2019/09/welcoming-android-10.html">Android Developers Blog: Welcoming Android 10!</a></li>
 <li><a href="https://av.watch.impress.co.jp/docs/topic/424700.html">11年発売のBD機器はアナログ出力をSD解像度に制限</a></li>
@@ -4899,8 +4960,8 @@
 <li><a href="https://www.blog.google/products/pixel/new-features-pixel4/">(Don’t) hold the phone: new features coming to Pixel 4</a></li>
 <li><a href="https://atap.google.com/soli/">Project Soli</a></li>
 <li><a href="https://medium.com/@fumiakiy/levis-commuter-trucker-jacket-with-jacquard-by-google-f37ae5a4cde5#a9a6">Levi’s Commuter Trucker Jacket with Jacquard by Google を手に入れた</a></li>
-<li><a href="https://www.mintmobile.com/?utm_campaign=Refer-a-friend%20Landing%20Page&amp;utm_content=personal_url&amp;utm_medium=referral&amp;utm_source=Friendbuy&amp;fbuy_ref_code=ncRdC">Mint Mobile</a></li>
-<li><a href="https://fi.google.com/about/?rc=XD15J3&amp;utm_source=Website&amp;utm_campaign=Referral&amp;utm_medium=banner+codes">Google Fi</a></li>
+<li><a href="https://www.mintmobile.com/?utm_campaign=Refer-a-friend%20Landing%20Page&utm_content=personal_url&utm_medium=referral&utm_source=Friendbuy&fbuy_ref_code=ncRdC">Mint Mobile</a></li>
+<li><a href="https://fi.google.com/about/?rc=XD15J3&utm_source=Website&utm_campaign=Referral&utm_medium=banner+codes">Google Fi</a></li>
 <li><a href="https://goku-nokimochi.com/udon/">睡眠用うどん</a></li>
 <li><a href="https://casper.com/">Casper</a></li>
 <li><a href="https://www.eater.com/2019/8/1/20750912/doordash-buys-caviar-food-delivery-app-410-million">DoorDash Buys Rival Food Delivery App Caviar From Square</a></li>
@@ -4947,7 +5008,7 @@
 <li><a href="https://ec.nintendo.com/JP/ja/titles/70010000009922">UNDERTALE</a></li>
 <li><a href="https://ec.nintendo.com/JP/ja/titles/70010000017427">DELTARUNE Chapter 1</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B07TKGGZ47/?tag=bulknews-22">ソニー WF-1000XM3</a></li>
-<li><a href="https://www.amazon.com/gp/product/B07SQVX22T?ie=UTF8&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B07SQVX22T&amp;linkCode=shr&amp;tag=bulknewstypep-20&amp;linkId=2HDYPDJYIYVXGQ62&amp;keywords=mebuyz+tws+plus&amp;qid=1565156152&amp;s=electronics&amp;sr=1-2">MEBUYZ Bluetooth 5.0 Headphones</a></li>
+<li><a href="https://www.amazon.com/gp/product/B07SQVX22T?ie=UTF8&camp=213733&creative=393177&creativeASIN=B07SQVX22T&linkCode=shr&tag=bulknewstypep-20&linkId=2HDYPDJYIYVXGQ62&keywords=mebuyz+tws+plus&qid=1565156152&s=electronics&sr=1-2">MEBUYZ Bluetooth 5.0 Headphones</a></li>
 <li><a href="https://www.qualcomm.com/solutions/voice-and-music/features/truewireless">Qualcomm TrueWireless Stereo</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B07L5GH2YP?tag=bulknews-22">Kindle Oasis</a></li>
 <li><a href="https://www.amazon.co.jp/%E4%B8%89%E4%BD%93-%E5%8A%89-%E6%85%88%E6%AC%A3-ebook/dp/B07TS9XTSD/?tag=bulknews-22">三体 | 劉 慈欣</a></li>
@@ -5051,7 +5112,7 @@
         <description><![CDATA[ <p>Mariko Kosaka さんをゲストに迎えて、7pay, 二段階認証、KaiOS, アクセシビリティ、npm, Chrome, Ravelry などについて話しました。</p>
 <h3>Show Notes</h3><ul>
 <li><a href="https://www.itmedia.co.jp/news/articles/1907/04/news079.html">7payのパスワード再設定に脆弱性、運営元が対策</a></li>
-<li><a href="https://www.youtube.com/watch?v=vsMydMDi3rI&amp;t=1m20s">Frank Abagnale: &quot;Catch Me If You Can&quot; | Talks at Google</a></li>
+<li><a href="https://www.youtube.com/watch?v=vsMydMDi3rI&t=1m20s">Frank Abagnale: &quot;Catch Me If You Can&quot; | Talks at Google</a></li>
 <li><a href="https://www.clippercard.com/ClipperWeb/index.do">Clipper</a></li>
 <li><a href="http://www.plusmb.jp/category/howto/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3">かんたんログイン</a></li>
 <li><a href="https://web.dev/proxx-announce">Introducing PROXX</a></li>
@@ -5284,7 +5345,7 @@
 <li><a href="https://developer.android.com/preview">Android Q Beta</a></li>
 <li><a href="https://9to5google.com/2019/05/10/android-q-fully-gestural-navigation-tips/">Android &#39;Fully Gestural Navigation&#39;</a></li>
 <li><a href="https://www.theverge.com/2019/5/7/18535637/google-assistant-voice-new-faster-search-alarm-update-io-2019">Google’s next version of Assistant will be dramatically faster</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe&amp;hl=en_US">Live Transcribe</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe&hl=en_US">Live Transcribe</a></li>
 <li><a href="https://www.theverge.com/2019/5/7/18528447/google-android-q-live-caption-video-transcription-io-2019">Android Q’s Live Caption feature adds real-time subtitles to any video you watch</a></li>
 <li><a href="https://techcrunch.com/2019/05/07/google-is-bringing-ai-assistant-duplex-to-the-web/">Google is bringing AI assistant Duplex to the web</a></li>
 <li><a href="https://www.digitaltrends.com/computing/browser-bug-can-fill-in-personal-information-in-hidden-fields/">Browser Vulnerability Opens You Up to Autofill-Driven Phishing Attacks</a></li>
@@ -5300,7 +5361,7 @@
 <li><a href="https://www.indiegogo.com/projects/gemini-pda-android-linux-keyboard-mobile-device--2#/">Gemini PDA Android &amp; Linux keyboard mobile device</a></li>
 <li><a href="https://www.indiegogo.com/projects/cosmo-communicator#/">Cosmo Communicator</a></li>
 <li><a href="https://termux.com/">Termux</a></li>
-<li><a href="https://www.amazon.com/dp/B07GBVCZZX/ref=as_li_ss_tl?_encoding=UTF8&amp;psc=1&amp;linkCode=ll1&amp;tag=bulknewstypep-20&amp;linkId=d4f83c3b04b2efe7bde2cf01b9b300ac&amp;language=en_US">Ayjey Series B80 Earbuds</a></li>
+<li><a href="https://www.amazon.com/dp/B07GBVCZZX/ref=as_li_ss_tl?_encoding=UTF8&psc=1&linkCode=ll1&tag=bulknewstypep-20&linkId=d4f83c3b04b2efe7bde2cf01b9b300ac&language=en_US">Ayjey Series B80 Earbuds</a></li>
 <li><a href="https://www.amazon.co.jp/SoundPEATS-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%94%E3%83%BC%E3%83%84-TrueFree-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3-Bluetooth/dp/B07MX7V8XM/?tag=bulknews-22">SoundPEATS TrueFree+</a></li>
 </ul>
  ]]></description>
@@ -5400,7 +5461,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%B0%84%E8%A1%9B%E6%98%9F%E7%A0%B2">反射衛星砲</a></li>
 <li><a href="https://stadia.dev/">Stadia</a></li>
 <li><a href="https://www.theverge.com/2019/4/10/18303661/first-picture-black-hole-sagittarius-event-horizon-telescope">See the first image ever taken of a supermassive black hole</a></li>
-<li><a href="https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like/reading-list?utm_source=facebook.com&amp;utm_medium=social&amp;utm_campaign=tedspread&amp;fbclid=IwAR1SebQqNUZeS2reBwzhDOFeqVPDnHnKN1IWLREzXswvFA9W7_w7TKcLX5Q">Katie Bouman: How to take a picture of a black hole</a></li>
+<li><a href="https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like/reading-list?utm_source=facebook.com&utm_medium=social&utm_campaign=tedspread&fbclid=IwAR1SebQqNUZeS2reBwzhDOFeqVPDnHnKN1IWLREzXswvFA9W7_w7TKcLX5Q">Katie Bouman: How to take a picture of a black hole</a></li>
 <li><a href="https://en.wikipedia.org/wiki/ELIZA">ELIZA</a></li>
 <li><a href="http://kumagi.hatenablog.com/entry/how-i-enter-google">こうしてGoogleに入社した</a></li>
 <li><a href="https://www.levels.fyi/">Levels.fyi - Compare career levels across companies</a></li>
@@ -5449,7 +5510,7 @@
         <description><![CDATA[ <p>Taro Minowa さんをゲストに迎えて、プロダクティビティ、新元号、AirPods, マネジメント、幸せ分析、コロコロコミックなどについて話しました。</p>
 <h3>Show Notes</h3><ul>
 <li><a href="https://rubykaigi.org/2019">RubyKaigi 2019</a></li>
-<li><a href="https://support.google.com/calendar/answer/6285327?co=GENIE.Platform%3DDesktop&amp;hl=en&amp;oco=0">Add reminders in Google Calendar</a></li>
+<li><a href="https://support.google.com/calendar/answer/6285327?co=GENIE.Platform%3DDesktop&hl=en&oco=0">Add reminders in Google Calendar</a></li>
 <li><a href="https://tv.so-net.ne.jp/">テレビ番組表</a></li>
 <li><a href="https://kotobank.jp/word/IEPG-75">IEPG</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ISO_8601">ISO 8601</a></li>
@@ -5727,7 +5788,7 @@
 <li><a href="https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona">The secret lives of Facebook moderators in America</a></li>
 <li><a href="https://twitter.com/yukaohishi/status/1098667620293734400">サンフランシスコの街中にたまにいる「ロボコップ」こちらに向かって来ると結構怖い</a></li>
 <li><a href="https://www.bynorth.com/">Focals by North</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts&amp;hl=en_US">Pocket Casts</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts&hl=en_US">Pocket Casts</a></li>
 <li><a href="https://www.polygon.com/2019/1/17/18187400/netflix-vs-fortnite-hbo-hulu-competition">Netflix says Fortnite is bigger competition than HBO or Hulu</a></li>
 <li><a href="https://www.theverge.com/2019/2/25/18239565/huawei-mate-x-foldable-phone-hands-on-design-mwc-2019">Huawei Mate X hands-on: our foldable future</a></li>
 <li><a href="https://www.theverge.com/circuitbreaker/2019/2/27/18243425/usb-3-2-standard-names-connectivity-cables-innovators-forum">USB 3.2 standard gets new, even more confusing names ahead of its mainstream debut</a></li>
@@ -6033,7 +6094,7 @@
 <li><a href="https://www.loc.gov/programs/web-archiving/about-this-program/">Web Archiving | Library of Congress</a></li>
 <li><a href="https://www.usatoday.com/story/news/politics/onpolitics/2017/05/31/trump-negative-press-covfefe-tweet/102338042/">Covfefe? Donald Trump posts vague, midnight tweet about &#39;negative press covfefe&#39;</a></li>
 <li><a href="https://www.netflix.com/title/80209379">Netflix: Tidying Up</a></li>
-<li><a href="https://www.amazon.com/gp/product/1607749726?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=1607749726&amp;linkCode=shr&amp;tag=bulknewstypep-20&amp;linkId=AID2AEVOKEUEXA3H&amp;pd_rd_i=1607749726&amp;pd_rd_r=ff361acf-1ecf-11e9-8307-3d1db5d50469&amp;pd_rd_w=iGqMZ&amp;pd_rd_wg=IdzoX&amp;pf_rd_p=3f9889ac-6c45-46e8-b515-3af650557207&amp;pf_rd_r=B3B6WG2MQMBXBT8VFRZG&amp;psc=1&amp;refRID=B3B6WG2MQMBXBT8VFRZG">Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up: Marie Kondō</a></li>
+<li><a href="https://www.amazon.com/gp/product/1607749726?ie=UTF8&camp=213733&creative=393185&creativeASIN=1607749726&linkCode=shr&tag=bulknewstypep-20&linkId=AID2AEVOKEUEXA3H&pd_rd_i=1607749726&pd_rd_r=ff361acf-1ecf-11e9-8307-3d1db5d50469&pd_rd_w=iGqMZ&pd_rd_wg=IdzoX&pf_rd_p=3f9889ac-6c45-46e8-b515-3af650557207&pf_rd_r=B3B6WG2MQMBXBT8VFRZG&psc=1&refRID=B3B6WG2MQMBXBT8VFRZG">Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up: Marie Kondō</a></li>
 <li><a href="https://knowyourmeme.com/memes/i-hope-senpai-will-notice-me">I Hope Senpai Will Notice Me</a></li>
 <li><a href="https://qz.com/quartzy/1527584/marie-kondos-interpreter-is-unsung-hero-of-konmari-phenomenon/">Marie Kondo&#39;s interpreter is unsung hero of KonMari phenomenon</a></li>
 <li><a href="https://github.com/tc39/proposal-javascript-standard-library">proposal-javascript-standard-library</a></li>
@@ -6147,7 +6208,7 @@
 <li><a href="https://coronadobrewing.com/">Coronado Brewing Company | Stay Coastal</a></li>
 <li><a href="http://rebuild.fm/221/">Rebuild: 221: Something&#39;s Plugged Into His iPad (basuke)</a></li>
 <li><a href="https://www.theverge.com/2018/11/28/18116333/google-project-fi-apple-iphone">Here’s how Google Fi will work with iPhones</a></li>
-<li><a href="https://fi.google.com/about/?rc=XD15J3&amp;utm_source=Website&amp;utm_campaign=Referral&amp;utm_medium=banner+codes">Google Fi</a></li>
+<li><a href="https://fi.google.com/about/?rc=XD15J3&utm_source=Website&utm_campaign=Referral&utm_medium=banner+codes">Google Fi</a></li>
 <li><a href="https://products.office.com/en-us/onenote/digital-note-taking-app">OneNote</a></li>
 <li><a href="https://www.notion.so/">Notion</a></li>
 <li><a href="https://github.com/jiahaog/nativefier">nativefier: Make any web page a desktop application</a></li>
@@ -6265,7 +6326,7 @@
 <li><a href="https://www.theverge.com/2018/12/12/18137401/intel-foveros-3d-chip-stacking-10nm-roadmap-future">Intel unveils Foveros 3D chip stacking and new 10nm ‘chiplets’</a></li>
 <li><a href="https://aws.amazon.com/jp/blogs/news/new-ec2-instances-a1-powered-by-arm-based-aws-graviton-processors/">新機能 – EC2 A1インスタンス – ARMベースのAWS Gravitonプロセッサーを搭載</a></li>
 <li><a href="http://www.extremetech.com/computing/198140-amazon-buys-secretive-chip-maker-annapurna-labs-for-350-million">Amazon buys secretive chip maker Annapurna Labs for $350 million</a></li>
-<li><a href="https://www.google.com/search?q=%E3%82%B5%E3%82%A4%E3%83%9C%E3%83%BC%E3%82%B0007&amp;source=lnms&amp;tbm=isch">サイボーグ007</a></li>
+<li><a href="https://www.google.com/search?q=%E3%82%B5%E3%82%A4%E3%83%9C%E3%83%BC%E3%82%B0007&source=lnms&tbm=isch">サイボーグ007</a></li>
 <li><a href="http://www.jisaka.com/archives/29830695.html">藤井聡太七段「今はRyzenを使っている。Threadripperにすれば良かった」</a></li>
 <li><a href="https://sa2018.siggraph.org/en/">SIGGRAPH Asia 2018</a></li>
 <li><a href="https://cash.app/">Cash App </a></li>
@@ -6320,7 +6381,7 @@
 <li><a href="https://ec.nintendo.com/JP/ja/titles/70010000003090">Wizard of Legend</a></li>
 <li><a href="https://www.youtube.com/watch?v=f72b2WVi1PI">弟者,兄者の「Wizard Of Legend」</a></li>
 <li><a href="https://www.youtube.com/channel/UCkIndoFtfnkfiaduy94rK5Q">としょ子 games</a></li>
-<li><a href="https://www.youtube.com/red?gl=JP&amp;hl=ja">YouTube Premium</a></li>
+<li><a href="https://www.youtube.com/red?gl=JP&hl=ja">YouTube Premium</a></li>
 </ul>
  ]]></description>
         <pubDate>Tue, 11 Dec 2018 19:00:00 -0800</pubDate>
@@ -6405,12 +6466,12 @@
 <li><a href="https://www.microsoft.com/en-us/p/surface-laptop-2/8xqjkk3dd91b?activetab=pivot%3aoverviewtab">Meet the Surface Laptop 2</a></li>
 <li><a href="https://www.apple.com/macbook-air/">MacBook Air</a></li>
 <li><a href="https://www.apple.com/mac-mini/">Mac mini </a></li>
-<li><a href="https://secure.backblaze.com/r_invite.htm?email=&amp;bznetid=17829508531541478163812">Backblaze</a></li>
+<li><a href="https://secure.backblaze.com/r_invite.htm?email=&bznetid=17829508531541478163812">Backblaze</a></li>
 <li><a href="https://www.macrumors.com/2018/08/28/airport-express-firmware-airplay-2/">Apple Releases Firmware Update for AirPort Express With AirPlay 2 Support</a></li>
 <li><a href="https://www.tonymacx86.com/buyersguide/building-a-customac-hackintosh-the-ultimate-buyers-guide/">Building a CustoMac Hackintosh</a></li>
 <li><a href="https://www.apple.com/ipad-pro/">iPad Pro</a></li>
 <li><a href="https://www.theverge.com/circuitbreaker/2018/10/25/18022106/anker-powerport-atom-pd-1-27w-usb-c-brick-gallium-nitride">Anker’s minuscule 27W USB-C brick looks like the charging future we’ve been promised</a></li>
-<li><a href="https://remarkable.com/?utm_expid=.5bqAa7_HTDSljzSzmPvXTw.0&amp;utm_referrer=https%3A%2F%2Fwww.google.com%2F">reMarkable | The paper tablet</a></li>
+<li><a href="https://remarkable.com/?utm_expid=.5bqAa7_HTDSljzSzmPvXTw.0&utm_referrer=https%3A%2F%2Fwww.google.com%2F">reMarkable | The paper tablet</a></li>
 <li><a href="https://9to5mac.com/2018/11/01/geekbench-ipad-pro-performance/">Geekbench scores for new iPad Pro surface, rivals 2018 MacBook Pro performance</a></li>
 <li><a href="https://gadgets.ndtv.com/mobiles/news/google-pixel-3-xl-wi-fi-repeater-sharing-functionality-1942985">Google Pixel 3, Pixel 3 XL Spotted With Wi-Fi Sharing Feature</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B07HGS9TWJ/?tag=bulknews-22">無慈悲な8bit</a></li>
@@ -6610,7 +6671,7 @@
 <li><a href="https://www.amazon.co.jp/dp/B07FQJ4MT2/?tag=bulknews-22">AIの遺電子　RED QUEEN　２</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B07GDD32ZH/?tag=bulknews-22">デッドデッドデーモンズデデデデデストラクション</a></li>
 <li><a href="https://www.youtube.com/watch?v=ycPr5-27vSI">Joe Rogan Experience #1169 - Elon Musk</a></li>
-<li><a href="https://www.reddit.com/r/EnoughMuskSpam/comments/99sbwa/former_tesla_programmers_anecdotes_about_problems/?st=jmcsqq6v&amp;sh=c82352bc">Former Tesla Programmer&#39;s anecdotes about problems</a></li>
+<li><a href="https://www.reddit.com/r/EnoughMuskSpam/comments/99sbwa/former_tesla_programmers_anecdotes_about_problems/?st=jmcsqq6v&sh=c82352bc">Former Tesla Programmer&#39;s anecdotes about problems</a></li>
 </ul>
  ]]></description>
         <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
@@ -6652,7 +6713,7 @@
 <li><a href="https://spectrum.ieee.org/nanoclast/semiconductors/processors/apple-huaweii-both-claim-first-7nm-smartphone-chips">Apple, Huawei Both Claim First 7-⁠nm Smartphone Chip</a></li>
 <li><a href="https://www.theverge.com/2018/9/17/17869072/apple-airpower-overheating-issues">Overheating issues are still plaguing Apple’s AirPower charging mat</a></li>
 <li><a href="https://support.apple.com/en-us/HT209044">Using Dual SIM with an eSIM</a></li>
-<li><a href="https://fi.google.com/about/?rc=XD15J3&amp;utm_source=Website&amp;utm_campaign=Referral&amp;utm_medium=banner+codes">Project Fi</a></li>
+<li><a href="https://fi.google.com/about/?rc=XD15J3&utm_source=Website&utm_campaign=Referral&utm_medium=banner+codes">Project Fi</a></li>
 <li><a href="https://comingsoon2018jp.withgoogle.com/">Google Pixel 3: Coming Soon</a></li>
 <li><a href="https://www.theverge.com/circuitbreaker/2018/9/3/17814936/google-pixel-3-xl-leak-found-in-lyft">Pixel 3 XL found in a Lyft, had already leaked enough for driver to recognize it</a></li>
 <li><a href="https://wccftech.com/snapdragon-855-geekbench-alleged-impressive-single-core/">Snapdragon 855 Allegedly Tested in Geekbench</a></li>
@@ -6660,7 +6721,7 @@
 <li><a href="https://www.nvidia.com/en-us/design-visualization/technologies/turing-architecture/">Professional Graphics Solutions and Turing GPU Architecture | NVIDIA</a></li>
 <li><a href="https://babeltechreviews.com/nvidias-ceo-is-the-uncle-of-amds-ceo/">NVIDIA&#39;s CEO Jen-Hsun Huang is the Uncle of AMD&#39;s CEO Lisa Su</a></li>
 <li><a href="https://iosdc.jp/2018/">iOSDC Japan 2018</a></li>
-<li><a href="https://www.youtube.com/watch?v=teOepYv0Fhs&amp;feature=youtu.be">ゲーム機のアーキテクチャを語る / @hak &amp; @tomzoh</a></li>
+<li><a href="https://www.youtube.com/watch?v=teOepYv0Fhs&feature=youtu.be">ゲーム機のアーキテクチャを語る / @hak &amp; @tomzoh</a></li>
 <li><a href="https://2018.cedec.cesa.or.jp/">CEDEC2018</a></li>
 </ul>
  ]]></description>
@@ -6863,7 +6924,7 @@
 <li><a href="https://codelabs.developers.google.com/codelabs/arcore-cloud-anchors/#0">ARCore Cloud Anchors</a></li>
 <li><a href="https://developer.apple.com/documentation/arkit/arworldmap">ARWorldMap - ARKit</a></li>
 <li><a href="https://www.youtube.com/watch?v=7ZrmPTPgY3I">Codename: Niantic Occlusion</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.arexperiments.justaline&amp;hl=en_US">Just a Line - Draw Anywhere, with AR</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.arexperiments.justaline&hl=en_US">Just a Line - Draw Anywhere, with AR</a></li>
 <li><a href="http://www.fujitv.co.jp/b_hp/eden_anime/">東のエデン</a></li>
 <li><a href="https://www.cnet.com/news/nvidia-oculus-and-valve-agreed-on-a-new-one-cable-usb-c-vr-hookup/">Nvidia, Oculus, Microsoft, AMD and Valve agree on new one-cable USB-C VR standard</a></li>
 <li><a href="https://www.oculus.com/go/accessories/">Accessories &amp; Parts | Oculus Go</a></li>
@@ -7026,7 +7087,7 @@
 <li><a href="https://github.com/propelml/propel">propelml/propel: Differential Programming in JavaScript.</a></li>
 <li><a href="https://js.tensorflow.org/">TensorFlow.js</a></li>
 <li><a href="https://rollupjs.org/guide/en">Rollup</a></li>
-<li><a href="https://www.youtube.com/watch?v=qqt6YxAZoOc&amp;index=14&amp;list=PL37ZVnwpeshG2YXJkun_lyNTtM-Qb3MKa">Computer, build me an app - Rich Harris - JSConf EU 2018</a></li>
+<li><a href="https://www.youtube.com/watch?v=qqt6YxAZoOc&index=14&list=PL37ZVnwpeshG2YXJkun_lyNTtM-Qb3MKa">Computer, build me an app - Rich Harris - JSConf EU 2018</a></li>
 <li><a href="https://svelte.technology/">Svelte • The magical disappearing UI framework</a></li>
 <li><a href="https://webpack.js.org/">webpack</a></li>
 <li><a href="https://www.youtube.com/watch?v=cznVISavm-k">To push, or not to push?! - The future of HTTP/2 server push - Patrick Hamann - JSConf EU 2018</a></li>
@@ -7307,7 +7368,7 @@
 <li><a href="https://aws.amazon.com/sagemaker/">Amazon SageMaker on AWS</a></li>
 <li><a href="http://gihyo.jp/dev/serial/01/continue-power/0009">第9回　ログのすすめ：継続は力なり―大器晩成エンジニアを目指して</a></li>
 <li><a href="https://asana.com/">Asana</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&amp;hl=en_US">Google Tasks</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=en_US">Google Tasks</a></li>
 <li><a href="https://www.notion.so/">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a></li>
 <li><a href="https://www.taskpaper.com/">TaskPaper – Plain text to-do lists for Mac</a></li>
 <li><a href="https://www.oculus.com/experiences/go/">Go Experiences | Oculus</a></li>
@@ -7348,9 +7409,9 @@
         <title>207: API Calls Over The Phone (kansai_takako)</title>
         <description><![CDATA[ <p>閑歳孝子さんをゲストに迎えて、Google Duplex, Android P, 決済事情、GDPR、将棋、マンガなどについて話しました。</p>
 <h3>Show Notes</h3><ul>
-<li><a href="https://www.amazon.co.jp/%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4-USB%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88-%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-MMZ-HSUSB10SV/dp/B00I3VWQF0/ref=sr_1_1_sspa?ie=UTF8&amp;qid=1525623094&amp;sr=8-1-spons&amp;keywords=%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4+%E3%83%9E%E3%82%A4%E3%82%AF&amp;psc=1">サンワサプライ USBヘッドセット MMZ-HSUSB10SV</a></li>
+<li><a href="https://www.amazon.co.jp/%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4-USB%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88-%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-MMZ-HSUSB10SV/dp/B00I3VWQF0/ref=sr_1_1_sspa?ie=UTF8&qid=1525623094&sr=8-1-spons&keywords=%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4+%E3%83%9E%E3%82%A4%E3%82%AF&psc=1">サンワサプライ USBヘッドセット MMZ-HSUSB10SV</a></li>
 <li><a href="https://www.rescuetime.com/">RescueTime</a></li>
-<li><a href="https://asana.com/welcome?utm_expid=.jlQxSpt_TAiQ4pLq6mZZNw.1&amp;utm_referrer=">Asana</a></li>
+<li><a href="https://asana.com/welcome?utm_expid=.jlQxSpt_TAiQ4pLq6mZZNw.1&utm_referrer=">Asana</a></li>
 <li><a href="https://www.wired.com/story/google-duplex-phone-calls-ai-future/">Google I/O 2018: How Google’s Duplex Demo Stole the Show</a></li>
 <li><a href="https://www.theverge.com/2018/1/8/16856654/facebook-m-shutdown-bots-ai">Facebook is shutting down M, its personal assistant service</a></li>
 <li><a href="https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html">Google AI Blog: Google Duplex</a></li>
@@ -7699,7 +7760,7 @@
 <li><a href="https://www.atlassian.com/software/jira">Jira</a></li>
 <li><a href="https://rebuild.fm/188/">Rebuild: 188: Two-Phase Commit (fumiakiy)</a></li>
 <li><a href="https://www.wired.com/story/labor-board-rules-google-firing-james-damore-was-legal/">Labor Board Rules Google’s Firing of James Damore Was Legal</a></li>
-<li><a href="https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/?&amp;WT.mc_id=SA_MB_20140917">How Diversity Makes Us Smarter - Scientific American</a></li>
+<li><a href="https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/?&WT.mc_id=SA_MB_20140917">How Diversity Makes Us Smarter - Scientific American</a></li>
 <li><a href="https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788">So, about this Googler’s manifesto</a></li>
 <li><a href="https://www.fastly.com/blog/fastly-engineers-discuss-their-experience-coding-bootcamps/">Fastly engineers discuss their experience with coding bootcamps</a></li>
 <li><a href="https://www.formula1.com/en/latest/headlines/2018/2/formula-1-and-fia-in-new-grid-kids-partnership.html">Formula 1 and FIA in new Grid Kids partnership</a></li>
@@ -7825,7 +7886,7 @@
 <li><a href="https://peing.net/">Peing</a></li>
 <li><a href="https://www.mirror.co.uk/tech/sarahah-honesty-app-cyber-bullying-11051162">What is Sarahah and should parents be worried?</a></li>
 <li><a href="https://www.nytimes.com/2018/01/23/obituaries/ursula-k-le-guin-acclaimed-for-her-fantasy-fiction-is-dead-at-88.html">Ursula K. Le Guin, Acclaimed for Her Fantasy Fiction, Is Dead at 88</a></li>
-<li><a href="https://www.amazon.co.jp/Kindle-Oasis-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-8GB-Wi-Fi-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E6%83%85%E5%A0%B1%E3%81%A4%E3%81%8D%E3%83%A2%E3%83%87%E3%83%AB/dp/B06XD5WW5R?tag=bulknews-22&amp;th=1">Amazon | Kindle Oasis</a></li>
+<li><a href="https://www.amazon.co.jp/Kindle-Oasis-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-8GB-Wi-Fi-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E6%83%85%E5%A0%B1%E3%81%A4%E3%81%8D%E3%83%A2%E3%83%87%E3%83%AB/dp/B06XD5WW5R?tag=bulknews-22&th=1">Amazon | Kindle Oasis</a></li>
 <li><a href="https://www.amazon.co.jp/gp/product/B071JTJWB7?tag=bulknews-22">白熱光 | グレッグ イーガン</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B00RSPXLT2/?tag=bulknews-22">ディアスポラ | グレッグ イーガン</a></li>
 </ul>
@@ -7958,7 +8019,7 @@
 <li><a href="https://www.amazon.com/Amazon-VN94DQ-Echo-Spot-Black/dp/B073SQYXTW">Amazon Echo Spot</a></li>
 <li><a href="https://www.cnn.com/2017/03/07/tech/amazon-echo-alexa-bentonville-arkansas-murder-case/index.html">Alexa, go ahead and hand over recordings in murder case</a></li>
 <li><a href="https://www.netflix.com/jp-en/title/70264888">Black Mirror</a></li>
-<li><a href="https://www.amazon.co.jp/%E7%9C%9F%E7%94%9F%E6%B4%BB/dp/B078T5KH33/ref=sr_1_2?ie=UTF8&amp;qid=1516690618&amp;sr=8-2&amp;keywords=%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%81%99">フィリップ・K・ディックのエレクトリック・ドリームズ</a></li>
+<li><a href="https://www.amazon.co.jp/%E7%9C%9F%E7%94%9F%E6%B4%BB/dp/B078T5KH33/ref=sr_1_2?ie=UTF8&qid=1516690618&sr=8-2&keywords=%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%81%99">フィリップ・K・ディックのエレクトリック・ドリームズ</a></li>
 <li><a href="https://turingcomplete.fm/">Turing Complete FM</a></li>
 </ul>
  ]]></description>
@@ -8183,12 +8244,12 @@
 <li><a href="https://www.bragi.com/theheadphone/">The Headphone - Bragi</a></li>
 <li><a href="https://zoloaudio.com/pages/liberty_series">Liberty Series – Zolo Audio</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B0776PPSJG/?tag=bulknews-22">Bluetooth イヤホン ワイヤレスイヤホン X3T | TAROME</a></li>
-<li><a href="https://www.amazon.com/Anker-Total-Wireless-Earphones-Technology-Sweatproof/dp/B075JBP2P7/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=sl1&amp;tag=bulknewstypep-20">ZOLO by Anker Liberty Total-Wireless Earphones</a></li>
+<li><a href="https://www.amazon.com/Anker-Total-Wireless-Earphones-Technology-Sweatproof/dp/B075JBP2P7/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=bulknewstypep-20">ZOLO by Anker Liberty Total-Wireless Earphones</a></li>
 <li><a href="https://www.geekbuying.com/item/English-Version-Huami-Amazfit-Smartwatch-Youth-Edition-382249.html">English Version Huami Amazfit Smartwatch</a></li>
 <li><a href="https://www.amazon.co.jp/Amazon-Echo-New%E3%83%A2%E3%83%87%E3%83%AB-%E3%80%81%E3%83%81%E3%83%A3%E3%82%B3%E3%83%BC%E3%83%AB-%E3%83%95%E3%82%A1%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF/dp/B071ZF5KCM?tag=bulknews-22">Amazon | Echo - スマートスピーカー</a></li>
 <li><a href="https://store.google.com/product/google_home_mini?hl=ja">Google Home Mini</a></li>
 <li><a href="http://www.itmedia.co.jp/news/articles/1711/10/news076.html">Google Homeで「ピカチュウ」と会話</a></li>
-<li><a href="https://flic.io/?utm_expid=.0YuvUBZVQdiTKFab09f4Gw.0&amp;utm_referrer">Flic - Smart Bluetooth Button</a></li>
+<li><a href="https://flic.io/?utm_expid=.0YuvUBZVQdiTKFab09f4Gw.0&utm_referrer">Flic - Smart Bluetooth Button</a></li>
 <li><a href="https://www.mercari.com/jp/mercari-now/">メルカリNOW</a></li>
 <li><a href="https://www.emacswiki.org/emacs/Anything">EmacsWiki: Anything</a></li>
 <li><a href="http://www.2083.jp/contents/201609p5/">『ペルソナ５』サウンドインタビュー</a></li>
@@ -8294,7 +8355,7 @@
 <li><a href="https://www.hbo.com/game-of-thrones">Game of Thrones</a></li>
 <li><a href="http://rebuild.fm/193/">Rebuild: 193: Winter Is Coming (gfx)</a></li>
 <li><a href="http://sinoalice.jp/">SINoALICE ーシノアリスー | SQUARE ENIX</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.YoStarJP.AzurLane&amp;hl=en">アズールレーン</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.YoStarJP.AzurLane&hl=en">アズールレーン</a></li>
 <li><a href="https://www.tencent.com/en-us/system.html">Tencent</a></li>
 <li><a href="https://stratechery.com/2017/apples-china-problem/">WeChat</a></li>
 <li><a href="http://www.imdb.com/title/tt4217392/">Kung Fu Yoga (2017)</a></li>
@@ -8664,7 +8725,7 @@
 <li><a href="https://www.amazon.co.jp/Panasonic-%E5%8D%98%E7%84%A6%E7%82%B9%E3%83%AC%E3%83%B3%E3%82%BA-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%83%BC%E3%82%BA%E7%94%A8-SUMMILUX-H-X015-K/dp/B00J8H7H48/?tag=bulknews-22">ライカ DG SUMMILUX 15mm/F1.7 ASPH</a></li>
 <li><a href="https://www.buzzfeed.com/jp/venessawong/the-real-colonel-sanders-jp?utm_term=.yc6WYoMMe#.bb86RXDDr">KFCおじさん、カーネル・サンダースのすべて</a></li>
 <li><a href="https://todoist.com/">Todoist</a></li>
-<li><a href="https://support.google.com/inbox/answer/6050237?co=GENIE.Platform%3DDesktop&amp;hl=en">Clean up your inbox with bundles - Inbox by Gmail Help</a></li>
+<li><a href="https://support.google.com/inbox/answer/6050237?co=GENIE.Platform%3DDesktop&hl=en">Clean up your inbox with bundles - Inbox by Gmail Help</a></li>
 <li><a href="http://hmsk.hatenablog.com/entry/2016/12/19/183548">世帯での情報共有のしかた - はまさき</a></li>
 <li><a href="https://www.mailgun.com/">Mailgun</a></li>
 <li><a href="https://www.apple.com/iphone/">iPhone - Apple</a></li>
@@ -8733,7 +8794,7 @@
 <li><a href="http://dic.nicovideo.jp/a/%E3%83%89%E3%83%B3%E5%8B%9D">ドン勝とは</a></li>
 <li><a href="http://nlab.itmedia.co.jp/nl/articles/1708/07/news113.html">PS4・3DSで「ドラクエ1～3」配信決定</a></li>
 <li><a href="https://gamepedia.jp/archives/2778">ドラクエ11、ニンテンドースイッチ版も発売が正式発表！株主総会で開発を認める</a></li>
-<li><a href="https://www.youtube.com/watch?v=Rs2ORs1lNqY&amp;t=5s">よゐこのマイクラでサバイバル生活 第1回 - YouTube</a></li>
+<li><a href="https://www.youtube.com/watch?v=Rs2ORs1lNqY&t=5s">よゐこのマイクラでサバイバル生活 第1回 - YouTube</a></li>
 </ul>
  ]]></description>
         <pubDate>Tue, 22 Aug 2017 01:00:00 -0700</pubDate>
@@ -9076,8 +9137,8 @@
 <li><a href="https://www.apple.com/homepod/">HomePod - Apple</a></li>
 <li><a href="https://www.digitaltrends.com/home-theater/hdmi-arc-explained-works-care/">HDMI ARC</a></li>
 <li><a href="https://www.logitech.com/en-us/harmony-remotes">Harmony Remote</a></li>
-<li><a href="https://www.amazon.com/gp/product/B00N3RFC4Q?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=B00N3RFC4Q&amp;linkCode=shr&amp;tag=bulknewstypep-20&amp;linkId=BTSBCODOWZUQYRJF&amp;qid=1497313013&amp;sr=8-2&amp;keywords=harmony+hub">Amazon.com: Logitech Harmony Hub</a></li>
-<li><a href="https://www.amazon.com/PlayStation-Receiver-Logitech-Harmony-Control-4/dp/B01K3VMBM0/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=sl1&amp;tag=bulknewstypep-20&amp;linkId=4a4c1f02cb4f7d78f494880c71c69c7c">Amazon.com: PDP PlayStation 4 IR Receiver</a></li>
+<li><a href="https://www.amazon.com/gp/product/B00N3RFC4Q?ie=UTF8&camp=213733&creative=393185&creativeASIN=B00N3RFC4Q&linkCode=shr&tag=bulknewstypep-20&linkId=BTSBCODOWZUQYRJF&qid=1497313013&sr=8-2&keywords=harmony+hub">Amazon.com: Logitech Harmony Hub</a></li>
+<li><a href="https://www.amazon.com/PlayStation-Receiver-Logitech-Harmony-Control-4/dp/B01K3VMBM0/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=bulknewstypep-20&linkId=4a4c1f02cb4f7d78f494880c71c69c7c">Amazon.com: PDP PlayStation 4 IR Receiver</a></li>
 <li><a href="http://www.pcworld.com/article/3199955/components-processors/intel-core-i9-prices-specs-release-date-features-faqs.html">Intel Core i9</a></li>
 <li><a href="https://techcrunch.com/2017/06/05/ibm-creates-a-new-transistor-type-for-5nm-silicon-chips/">IBM creates a new transistor type for 5nm silicon chips</a></li>
 <li><a href="http://www.pcworld.com/article/3196067/components-graphics/nvidias-bleeding-edge-volta-gpu-5-things-pc-gamers-need-to-know.html">Nvidia&#39;s bleeding-edge Volta GPU</a></li>
@@ -9223,7 +9284,7 @@
 <li><a href="http://www.nhk.or.jp/professional/2012/0123/">第189回 及川卓也（2012年1月23日放送）| ＮＨＫ プロフェッショナル 仕事の流儀</a></li>
 <li><a href="https://events.google.com/io/">Google I/O 2017</a></li>
 <li><a href="https://cloudnext.withgoogle.com/">Google Cloud Next</a></li>
-<li><a href="https://www.youtube.com/watch?v=25ISTLhz0ys&amp;index=5&amp;list=WL">Android Meets TensorFlow: How to Accelerate Your App with AI</a></li>
+<li><a href="https://www.youtube.com/watch?v=25ISTLhz0ys&index=5&list=WL">Android Meets TensorFlow: How to Accelerate Your App with AI</a></li>
 <li><a href="https://rebuild.fm/supporter/">Rebuild: Supporter</a></li>
 <li><a href="https://www.youtube.com/watch?v=EtQ8Le8-zyo">Developer Keynote (Google I/O &#39;17) </a></li>
 <li><a href="http://www.itmedia.co.jp/news/articles/1705/18/news056.html">Google Home、日本で年内発売へ</a></li>
@@ -9232,7 +9293,7 @@
 <li><a href="https://get.google.com/tango/">Tango</a></li>
 <li><a href="https://developer.microsoft.com/en-us/windows/projects/campaigns/windows-mixed-reality">Windows Mixed Reality</a></li>
 <li><a href="https://www.wired.com/2017/05/google-lens-turns-camera-search-box/">Google Lens Turns Your Camera Into a Search Box</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&amp;hl=en">Microsoft Office Lens</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en">Microsoft Office Lens</a></li>
 <li><a href="https://www.amazon.com/Amazon-MW46WB-Introducing-Echo-Show/dp/B01J24C0TI">Introducing Echo Show - Amazon Official Site</a></li>
 <li><a href="https://developers.google.com/assistant/sdk/">Google Assistant SDK</a></li>
 <li><a href="https://www.theverge.com/2017/4/25/15421326/smart-tv-hacking-cia-samsung-weeping-angel-vulnerability">Here’s how to use the CIA’s ‘weeping angel’ smart TV hack</a></li>
@@ -9243,7 +9304,7 @@
 <li><a href="https://www.youtube.com/watch?v=wD3rpdiLMyY">Building for Your Next Billion Users (Google I/O &#39;17)</a></li>
 <li><a href="https://techcrunch.com/2017/05/17/android-go-is-a-lightweight-version-of-android-for-crazy-cheap-phones/">Android Go is a lightweight version of Android for crazy cheap phones</a></li>
 <li><a href="https://developer.android.com/topic/instant-apps/index.html">Android Instant Apps</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=arun.com.chromer&amp;hl=en">Chromer - Browser</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=arun.com.chromer&hl=en">Chromer - Browser</a></li>
 <li><a href="https://thenextweb.com/apps/2017/02/27/of-course-google-is-killing-off-spaces-its-oddball-messaging-app/">Of course Google is killing off Spaces</a></li>
 <li><a href="https://www.theregister.co.uk/2016/12/06/2fa_missed_warning/">Standards body warned SMS 2FA is insecure and nobody listened</a></li>
 <li><a href="https://techcrunch.com/2017/03/09/google-goes-after-slack-and-splits-hangouts-into-chat-and-meet/">Google goes after Slack and splits Hangouts into Chat and Meet</a></li>
@@ -9602,7 +9663,7 @@
 <li><a href="https://facebook.github.io/react-native/docs/stylesheet.html">StyleSheet</a></li>
 <li><a href="https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9">Modern JavaScript for Ancient Web Developers</a></li>
 <li><a href="https://facebook.github.io/react-native/docs/platform-specific-code.html">Platform Specific Code</a></li>
-<li><a href="http://qiita.com/rhoboro/items/1c6a1550f0d24e470460?utm_content=buffer6f008&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer">AndroidエミュレータとVirtualBox、Docker for Macを同時に実行できない問題の対処法</a></li>
+<li><a href="http://qiita.com/rhoboro/items/1c6a1550f0d24e470460?utm_content=buffer6f008&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">AndroidエミュレータとVirtualBox、Docker for Macを同時に実行できない問題の対処法</a></li>
 <li><a href="https://www.genymotion.com/">Genymotion Android Emulator</a></li>
 <li><a href="https://blog.discordapp.com/using-react-native-one-year-later-91fd5e949933">Using React Native: One Year Later – Discord Blog</a></li>
 </ul>
@@ -9661,7 +9722,7 @@
 <li><a href="http://camdensbluestardonuts.jp/">カムデンズ ブルースタードーナツ</a></li>
 <li><a href="http://www.carlsjr.jp/">カールスジュニア Carl’s Jr.®</a></li>
 <li><a href="http://www.pandaexpress.jp/">パンダエクスプレス</a></li>
-<li><a href="https://www.amazon.com/b?ie=UTF8&amp;node=13727921011">Amazon.com: Alexa Skills</a></li>
+<li><a href="https://www.amazon.com/b?ie=UTF8&node=13727921011">Amazon.com: Alexa Skills</a></li>
 <li><a href="https://ifttt.com/google_assistant">Connect Google Assistant - IFTTT</a></li>
 <li><a href="http://www.theverge.com/circuitbreaker/2017/3/16/14948696/google-home-assistant-advertising-beauty-and-the-beast">Google Home is playing audio ads for Beauty and the Beast</a></li>
 <li><a href="http://www.cnn.com/2016/12/28/tech/amazon-echo-alexa-bentonville-arkansas-murder-case-trnd/">Amazon pushes back on prosecutor request for Alexa smart speaker info</a></li>
@@ -9942,7 +10003,7 @@
 <li><a href="http://anemone.dodgson.org/2016/12/09/accepting-google-docs/">Accepting Google Docs - steps to phantasien</a></li>
 <li><a href="http://www.know-dt.com/TrainingARC/effect/040_pwrist.html">パワーリスト</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B00O1VK0CW/?tag=bulknews-22">悪童日記 | アゴタ クリストフ</a></li>
-<li><a href="https://www.amazon.co.jp/s/ref=nb_sb_noss?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;url=search-alias%3Daps&amp;field-keywords=deep+work">Amazon.co.jp: deep work</a></li>
+<li><a href="https://www.amazon.co.jp/s/ref=nb_sb_noss?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&url=search-alias%3Daps&field-keywords=deep+work">Amazon.co.jp: deep work</a></li>
 <li><a href="https://www.amazon.co.jp/ebook/dp/B01N4AT0ZD/?tag=bulknews-22">Deep Work 大事なことに集中する</a></li>
 <li><a href="https://thenextweb.com/apple/2017/02/10/apple-wireless-charging-iphone-8/#.tnw_IFlQVwX1">Apple reportedly going all in with wireless charging for the iPhone 8</a></li>
 <li><a href="https://xkcd.com/927/">xkcd: Standards</a></li>
@@ -10115,9 +10176,9 @@
 <li><a href="http://www.beer365.net/columns/view/000010">2015年アメリカの人気クラフトビールトップ10</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B00GJMUUYY/?tag=bulknews-22">あなたのための物語 | 長谷敏司</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B00O1VK0CW/?tag=bulknews-22">悪童日記 | アゴタ クリストフ</a></li>
-<li><a href="https://www.amazon.com/gp/help/customer/display.html/ref=hp_rel_topic?ie=UTF8&amp;nodeId=200549320">Amazon.com Help: Lend or Borrow Kindle Books</a></li>
+<li><a href="https://www.amazon.com/gp/help/customer/display.html/ref=hp_rel_topic?ie=UTF8&nodeId=200549320">Amazon.com Help: Lend or Borrow Kindle Books</a></li>
 <li><a href="https://www.amazon.com/All-New-Amazon-Echo-Dot-Add-Alexa-To-Any-Room/dp/B01DFKC2SO">Amazon Echo Dot</a></li>
-<li><a href="https://www.amazon.com/b?ie=UTF8&amp;node=13727921011">Amazon.com: Alexa Skills</a></li>
+<li><a href="https://www.amazon.com/b?ie=UTF8&node=13727921011">Amazon.com: Alexa Skills</a></li>
 <li><a href="https://developer.amazon.com/alexa-skills-kit">Alexa Skills Kit</a></li>
 <li><a href="http://www.theverge.com/2017/1/7/14200210/amazon-alexa-tech-news-anchor-order-dollhouse">Amazon’s Alexa started ordering people dollhouses after hearing its name on TV</a></li>
 <li><a href="http://www.polygon.com/nintendo-switch/2017/1/13/14250418/nintendo-switch-pre-order">Nintendo Switch pre-orders are now live</a></li>
@@ -10377,7 +10438,7 @@
 <li><a href="http://www.androidcentral.com/airpods-android-seriously">Apple&#39;s AirPods may be the best Bluetooth earbuds for Android</a></li>
 <li><a href="https://itunes.apple.com/us/app/super-mario-run/id1145275343?mt=8">Super Mario Run on the App Store</a></li>
 <li><a href="http://www.theverge.com/2016/12/20/14022298/minecraft-apple-tv-ender-update">Minecraft is now available on Apple TV for $19.99</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.nintendo.zara&amp;hl=en">Super Mario Run - Android Apps on Google Play</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.nintendo.zara&hl=en">Super Mario Run - Android Apps on Google Play</a></li>
 <li><a href="https://www.nintendo.co.jp/clv/">ニンテンドークラシックミニ　ファミリーコンピュータ｜任天堂</a></li>
 <li><a href="http://www.loopinsight.com/2016/12/13/macos-sierra-10-12-2-released/">macOS Sierra 10.12.2 released</a></li>
 <li><a href="http://www.itmedia.co.jp/pcuser/articles/1612/28/news091.html">疑惑が晴れた「将棋のソフト不正問題」と将棋連盟に対して望むこと</a></li>
@@ -11037,7 +11098,7 @@
 <li><a href="https://store.google.com/product/usb_type_c_18w_power_adapter">18W Power Adapter - USB-C</a></li>
 <li><a href="http://www.androidpolice.com/2016/10/19/android-7-1-feature-spotlight-app-shortcuts-are-supported-in-the-google-now-launcher/">Android 7.1 App shortcuts are supported in the Google Now Launcher</a></li>
 <li><a href="https://madeby.google.com/vr/">Daydream View – Made by Google</a></li>
-<li><a href="https://www.amazon.com/gp/product/B01DE9DY8S?ie=UTF8&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B01DE9DY8S&amp;linkCode=shr&amp;tag=bulknewstypep-20">PlayStation VR</a></li>
+<li><a href="https://www.amazon.com/gp/product/B01DE9DY8S?ie=UTF8&camp=213733&creative=393177&creativeASIN=B01DE9DY8S&linkCode=shr&tag=bulknewstypep-20">PlayStation VR</a></li>
 <li><a href="https://www.playstation.com/en-us/games/rez-infinite-ps4/">Rez Infinite Game</a></li>
 <li><a href="http://rebuild.fm/157a/">Rebuild: Aftershow 157: Gigaflops Per Yen (hak)</a></li>
 <li><a href="http://p-atlus.jp/p4g/">ペルソナ４ ザ・ゴールデン PS Vita the Best</a></li>
@@ -12639,7 +12700,7 @@
 <li><a href="https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html">Promoting Apps with Smart App Banners</a></li>
 <li><a href="https://get.google.com/spaces/">Spaces</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.uriio">Beacon Toy</a></li>
-<li><a href="http://www.amazon.com/Amazon-Echo-Dot-Portable-Bluetooth-WiFi-Speaker-with-Alexa/b?ie=UTF8&amp;node=14047587011">Amazon Echo Dot</a></li>
+<li><a href="http://www.amazon.com/Amazon-Echo-Dot-Portable-Bluetooth-WiFi-Speaker-with-Alexa/b?ie=UTF8&node=14047587011">Amazon Echo Dot</a></li>
 <li><a href="https://on.google.com/hub/">OnHub – Google</a></li>
 <li><a href="https://on.google.com/hub/blog/2016-04-28/onhubifttt/">OnHub Now Supports IFTTT</a></li>
 <li><a href="https://www.nttdocomo.co.jp/service/developer/smart_phone/analysis/chat/">NTTドコモ 雑談対話API</a></li>
@@ -13374,7 +13435,7 @@
         <description><![CDATA[ <p>Kazuho Okui さん、Hakuro Matsuda さんをゲストに迎えて、Apple Watch, iPhone SE, iPad Pro, チップ, Intel などについて話しました。</p>
 <h3>Show Notes</h3><ul>
 <li><a href="http://rebuild.fm/134/">Rebuild: 134: Everything Becomes N (N, hak)</a></li>
-<li><a href="https://www.google.com/search?q=demis+hassabis&amp;espv=2&amp;biw=1352&amp;bih=778&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ved=0ahUKEwims4ymkd_LAhUBw2MKHUJfCKwQiR4Idg&amp;dpr=2">Demis Hassabis</a></li>
+<li><a href="https://www.google.com/search?q=demis+hassabis&espv=2&biw=1352&bih=778&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwims4ymkd_LAhUBw2MKHUJfCKwQiR4Idg&dpr=2">Demis Hassabis</a></li>
 <li><a href="http://www.apple.com/apple-events/march-2016/">Apple Event - Keynote March 2016</a></li>
 <li><a href="http://www.theverge.com/2016/3/21/11279714/fbi-iphone-apple-trial-delay">FBI asks to delay Apple trial so it can try hacking the iPhone again</a></li>
 <li><a href="http://www.gizmodo.jp/2016/03/fbiiphone_1.html">FBIの隠し玉は、まさかの「いっき」子会社</a></li>
@@ -14116,7 +14177,7 @@
 <li><a href="http://www.apple.com/ios/preview/">iOS 9.3</a></li>
 <li><a href="https://justgetflux.com/">f.lux</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Sherlock_%28software%29">Sherlock</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.urbandroid.lux&amp;hl=en">Twilight</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.urbandroid.lux&hl=en">Twilight</a></li>
 <li><a href="http://www.cnet.com/how-to/get-the-new-night-light-mode-in-google-play-books/">Night Light mode in Google Play Books</a></li>
 <li><a href="http://www.redbook.io/">Readings in Database Systems, 5th Edition</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Michael_Stonebraker">Michael Stonebraker</a></li>
@@ -14376,7 +14437,7 @@
 <li><a href="http://anond.hatelabo.jp/20070303100408">人生は神ゲーだ</a></li>
 <li><a href="https://www.playstation.com/en-us/games/infamous-second-son-ps4/">inFAMOUS Second Son™</a></li>
 <li><a href="https://en.wikipedia.org/wiki/C-base">c-base</a></li>
-<li><a href="http://www.amazon.com/gp/video/detail/B00RSI5EHQ?tag=googhydr-20&amp;hvadid=91590730627&amp;hvpos=1t1&amp;hvexid=&amp;hvnetw=g&amp;hvrand=3143111371031457908&amp;hvpone=&amp;hvptwo=&amp;hvqmt=b&amp;hvdev=c&amp;ref=pd_sl_816vl125hl_b">The Man In The High Castle - Season 1</a></li>
+<li><a href="http://www.amazon.com/gp/video/detail/B00RSI5EHQ?tag=googhydr-20&hvadid=91590730627&hvpos=1t1&hvexid=&hvnetw=g&hvrand=3143111371031457908&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_816vl125hl_b">The Man In The High Castle - Season 1</a></li>
 <li><a href="http://www.theguardian.com/us-news/2015/nov/25/nazi-inspired-ads-for-the-man-in-the-high-castle-pulled-from-new-york-subway">Nazi-inspired ads pulled from New York subway</a></li>
 <li><a href="http://www.imdb.com/title/tt2084970/">The Imitation Game (2014)</a></li>
 </ul>
@@ -14856,7 +14917,7 @@
 <li><a href="http://techcrunch.com/2015/11/16/confirmed-pandora-buys-key-rdio-assets-for-75m-in-cash-rdio-files-ch-11-to-shut-down/">Pandora To Buy Rdio Assets For $75M In Cash</a></li>
 <li><a href="http://www.theverge.com/2015/11/17/9750890/rdio-shutdown-pandora">Why Rdio died</a></li>
 <li><a href="http://www.apple.com/music/connect/">Music - Connect - Apple</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.apple.android.music&amp;hl=en">Apple Music - Android</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.apple.android.music&hl=en">Apple Music - Android</a></li>
 <li><a href="https://www.youtube.com/red">YouTube Red</a></li>
 <li><a href="https://itunes.apple.com/us/app/youtube-music/id1017492454?mt=8">YouTube Music (iOS)</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music">YouTube Music (Android)</a></li>
@@ -15660,7 +15721,7 @@
 <li><a href="http://blog.elliottkember.com/chromes-insane-password-security-strategy">Chrome’s insane password security strategy</a></li>
 <li><a href="http://www.csoonline.com/article/2979068/vulnerabilities/researchers-discover-new-keychain-vulnerability-in-osx.html">Researchers discover new keychain vulnerability in OSX</a></li>
 <li><a href="https://tfl.gov.uk/fares-and-payments/contactless/other-methods-of-contactless-payment/apple-pay">Apple Pay - Transport for London</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.apple.movetoios&amp;hl=en">Move to iOS - Google Play</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.apple.movetoios&hl=en">Move to iOS - Google Play</a></li>
 <li><a href="http://9to5google.com/2015/09/18/stick-with-android-app/">Stick with Android</a></li>
 <li><a href="http://www.marco.org/2015/09/21/peace-refund">Apple refunding all purchases of Peace</a></li>
 <li><a href="http://www.theverge.com/2015/9/24/9393941/clear-ios-ad-blocker-offering-paid-whitelist">Crystal will let companies pay to show you ads</a></li>
@@ -15701,7 +15762,7 @@
         <title>Aftershow 109: Being Faithful Is Not Easy (naan)</title>
         <description><![CDATA[ <p>Kazuho Okui さんと、Chrome, Firefox, Xcode などについて話しました。</p>
 <h3>Show Notes</h3><ul>
-<li><a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp;hl=en">Firefox Browser by Mozilla</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en">Firefox Browser by Mozilla</a></li>
 <li><a href="https://addons.mozilla.org/en-us/android/addon/adblock-plus/">Add-ons for Firefox for Android</a></li>
 <li><a href="http://www.omgchrome.com/chrome-android-extensions-not-planned-ama/">Chrome for Android Extensions Support Not Planned</a></li>
 <li><a href="http://nolanlawson.com/2015/06/30/safari-is-the-new-ie/">Safari is the new IE</a></li>
@@ -15913,7 +15974,7 @@
 <li><a href="https://support.google.com/websearch/answer/873?hl=en">Google.com goes to the wrong Google page</a></li>
 <li><a href="https://www.spotify.com/us/gift-card/">Gift cards - Spotify</a></li>
 <li><a href="https://www.netflix.com/jp/">Netflix Japan</a></li>
-<li><a href="http://www.amazon.co.jp/b?ie=UTF8&amp;node=3668791051">Amazonプライム・ビデオ</a></li>
+<li><a href="http://www.amazon.co.jp/b?ie=UTF8&node=3668791051">Amazonプライム・ビデオ</a></li>
 <li><a href="https://medium.com/@lestrrat/yapc-eu-2015-granada-f528844677d8">YAPC::EU 2015 @ Granada</a></li>
 <li><a href="https://trello.com/tatsuhikomiyagawa1/recommend">Trello</a></li>
 <li><a href="http://www.hashref.com/">Xavier Noria</a></li>
@@ -16743,7 +16804,7 @@
 <li><a href="https://www.youtube.com/watch?v=uXrsK8ICp8E">Zelda E3 2004 reaction</a></li>
 <li><a href="https://www.youtube.com/watch?v=j1vSYIHlMp8">Final Fantasy VII Remake Reveal Reaction (GameTrailers on E3 2015)</a></li>
 <li><a href="http://www.engadget.com/2015/06/17/final-fantasy-vii-remake-interview-e3-2015/">Final Fantasy VII: The challenge of remaking a classic</a></li>
-<li><a href="http://www.amazon.com/Final-Fantasy-VII-Remake-PlayStation-4/dp/B00ZS80PC2/ref=as_li_ss_tl?ie=UTF8&amp;qid=1435777309&amp;sr=8-2&amp;keywords=ff7&amp;pebp=1435777311167&amp;perid=158R22F1S3SD24CNR0R7&amp;linkCode=sl1&amp;tag=bulknewstypep-20&amp;linkId=175c834c29352cea7e9d3005bd96fab0">Amazon.com: Final Fantasy VII: Remake - PlayStation 4</a></li>
+<li><a href="http://www.amazon.com/Final-Fantasy-VII-Remake-PlayStation-4/dp/B00ZS80PC2/ref=as_li_ss_tl?ie=UTF8&qid=1435777309&sr=8-2&keywords=ff7&pebp=1435777311167&perid=158R22F1S3SD24CNR0R7&linkCode=sl1&tag=bulknewstypep-20&linkId=175c834c29352cea7e9d3005bd96fab0">Amazon.com: Final Fantasy VII: Remake - PlayStation 4</a></li>
 <li><a href="http://www.fallout4.com/">Fallout 4</a></li>
 <li><a href="http://game.watch.impress.co.jp/docs/news/20150701_709635.html">「FFXIV」、Mac版のパフォーマンスについて公式コメントを発表</a></li>
 <li><a href="https://www.kickstarter.com/projects/ysnet/shenmue-3">Shenmue 3</a></li>
@@ -17185,7 +17246,7 @@
 <li><a href="https://twitter.com/cabel/status/513444503345037312">Tofu On Fire Emoji</a></li>
 <li><a href="http://rebuild.fm/87/">Rebuild: 87: My Mom In This IDE (fumiakiy)</a></li>
 <li><a href="https://mixpanel.com/trends/#report/android_os_adoption">Lollipop share is about 25% on Mixpanel</a></li>
-<li><a href="https://www.youtube.com/watch?v=mpbWQbkl8_g&amp;list=WL&amp;index=8">ATAP: A little badass. Beautiful. Tech and human. Work and love</a></li>
+<li><a href="https://www.youtube.com/watch?v=mpbWQbkl8_g&list=WL&index=8">ATAP: A little badass. Beautiful. Tech and human. Work and love</a></li>
 <li><a href="https://www.google.com/get/cardboard/">Google Cardboard</a></li>
 <li><a href="https://www.google.com/get/cardboard/jump/">Jump</a></li>
 <li><a href="http://internet.org/">Internet.org by Facebook</a></li>
@@ -17629,7 +17690,7 @@
 <li><a href="https://twitter.com/N/status/592925634881458176">Finally I&#39;m feeling the heart beat of @naan&#39;s. #applewatch #rebuildfm</a></li>
 <li><a href="http://www.apple.com/retail/personal-pickup/">Apple Retail Store - Personal Pickup</a></li>
 <li><a href="http://www.wired.com/2014/09/amazon-takes-big-step-toward-competing-directly-ups/">Amazon Takes a Big Step Toward Finally Making Its Own Deliveries</a></li>
-<li><a href="http://www.amazon.com/b/ref=amb_link_366591722_2?_encoding=UTF8&amp;node=6442600011">Amazon Locker Delivery</a></li>
+<li><a href="http://www.amazon.com/b/ref=amb_link_366591722_2?_encoding=UTF8&node=6442600011">Amazon Locker Delivery</a></li>
 <li><a href="http://www.cnet.com/news/how-well-did-the-apple-watch-sell-tim-cook-remains-mum/">How well is the Apple Watch selling? Tim Cook remains mum</a></li>
 <li><a href="https://www.ifixit.com/Teardown/Apple+Watch+Teardown/40655">Apple Watch Teardown - iFixit</a></li>
 <li><a href="https://developer.apple.com/wwdc/">WWDC - Apple Developer</a></li>
@@ -18209,7 +18270,7 @@
 <li><a href="http://ch.nicovideo.jp/kawango/blomaga/ar752859">任天堂とDeNAの提携について:かわんごのブロマガ - ブロマガ</a></li>
 <li><a href="http://nlab.itmedia.co.jp/nl/articles/1503/21/news033.html">将棋電王戦FINAL第2局で衝撃の結末　Seleneが永瀬六段の異例の指し手「角成らず」を認識できず反則負けに</a></li>
 <li><a href="http://live.nicovideo.jp/watch/lv199649118?ref=grel">将棋電王戦FINAL 第2局 永瀬拓矢六段 vs Selene</a></li>
-<li><a href="http://www.amazon.co.jp/dp/B00UBS2OIC/ref=sr_1_1?ie=UTF8&amp;qid=1427014574&amp;sr=8-1&amp;keywords=nasne&amp;tag=bulknews-22">Amazon.co.jp： nasne 1TBモデル</a></li>
+<li><a href="http://www.amazon.co.jp/dp/B00UBS2OIC/ref=sr_1_1?ie=UTF8&qid=1427014574&sr=8-1&keywords=nasne&tag=bulknews-22">Amazon.co.jp： nasne 1TBモデル</a></li>
 <li><a href="http://av.watch.impress.co.jp/docs/news/20150318_692318.html">スマホをテレビ化するnasne連携アプリ「torne mobile」 - AV Watch</a></li>
 <li><a href="http://av.watch.impress.co.jp/docs/series/rt/20140902_664514.html">nasne開発陣に聞く「リモート視聴」対応とVer.2.50の狙い - AV Watch</a></li>
 <li><a href="http://hackers-champloo.org/2015/">ハッカーズチャンプルー2015 ★</a></li>
@@ -18439,7 +18500,7 @@
 <li><a href="http://techcrunch.com/2015/03/06/the-apple-watch-is-time-saved/">The Apple Watch Is Time, Saved | TechCrunch</a></li>
 <li><a href="http://www.gamesindustry.biz/articles/2015-03-06-watch-john-carmacks-gdc-session-in-full">Watch John Carmack&#39;s GDC session in full</a></li>
 <li><a href="http://www.4gamer.net/games/251/G025118/20150304009/">［GDC 2015］SCE，仮想現実対応HMD「Morpheus」を2016年前半に発売と予告</a></li>
-<li><a href="https://www.youtube.com/watch?v=e7PjFCvL7Ks&amp;feature=youtu.be">Bedroom Robots VR for PS4 Project Morpheus</a></li>
+<li><a href="https://www.youtube.com/watch?v=e7PjFCvL7Ks&feature=youtu.be">Bedroom Robots VR for PS4 Project Morpheus</a></li>
 <li><a href="http://bgr.com/2015/03/04/nvidia-shield-android-tv-console/">NVIDIA Shield Android TV console: Specs, prices and release date | BGR</a></li>
 <li><a href="http://www.playstation.com/en-us/explore/psnow/">PlayStation Now - Streaming Game Service on Consoles</a></li>
 <li><a href="http://www.gamasutra.com/view/news/238242/Yoichi_Wada_lays_out_Shinras_cloud_gaming_goals.php">Gamasutra - Yoichi Wada lays out Shinra&#39;s cloud gaming goals</a></li>
@@ -18913,7 +18974,7 @@
         <description><![CDATA[ <p>Hakuro Matsuda さんと、ランニング、ゲーム、食べログ、Philip K. Dick, ドイツ、筋肉少女帯などについて話しました。</p>
 <h3>Show Notes</h3><ul>
 <li><a href="http://moro-tyo.hatenablog.com/entry/2015/01/10/203720">エアロバイクを漕ぎながらFPSして痩せた</a></li>
-<li><a href="http://www.amazon.co.jp/dp/B0041D9JIQ/?_encoding=UTF8&amp;camp=247&amp;creative=1211&amp;linkCode=ur2&amp;tag=bulknews-22">ALINCO エアロマグネティックバイク</a></li>
+<li><a href="http://www.amazon.co.jp/dp/B0041D9JIQ/?_encoding=UTF8&camp=247&creative=1211&linkCode=ur2&tag=bulknews-22">ALINCO エアロマグネティックバイク</a></li>
 <li><a href="http://candycrushsodasaga.com/">Candy Crush Soda Saga - King</a></li>
 <li><a href="http://weblog.bulknews.net/post/108212614849/chrome-extension">食べログのレビュー点数を正規化する Chrome Extension</a></li>
 <li><a href="http://tabelog.com/help/score/">食べログの点数 FAQ</a></li>
@@ -19201,7 +19262,7 @@
 <li><a href="http://miyearnzzlabo.com/archives/21765">町山智浩 金正恩暗殺映画 ザ・インタビュー公開中止騒動の真相を語る</a></li>
 <li><a href="http://www.nytimes.com/2014/12/29/business/media/the-interview-comes-to-itunes-store.html?_r=0">&quot;The Interview&quot; Brings In $15 Million on Web - NYTimes.com</a></li>
 <li><a href="http://www.bbc.com/news/technology-30623611">Politician&#39;s fingerprint &#39;cloned from photos&#39; by hacker</a></li>
-<li><a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1001001151">Lockpick Set: Amazon.com</a></li>
+<li><a href="http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1001001151">Lockpick Set: Amazon.com</a></li>
 <li><a href="http://www.washingtonpost.com/news/morning-mix/wp/2014/12/31/the-inside-story-of-how-an-idaho-toddler-shot-his-mom-at-wal-mart/">The inside story of how an Idaho toddler shot his mom at Wal-Mart</a></li>
 <li><a href="http://instagram.com/p/xQPGeYg_9a/">Wireless charging mat at Starbucks</a></li>
 <li><a href="http://www.androidcentral.com/motorola-turbo-charger">This is the Motorola Turbo Charger</a></li>
@@ -20133,7 +20194,7 @@
         <title>63: Wanko Soba Chip (naan, hak)</title>
         <description><![CDATA[ <p>Kazuho Okuiさん、Hakuro Matsudaさんをゲストに迎えて、iOS 8, Yosemite, iPad, iMac, Mac mini などについて話しました。</p>
 <h3>Show Notes</h3><ul>
-<li><a href="http://www.tuaw.com/2014/10/16/apple-announces-ios-8-1-with-camera-roll-icloud-photo-library/?ncid=rss_truncated&amp;%3Fncid=fb">Apple announces iOS 8.1 with Camera Roll, iCloud Photo Library | TUAW</a></li>
+<li><a href="http://www.tuaw.com/2014/10/16/apple-announces-ios-8-1-with-camera-roll-icloud-photo-library/?ncid=rss_truncated&%3Fncid=fb">Apple announces iOS 8.1 with Camera Roll, iCloud Photo Library | TUAW</a></li>
 <li><a href="http://daringfireball.net/2014/10/ios_8_storage_space">Daring Fireball: Note to Self: It&#39;s the Storage Space, Stupid</a></li>
 <li><a href="https://fix-macosx.com/">Fix Mac OS X Yosemite</a></li>
 <li><a href="http://www.alfredapp.com/">Alfred App - Productivity App for Mac OS X</a></li>
@@ -20389,7 +20450,7 @@
         <title>Aftershow 60: Bashdoor (naan, N)</title>
         <description><![CDATA[ <p>Kazuho Okuiさん、Naoki Hiroshimaさんと、ヌードルメーカー、日本語、Bash などについて話しました。</p>
 <h3>Show Notes</h3><ul>
-<li><a href="http://www.amazon.co.jp/Philips-%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9-HR2369-01-%E3%80%90%E3%81%8A%E5%AE%B6%E3%81%A7%E7%94%9F%E9%BA%BA%E3%80%91-%E3%83%8C%E3%83%BC%E3%83%89%E3%83%AB%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC/dp/B00KPNV7X6/ref=sr_1_1?ie=UTF8&amp;qid=1412119832&amp;sr=8-1&amp;tag=bulknews-22">フィリップス ヌードルメーカー HR2369-01</a></li>
+<li><a href="http://www.amazon.co.jp/Philips-%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9-HR2369-01-%E3%80%90%E3%81%8A%E5%AE%B6%E3%81%A7%E7%94%9F%E9%BA%BA%E3%80%91-%E3%83%8C%E3%83%BC%E3%83%89%E3%83%AB%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC/dp/B00KPNV7X6/ref=sr_1_1?ie=UTF8&qid=1412119832&sr=8-1&tag=bulknews-22">フィリップス ヌードルメーカー HR2369-01</a></li>
 <li><a href="http://rebuild.fm/58/">Rebuild: 58: Close To The BABYMETAL (tenderlove)</a></li>
 <li><a href="http://rubykaigi.org/2014/presentation/S-AaronPatterson">RubyKaigi 2014 | Speeding up Rails 4.2</a></li>
 <li><a href="http://blade.nagaokaut.ac.jp/ruby/ruby-dev/index.shtml">ruby-dev</a></li>
@@ -20440,12 +20501,12 @@
 <li><a href="https://www.iphone-girl.jp/2014/09/380094/">iPhone 6/6 Plus が片手で操作出来る Bunker Ring Essential</a></li>
 <li><a href="http://www.theverge.com/2014/9/25/6845611/inside-apples-iphone-6-torture-building">Inside the building where Apple tortures the iPhone 6</a></li>
 <li><a href="http://www.consumerreports.org/cro/news/2014/09/consumer-reports-tests-iphone-6-bendgate/index.htm">iPhone 6 And 6 Plus Bend Test - Consumer Reports News</a></li>
-<li><a href="https://itunes.apple.com/jp/app/atok-for-ios/id893918621?l=en&amp;mt=8">ATOK for iOS on the App Store on iTunes</a></li>
+<li><a href="https://itunes.apple.com/jp/app/atok-for-ios/id893918621?l=en&mt=8">ATOK for iOS on the App Store on iTunes</a></li>
 <li><a href="http://mashable.com/2014/09/26/ios-8-0-1-apple-maps/">iOS 8.0.1 May Have a Link to Apple Maps Fail From 2012</a></li>
 <li><a href="http://appleinsider.com/articles/14/09/18/citibank-sending-its-customers-an-introduction-to-iphone-6-apple-pay">Citibank, Wells Fargo sending its customers an introduction to Apple Pay</a></li>
 <li><a href="http://macdailynews.com/2013/01/07/lenovo-to-release-27-inch-windows-8-table-tablet-starting-at-1699/">Lenovo to release 27-inch Windows 8 table tablet starting at $1,699</a></li>
 <li><a href="http://www.theverge.com/2014/9/20/6641673/iphone-lines-apple-stores-casey-neistat-chinese-mafia">iPhone line sitters in NYC slept in garbage bags and got arrested</a></li>
-<li><a href="http://www.jiji.com/jc/c?g=soc_30&amp;k=2014092800087">邦人女性、ｉＰｈｏｎｅ６密輸で拘束＝４５０台超持ち込み－上海空港</a></li>
+<li><a href="http://www.jiji.com/jc/c?g=soc_30&k=2014092800087">邦人女性、ｉＰｈｏｎｅ６密輸で拘束＝４５０台超持ち込み－上海空港</a></li>
 <li><a href="https://twitter.com/cliftonmthomas/status/514506747709751296/">Found a solution to #BendGate</a></li>
 <li><a href="https://gumroad.com/l/rebuildfm-58">Rebuild ep58 transcript</a></li>
 <li><a href="https://gumroad.com/l/rebuildfm-supporter">Rebuild Supporter</a></li>
@@ -20921,7 +20982,7 @@
 <li><a href="http://www.alsa.org/donate/">Gifts to The ALS Association - The ALS Association</a></li>
 <li><a href="http://rebuild.fm/53a/#transcript">Rebuild: Aftershow 53: Because We Are Global (Matz, zzak)</a></li>
 <li><a href="https://gumroad.com/l/rebuildfm-53a">Rebuild ep53a transcript</a></li>
-<li><a href="http://www.nytimes.com/2011/07/24/sports/baseball/kei-igawa-the-lost-yankee.html?pagewanted=all&amp;_r=0">Kei Igawa - The Lost Yankee</a></li>
+<li><a href="http://www.nytimes.com/2011/07/24/sports/baseball/kei-igawa-the-lost-yankee.html?pagewanted=all&_r=0">Kei Igawa - The Lost Yankee</a></li>
 <li><a href="http://apgsports.com/2014/08/12/no-english-please-were-japanese-baseball-players/">No English Please, We&#39;re Japanese Baseball Players</a></li>
 <li><a href="http://detroit.cbslocal.com/2014/07/24/blue-jays-munenori-kawasaki-gives-a-great-interview-video/">Blue Jays&#39; Munenori Kawasaki Gives A Great Interview</a></li>
 <li><a href="http://dic.nicovideo.jp/a/%E8%AA%B2%E9%87%91">課金とは</a></li>
@@ -20982,7 +21043,7 @@
 <li><a href="http://www.rubyist.net/%7Eslagell/ruby/globalvars.html">Ruby Global variables</a></li>
 <li><a href="https://bugs.ruby-lang.org/issues/6373">Feature #6373: public #self</a></li>
 <li><a href="https://github.com/rails/rails/compare/20405e516b031db4d8230014d1dcf9601ed0a0f8...64d91122222c11ad3918cc8e2e3ebc4b0a03448a">rails/rails: Added Object#self</a></li>
-<li><a href="https://github.com/search?utf8=%E2%9C%93&amp;q=%22def+itself%22+&amp;type=Code&amp;ref=searchresults">GitHub code search for &quot;def itself&quot;</a></li>
+<li><a href="https://github.com/search?utf8=%E2%9C%93&q=%22def+itself%22+&type=Code&ref=searchresults">GitHub code search for &quot;def itself&quot;</a></li>
 <li><a href="https://bugs.ruby-lang.org/issues/9711">Feature #9711: Remove test-unit and minitest from stdlib</a></li>
 <li><a href="http://rubykaigi.org/2014">RubyKaigi 2014, 18-20 september</a></li>
 <li><a href="http://brightonruby.com/">Brighton Ruby Conference 2014</a></li>
@@ -21414,7 +21475,7 @@
 <li><a href="http://developer.android.com/preview/notifications.html">Design for Notifications</a></li>
 <li><a href="http://duartestyle.info/">Duarte Style</a></li>
 <li><a href="https://twitter.com/fmanjoo/status/481844240138244098">&quot;Style is important&quot; says guy in a hoodie.</a></li>
-<li><a href="https://support.google.com/googleplay/answer/6014972?p=app_permissions&amp;rd=1">Review app permissions - Google Play Help</a></li>
+<li><a href="https://support.google.com/googleplay/answer/6014972?p=app_permissions&rd=1">Review app permissions - Google Play Help</a></li>
 <li><a href="https://www.eff.org/deeplinks/2013/12/google-removes-vital-privacy-features-android-shortly-after-adding-them">Google Removes Vital Privacy Feature From Android</a></li>
 <li><a href="https://code.facebook.com/posts/485459238254631/improving-facebook-on-android">Improving Facebook on Android | Engineering Blog</a></li>
 <li><a href="https://developers.google.com/speed/webp/?csw=1">WebP - Google Developers</a></li>
@@ -22365,7 +22426,7 @@
         <title>34: Snappy Links (naan)</title>
         <description><![CDATA[ <p>Kazuho Okuiさんをゲストに迎えて、goto fail、Podcast トランスクリプト、Github Atom、レーティング、Flinto などについて話しました。</p>
 <h3>Show Notes</h3><ul>
-<li><a href="https://www.youtube.com/results?search_query=%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC&amp;page=&amp;utm_source=opensearch">パソコンサンデー</a></li>
+<li><a href="https://www.youtube.com/results?search_query=%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC&page=&utm_source=opensearch">パソコンサンデー</a></li>
 <li><a href="http://thenextweb.com/twitter/2014/02/26/happy-ending-n-restored-rightful-owner/">Happy ending: @N has been restored to its rightful owner</a></li>
 <li><a href="http://daringfireball.net/2014/02/apple_prism">On the Timing of iOS&#39;s SSL Vulnerability and Apple&#39;s &#39;Addition&#39; to the NSA&#39;s PRISM Program</a></li>
 <li><a href="https://gist.github.com/hongrich/9176925">sslKeyExchange.c diff</a></li>
@@ -22710,7 +22771,7 @@
 <li><a href="https://speakerdeck.com/naoya/angularjs-20min-number-ng-jp">AngularJS 20min #ng_jp // Speaker Deck</a></li>
 <li><a href="http://backbonejs.org/">Backbone.js</a></li>
 <li><a href="http://nytimes.github.io/backbone.stickit/">backbone.stickit</a></li>
-<li><a href="http://www.amazon.com/b?ie=UTF8&amp;node=8037720011">Amazon Prime Air</a></li>
+<li><a href="http://www.amazon.com/b?ie=UTF8&node=8037720011">Amazon Prime Air</a></li>
 <li><a href="http://www.theverge.com/2013/12/4/5173524/android-founder-andy-rubins-secret-google-project-building-real-robots">Android founder Andy Rubin&#39;s secret Google project: building real robots | The Verge</a></li>
 </ul>
  ]]></description>
@@ -23642,7 +23703,7 @@
         <title>8: Screencasts, Pair Programming, English (伊藤直也 高林哲)</title>
         <description><![CDATA[ <p>伊藤直也さん、高林哲さんをゲストに迎えて、日米キャリアパス、スクリーンキャスト、ペアプログラミング、エンジニアリング英語などについて話しました。</p>
 
-<p>スポンサー: <a href="https://itunes.apple.com/app/listen-it/id512751653?ls=1&amp;mt=8">Listen-IT</a></p>
+<p>スポンサー: <a href="https://itunes.apple.com/app/listen-it/id512751653?ls=1&mt=8">Listen-IT</a></p>
 
 <p>（収録機材の不調で、一部聴きづらい箇所があるかもしれません）</p>
 <h3>Show Notes</h3><ul>
@@ -23744,7 +23805,7 @@
 <li><a href="https://gumroad.com/">Gumroad</a></li>
 <li><a href="http://daringfireball.net/projects/markdown/">Markdown</a></li>
 <li><a href="http://calibre-ebook.com/">Calibre</a></li>
-<li><a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000765211">KindleGen</a></li>
+<li><a href="http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765211">KindleGen</a></li>
 <li><a href="http://d.hatena.ne.jp/naoya/20130303/1362299005">Markdown to Inao</a></li>
 <li><a href="https://help.github.com/articles/github-flavored-markdown">Github Flavored Markdown</a></li>
 <li><a href="http://p.booklog.jp/about/pro">パブー Pro</a></li>
