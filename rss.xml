@@ -25,6 +25,61 @@
     
     
       <item>
+        <title>338: Regex with Soft G (N)</title>
+        <description><![CDATA[ <p>Naoki Hiroshima さんをゲストに迎えて、Twitter, Passkey, CarPlay, Swift, Roe v. Wade などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.itmedia.co.jp/news/articles/2207/01/news070.html">Twitterに不具合？　Wi-Fiからモバイル回線に切り替えると解決する状態</a></li>
+<li><a href="https://stackoverflow.com/questions/10617954/chrome-doesnt-delete-session-cookies">Chrome doesn&#39;t delete session cookies</a></li>
+<li><a href="https://developer.apple.com/passkeys/">Passkeys Overview - Apple Developer</a></li>
+<li><a href="https://jp.quora.com/%E3%81%AA%E3%81%9E%E3%81%AA%E3%81%9E%E8%AA%8D%E8%A8%BC%E3%81%A8%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%82%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8B">なぞなぞ認証とはどのようなものですか？</a></li>
+<li><a href="https://www.electrifyamerica.com/">Electrify America</a></li>
+<li><a href="https://www.okta.com/">Okta</a></li>
+<li><a href="https://developer.apple.com/videos/play/wwdc2022/110357/">Meet Swift Regex - WWDC22</a></li>
+<li><a href="https://swiftregex.com/?s=H4sIAAAAAAAAA6VRwU6DQBD9lcnGxDYiLIu1SW%2FY5bBRoSnbk%2BsBgXIQWAJLIql8jX%2Fil7m0CVo8ePAlk5nJ5r15s3NAFVqh2XrrUcbfqXfH%2BFyI5momRHKwDdJbZ8VNP0cGkmj1hDJdFOjZQMrWCvfMp3AEdbkHI5gfcsZ3nAU%2BTOA%2BBjufi%2FL6nxDlyf2giR0L2xbBhAzdJupqmeewr2UBaVHlskvr0%2FALgrFJnCnXGblh21RprMCd2h64BsZ4CBNjUR4%2FDX4r8DS5bGCTKtjK%2BBXCqIxVG9XdXwqLUYHKNtMStM1kq3SXNd8eHMckyzPq7c%2Fhwdte1gmsZVFEepeqyjt4UImpnz4%2FFkvT0avrA77o0%2BmkyJD7Lxfrlj8NAgAA">Swift Regex</a></li>
+<li><a href="https://emojipedia.org/zero-width-joiner/">Zero Width Joiner (ZWJ) Emoji</a></li>
+<li><a href="https://buf.build/blog/connect-a-better-grpc">Buf | Connect: A better gRPC</a></li>
+<li><a href="https://www.wired.com/story/blake-lemoine-google-lamda-ai-bigotry/">Blake Lemoine Says Google&#39;s LaMDA AI Faces &#39;Bigotry&#39;</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%95%E6%95%B0">アレフ数</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B09NBZLC7J/?tag=bulknews-22">プロジェクト・ヘイル・メアリー</a></li>
+<li><a href="https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7">For All Mankind</a></li>
+<li><a href="https://www.netflix.com/title/80057281">Watch Stranger Things</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B01DJ34YBK?tag=bulknews-22">禅とオートバイ修理技術本</a></li>
+<li><a href="https://satoru-takeuchi.hatenablog.com/entry/2022/04/21/211031">kindleの本が全部消えた話</a></li>
+<li><a href="https://www.vox.com/2022/6/24/23181720/supreme-court-dobbs-jackson-womens-health-samuel-alito-roe-wade-abortion-marriage-contraception">The Roe v. Wade abortion decision, explained</a></li>
+<li><a href="https://blog.google/technology/safety-security/protecting-peoples-privacy-on-health-topics/">Google: Protecting people’s privacy on health topics</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lawrence_v._Texas">Lawrence v. Texas</a></li>
+<li><a href="https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/">Arizona moves &quot;to kill public education&quot; with new universal voucher law</a></li>
+<li><a href="https://tv.apple.com/us/show/wecrashed/umc.cmc.6qw605uv2rwbzutk2p2fsgvq9">WeCrashed</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Mon, 04 Jul 2022 01:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/338/</link>
+        <guid isPermaLink="true">https://rebuild.fm/338/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>N</atom:name>
+          <atom:uri>https://rebuild.fm/people/N/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Naoki Hiroshima さんをゲストに迎えて、Twitter, Passkey, CarPlay, Swift, Roe v. Wade などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:56:52</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep338.mp3" type="audio/mpeg" length="127793947" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>337: Cyborg Kevin (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、WWDC, CarPlay, Passkey, M2, MacBook Air, iPad などについて話しました。</p>
 <h3>Show Notes</h3><ul>
@@ -83,7 +138,7 @@
         <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、WWDC, CarPlay, Passkey, M2, MacBook Air, iPad などについて話しました。
 </itunes:subtitle>
         <itunes:duration>2:44:25</itunes:duration>
-        <enclosure url="https://cache.rebuild.fm/podcast-ep337.mp3" type="audio/mpeg" length="79369458" />
+        <enclosure url="https://cache.rebuild.fm/podcast-ep337.mp3?_=1655092926" type="audio/mpeg" length="79368492" />
         
       </item>
     
