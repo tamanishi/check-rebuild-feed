@@ -25,6 +25,52 @@
     
     
       <item>
+        <title>339: We Had Udon for Dinner (higepon)</title>
+        <description><![CDATA[ <p>Taro Minowa さんをゲストに迎えて、競馬とAI, GitHub Actions, 貯蓄、ゲームなどについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://en.wikipedia.org/wiki/Doomscrolling">Doomscrolling</a></li>
+<li><a href="https://www.e-printservice.net/">eプリントサービス | コンビニで新聞・出走表</a></li>
+<li><a href="https://zenn.dev/kami/articles/66e400c8a43cd08a5d7f">データ収集から機械学習まで全て行って競馬の予測をしてみた</a></li>
+<li><a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">Beautiful Soup</a></li>
+<li><a href="https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15">What is Exploratory Data Analysis?</a></li>
+<li><a href="https://aiacademy.jp/texts/show/?id=140">AI Academy | 分類と回帰</a></li>
+<li><a href="https://www.gameaddict.co.jp/derbystallion/">ダービースタリオン</a></li>
+<li><a href="https://github.com/features/actions">GitHub Actions</a></li>
+<li><a href="https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule">Events that trigger workflows</a></li>
+<li><a href="https://www.macworld.com/article/220774/control-time-machine-from-the-command-line.html">Control Time Machine from the command line</a></li>
+<li><a href="https://www.amazon.co.jp/DIE-ZERO-%E4%BA%BA%E7%94%9F%E3%81%8C%E8%B1%8A%E3%81%8B%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%99%E3%81%8E%E3%82%8B%E7%A9%B6%E6%A5%B5%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB-%E3%83%93%E3%83%AB%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B9-ebook/dp/B08K88Z2XR?tag=bulknews-22">DIE WITH ZERO</a></li>
+<li><a href="https://www.playstation.com/en-us/games/stray/">Stray</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B07S9Q1TY4/?tag=bulknews-22">血と汗とピクセル</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 12 Jul 2022 23:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/339/</link>
+        <guid isPermaLink="true">https://rebuild.fm/339/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>higepon</atom:name>
+          <atom:uri>https://rebuild.fm/people/higepon/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Taro Minowa さんをゲストに迎えて、競馬とAI, GitHub Actions, 貯蓄、ゲームなどについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:25:49</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep339.mp3" type="audio/mpeg" length="62240264" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>338: Regex with Soft G (N)</title>
         <description><![CDATA[ <p>Naoki Hiroshima さんをゲストに迎えて、Twitter, Passkey, CarPlay, Swift, Roe v. Wade などについて話しました。</p>
 <h3>Show Notes</h3><ul>
