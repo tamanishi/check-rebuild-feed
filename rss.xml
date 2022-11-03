@@ -25,6 +25,54 @@
     
     
       <item>
+        <title>346: Architecture Astronaut (naoya)</title>
+        <description><![CDATA[ <p>Naoya Ito さんをゲストに迎えて、Rust, 関数型、プログラミングなどについて話しました。(2022/10/24 Rebuild Meetup イベントにて収録)</p>
+
+<p>スポンサー: <a href="https://www.gmo.jp/">GMOインターネットグループ株式会社 </a></p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://twitter.com/t_wada">Takuto Wada (@t_wada) / Twitter</a></li>
+<li><a href="https://github.com/power-assert-js/power-assert">power-assert</a></li>
+<li><a href="https://news.ycombinator.com/">Hacker News</a></li>
+<li><a href="https://github.com/ogham/exa">exa: A modern replacement for ‘ls’.</a></li>
+<li><a href="https://github.com/sharkdp/fd">fd: A simple, fast and user-friendly alternative to &#39;find&#39;</a></li>
+<li><a href="https://speakerdeck.com/naoya/typescript-niyoru-graphql-batukuendokai-fa-75b3dab7-90a8-4169-a4dc-d1e7410b9dbd">TypeScript による GraphQL バックエンド開発</a></li>
+<li><a href="https://pragprog.com/titles/swdddf/domain-modeling-made-functional/">Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# by Scott Wlaschin</a></li>
+<li><a href="https://rebuild.fm/328/">Rebuild: 328: Therapeutic Podcasting (naan)</a></li>
+<li><a href="https://parceljs.org/">Parcel</a></li>
+<li><a href="https://qwik.builder.io/">Qwik</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Midlife_crisis">Midlife crisis</a></li>
+<li><a href="https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/">Don’t Let Architecture Astronauts Scare You – Joel on Software</a></li>
+<li><a href="https://www.youtube.com/watch?v=gnWeCXESKXo">Studio Display 徹底比較してみた！🔥Nano Textureありなし, XDR, iMac 24&quot;</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Thu, 03 Nov 2022 01:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/346/</link>
+        <guid isPermaLink="true">https://rebuild.fm/346/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>naoya</atom:name>
+          <atom:uri>https://rebuild.fm/people/naoya/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Naoya Ito さんをゲストに迎えて、Rust, 関数型、プログラミングなどについて話しました。(2022/10/24 Rebuild Meetup イベントにて収録)
+</itunes:subtitle>
+        <itunes:duration>45:56</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep346.mp3" type="audio/mpeg" length="33520501" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>345: You Don't Need Permission (yuka)</title>
         <description><![CDATA[ <p>Yuka Ohishi さんをゲストに迎えて、帰国、Apple, iPad などについて話しました。(2022/10/24 Rebuild Meetup イベントにて収録)</p>
 
