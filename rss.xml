@@ -25,6 +25,59 @@
     
     
       <item>
+        <title>357: Keyswitch Room (naoya)</title>
+        <description><![CDATA[ <p>Naoya Ito さんをゲストに迎えて、YAPC, ChatGPT, キーボード、アニメなどについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://yapcjapan.org/2023kyoto/">YAPC::Kyoto 2023</a></li>
+<li><a href="https://onishi.hatenablog.com/entry/2023/03/20/141549">YAPC::Kyoto 2023 に参加し、キーノート喋ってきました裏話 - 大西ブログ</a></li>
+<li><a href="https://openai.com/research/gpt-4">GPT-4</a></li>
+<li><a href="https://qiita.com/autotaker1984/items/2929937cd1fea6137d1f">GPT-4は青色コーダーの夢を見るか</a></li>
+<li><a href="https://www.theverge.com/2023/3/15/23640180/openai-gpt-4-launch-closed-research-ilya-sutskever-interview">OpenAI co-founder on company’s past approach to openly sharing research: ‘We were wrong’</a></li>
+<li><a href="https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html">Google Duplex</a></li>
+<li><a href="https://pecotter.jp/">飲食店の予約代行サービス「ペコッター」</a></li>
+<li><a href="https://rebuild.fm/352/">Rebuild: 352: There&#39;s a Fifth Way (naoya)</a></li>
+<li><a href="https://shop.yushakobo.jp/en/products/3854">Gateron Oil King Linear Switches</a></li>
+<li><a href="https://shop.yushakobo.jp/en/products/6337">Durock Black Lotus Linear</a></li>
+<li><a href="https://www.gateron.co/products/gateron-baby-kangaroo-tactile-switch-set#:%7E:text=The%20Baby%20Kangaroo%20switch%20is,for%20about%2060%20million%20cycles.">Gateron Baby Kangaroo Tactile Switch Set</a></li>
+<li><a href="https://www.kiiboom.com/products/kiiboom-taro-cream-milk-switches">KiiBOOM Taro Cream Milk Switches</a></li>
+<li><a href="https://nuphy.com/products/nuphy-rose-glacier-switches">NuPhy Rose Glacier Switches</a></li>
+<li><a href="https://www.keychron.com/collections/keychron-v-series-keyboard">Keychron V Series Keyboard</a></li>
+<li><a href="https://nuphy.com/products/halo65">NuPhy Halo65 Wireless Mechanical Keyboard</a></li>
+<li><a href="https://talpkeyboard.net/">TALPKEYBOARD</a></li>
+<li><a href="https://rebuild.fm/105/">Rebuild: 105: Fullstack Final Fantasy Framework (Naoya Ito)</a></li>
+<li><a href="https://bocchi.rocks/">ぼっち・ざ・ろっく！</a></li>
+<li><a href="https://slamdunk-movie.jp/">THE FIRST SLAM DUNK</a></li>
+<li><a href="https://twitter.com/o1pam/status/1633820171361206273">韓国のスラムダンク旋風えぐすぎる</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Wed, 22 Mar 2023 22:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/357/</link>
+        <guid isPermaLink="true">https://rebuild.fm/357/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>naoya</atom:name>
+          <atom:uri>https://rebuild.fm/people/naoya/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Naoya Ito さんをゲストに迎えて、YAPC, ChatGPT, キーボード、アニメなどについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:53:43</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep357.mp3" type="audio/mpeg" length="82328079" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>356: Little Core For Budget Sushi (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、Silicon Valley Bank, レイオフ、Galaxy S23, テレビ、スマートホームなどについて話しました。</p>
 <h3>Show Notes</h3><ul>
