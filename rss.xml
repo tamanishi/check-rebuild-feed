@@ -25,6 +25,47 @@
     
     
       <item>
+        <title>360: Hallucinated Type Safety (matz)</title>
+        <description><![CDATA[ <p>まつもとゆきひろさんをゲストに迎えて、Ruby, 型、ChatGPT などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://rubykaigi.org/2023/">RubyKaigi 2023</a></li>
+<li><a href="https://twitter.com/dhh/status/1655076668787097607">DHH on Twitter: &quot;TypeScript sucked out much of the joy I had writing JavaScript&quot;</a></li>
+<li><a href="https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html">Accidentally Turing-Complete</a></li>
+<li><a href="https://sorbet.org/">Sorbet</a></li>
+<li><a href="https://github.com/soutaro/steep">steep</a></li>
+<li><a href="https://developer.fastly.com/learning/compute/custom/">Unofficial SDKs on Compute@Edge</a></li>
+<li><a href="https://voicy.jp/channel/2940">まつもと ゆきひろ「Matzチャンネル」</a></li>
+<li><a href="http://25.ruby.or.jp/">Ruby25</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sat, 13 May 2023 06:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/360/</link>
+        <guid isPermaLink="true">https://rebuild.fm/360/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>matz</atom:name>
+          <atom:uri>https://rebuild.fm/people/matz/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>まつもとゆきひろさんをゲストに迎えて、Ruby, 型、ChatGPT などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>29:27</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep360.mp3" type="audio/mpeg" length="21657904" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>359: AI Took My Job (rui314)</title>
         <description><![CDATA[ <p>Rui Ueyama さんをゲストに迎えて、引っ越し、オープンソースビジネス、AI、デスクなどについて話しました。</p>
 <h3>Show Notes</h3><ul>
