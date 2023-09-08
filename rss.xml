@@ -25,6 +25,54 @@
     
     
       <item>
+        <title>368: Editing in Cebu (inao)</title>
+        <description><![CDATA[ <p>inao さんをゲストに迎えて、WEB+DB PRESS、コミュニティ、技術系雑誌などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://connpass.com/event/285724/">WEB+DB PRESS創刊22.9周年パーティ(副題 うまい肉とIPA) - connpass</a></li>
+<li><a href="https://twitter.com/naoya_ito/status/1652888234605826050">naoya: &quot;WEB+DB PRESSカンファレンスやりましょう&quot;</a></li>
+<li><a href="https://type.jp/et/feature/19052/">日本初のLT、LLイベント…セミナーの歴史に見るITトレンドの移り変わり</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Year_2000_problem">Year 2000 problem</a></li>
+<li><a href="http://www.rubycolor.org/takahashi/">高橋メソッド</a></li>
+<li><a href="http://shibuya.pm.org/">Shibuya Perl Mongers</a></li>
+<li><a href="https://www.githubkaigi.org/">GitHub Kaigi</a></li>
+<li><a href="https://github.com/naoya/md2inao">naoya/md2inao: Convert markdown to inao-format for WEB+DB PRESS</a></li>
+<li><a href="https://www.newscientist.com/article/2229238-a-lazy-fix-20-years-ago-means-the-y2k-bug-is-taking-down-computers-now/">A lazy fix 20 years ago means the Y2K bug is taking down computers now | New Scientist</a></li>
+<li><a href="https://news.ycombinator.com/">Hacker News</a></li>
+<li><a href="https://substack.com/">Substacke</a></li>
+<li><a href="https://stratechery.com/">Stratechery</a></li>
+<li><a href="https://newsletter.pragmaticengineer.com/">The Pragmatic Engineer</a></li>
+<li><a href="https://paperswelove.org/">Papers We Love</a></li>
+<li><a href="https://techbookfest.org/">技術書典：技術書オンリーイベント</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Thu, 07 Sep 2023 20:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/368/</link>
+        <guid isPermaLink="true">https://rebuild.fm/368/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>inao</atom:name>
+          <atom:uri>https://rebuild.fm/people/inao/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>inao さんをゲストに迎えて、WEB+DB PRESS、コミュニティ、技術系雑誌などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>54:32</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep368.mp3" type="audio/mpeg" length="39716132" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>367: Prefetched Energy Drink (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、深セン、PlayStation Portal、チップ、プログラミング、コードレビューなどについて話しました。</p>
 <h3>Show Notes</h3><ul>
