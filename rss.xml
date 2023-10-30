@@ -25,6 +25,55 @@
     
     
       <item>
+        <title>372: It Works 90% of the Time (naoya)</title>
+        <description><![CDATA[ <p>Naoya Ito さんをゲストに迎えて、HHKB Studio, iPhone 15 Pro, Apple イベント、Twitter, Passkey などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://rebuild.fm/368/">Rebuild: 368: Editing in Cebu (inao)</a></li>
+<li><a href="https://happyhackingkb.com/jp/products/studio/">Happy Hacking Keyboard | Studio</a></li>
+<li><a href="https://kineticlabs.com/switches/kinetic/gecko-silent-linear-switches">Gecko Silent Linear Switches</a></li>
+<li><a href="https://www.keychron.com/products/keychron-k11-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard">Keychron K11 Pro (Alice Layout)</a></li>
+<li><a href="https://www.keychron.com/products/gateron-baby-kangaroo-tactile-switch">Gateron Baby Kangaroo Tactile Switch</a></li>
+<li><a href="https://shop.keyboard.io/products/kailh-box-silent-brown-tactile-switches-x-10">Kailh BOX Silent Brown tactile switches</a></li>
+<li><a href="https://www.lofree.co/products/lofree-flow-the-smoothest-mechanical-keyboard">LOFREE FLOWd</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0CD56D3XQ?tag=bulknews-22">タイプスティック</a></li>
+<li><a href="https://www.youtube.com/watch?v=_HHS86t-pVU">究極のアクションボタン攻略法</a></li>
+<li><a href="https://www.macrumors.com/guide/apple-october-2023-event/">What to Expect From the &#39;Scary Fast&#39; October 30 Apple Event</a></li>
+<li><a href="https://passkeys.directory/">Passkeys.directory</a></li>
+<li><a href="https://developers.google.com/identity/passkeys/supported-environments#:%7E:text=Chrome%20on%20macOS%2013.5%20and,t%20synchronized%20to%20other%20devices.">Passkey support on Android and Chrome</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj">iCloud Passwords - Chrome Web Store</a></li>
+<li><a href="https://about.yahoo.co.jp/pr/release/2023/03/14b/">Yahoo! JAPAN、“パスキー”に対応</a></li>
+<li><a href="https://www.heygen.com/">HeyGen - AI Video Generator</a></li>
+<li><a href="https://twitter.com/iowateslaguy/status/1715547407272857855">&quot;This is wild. Used AI to translate this from English to Japanese.&quot;</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sun, 29 Oct 2023 22:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/372/</link>
+        <guid isPermaLink="true">https://rebuild.fm/372/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>naoya</atom:name>
+          <atom:uri>https://rebuild.fm/people/naoya/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Naoya Ito さんをゲストに迎えて、HHKB Studio, iPhone 15 Pro, Apple イベント、Twitter, Passkey などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:40:01</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep372.mp3" type="audio/mpeg" length="72463905" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>371: Turned Off 15 Lights (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、Pixel Watch 2, Pixel 8 Pro, iPhone 15 Pro, Quest 3 などについて話しました。</p>
 <h3>Show Notes</h3><ul>
