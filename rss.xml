@@ -25,6 +25,64 @@
     
     
       <item>
+        <title>374: OpenAI Is Nothing Without GPU (らんぶる)</title>
+        <description><![CDATA[ <p>らんぶるさんをゲストに迎えて、OpenAI について話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://twitter.com/tamuramble/status/1727332374864961860">らんぶる: OpenAIと信仰体系</a></li>
+<li><a href="https://openai.com/blog/openai-announces-leadership-transition">OpenAI announces leadership transition</a></li>
+<li><a href="https://twitter.com/gdb/status/1725667410387378559">Greg Brockman: &quot;After learning today’s news, this is the message I sent to the OpenAI team&quot;</a></li>
+<li><a href="https://twitter.com/sama/status/1726345564059832609">Sam Altman: &quot;first and last time i ever wear one of these&quot;</a></li>
+<li><a href="https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo">OpenAI board in discussions with Sam Altman to return as CEO</a></li>
+<li><a href="https://open.spotify.com/episode/4i4lKsKevNSGEUnuu7Jzn6">Microsoft CEO Satya Nadella on the OpenAI Debacle - On with Kara Swisher</a></li>
+<li><a href="https://twitter.com/ilyasut/status/1726590052392956028">Ilya Sutskever: &quot;I deeply regret my participation in the board&#39;s actions.&quot;</a></li>
+<li><a href="https://www.theverge.com/2023/11/22/23972572/microsoft-internal-memo-kevin-scott-openai">Read Microsoft’s internal memos about the chaos at OpenAI</a></li>
+<li><a href="https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai">Sam Altman returns as CEO OpenAI</a></li>
+<li><a href="https://twitter.com/mattturck/status/1726017399176999196">Matt Turck: &quot;Sam Altman returning to OpenAI after a day is like Steve Jobs returning to Apple after 12 years, but for the TikTok generation&quot;</a></li>
+<li><a href="https://openai.com/charter">OpenAI Charter</a></li>
+<li><a href="https://www.theheadline.jp/articles/972">効果的加速主義とは何か？シリコンバレーで話題の新トレンド</a></li>
+<li><a href="https://www.smh.com.au/technology/helen-toner-the-effective-altruist-who-sparked-the-open-ai-coup-20231123-p5emb7.html">Open AI: Helen Toner, the effective altruist who sparked the Open AI coup</a></li>
+<li><a href="https://devday.openai.com/">OpenAI DevDay</a></li>
+<li><a href="https://twitter.com/paulg/status/1726633790980964518">Paul Graham: &quot;Unexpected advantage of appointing board members....&quot;</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Adam_D%27Angelo">Adam D&#39;Angelo</a></li>
+<li><a href="https://quorablog.quora.com/Poe-1">Poe</a></li>
+<li><a href="https://www.bloomberg.com/news/videos/2023-11-20/microsoft-wants-to-work-with-altman-no-matter-what-video">Microsoft Wants to Work With Altman, No Matter What, CEO Nadella Says</a></li>
+<li><a href="http://www.paulgraham.com/microsoft.html">Microsoft is Dead</a></li>
+<li><a href="https://www.businessofbusiness.com/articles/y-combinator-where-are-they-now-first-batch-reddit-twitch/">Y Combinator’s First Batch</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Justin.tv">Justin.tv</a></li>
+<li><a href="https://www.infoworld.com/article/2646042/did-google-kill-kiko.html">Did Google kill Kiko?</a></li>
+<li><a href="https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/">Cruise co-founder and CEO Kyle Vogt resigns</a></li>
+<li><a href="https://twitter.com/defunkt/status/1726738430355558759">defunkt: &quot;I too was asked to be the interim OpenAI CEO.&quot;</a></li>
+<li><a href="https://tamuramble.theletter.jp/">ｺｯｶﾗSaaS</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Fri, 24 Nov 2023 03:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/374/</link>
+        <guid isPermaLink="true">https://rebuild.fm/374/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>tamuramble</atom:name>
+          <atom:uri>https://rebuild.fm/people/tamuramble/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>らんぶるさんをゲストに迎えて、OpenAI について話しました。
+</itunes:subtitle>
+        <itunes:duration>1:34:13</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep374.mp3" type="audio/mpeg" length="68279508" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>373: Dynamically Allocated Wasabi (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、M3チップ、MacBook Pro, チップ業界などについて話しました。</p>
 <h3>Show Notes</h3><ul>
