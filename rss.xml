@@ -25,6 +25,53 @@
     
     
       <item>
+        <title>385: Too Many Context Switches (naan)</title>
+        <description><![CDATA[ <p>Kazuho Okui さんをゲストに迎えて、WWDC, Swift UI, OpenAI, Web Extension などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.hillspet.com/dog-care/dog-breeds/morkie">Morkie Dog Breed</a></li>
+<li><a href="https://www.youtube.com/watch?v=TP4VQTUbypM">MKBHD: The Best Mac I&#39;ve Ever Reviewed!</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2024-06-07/apple-wwdc-2024-what-to-expect-ai-ipados-18-macos-15-siri-updates-more?embedded-checkout=true">Apple WWDC 2024 What to Expect: AI, iPadOS, iOS 18, macOS 15, Siri Updates, More</a></li>
+<li><a href="https://forums.swift.org/t/swift-6-0-release-process/70220">Swift 6.0 Release Process</a></li>
+<li><a href="https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2024">The Talk Show Live From WWDC 2024</a></li>
+<li><a href="https://www.theverge.com/2024/5/22/24162429/scarlett-johansson-openai-legal-right-to-publicity-likeness-midler-lawyers">Lawyers say OpenAI could be in real trouble with Scarlett Johansson</a></li>
+<li><a href="https://x.com/sama/status/1790075827666796666?lang=en">Sam Altman on X: &quot;her&quot;</a></li>
+<li><a href="https://www.vox.com/future-perfect/353933/openai-open-letter-safety-whistleblowers-right-to-warn">OpenAI insiders have signed an open letter demanding a &quot;right to warn&quot; the public about AI risks</a></li>
+<li><a href="https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3">Extensions / Manifest V3</a></li>
+<li><a href="https://developer.apple.com/documentation/safariservices/safari_web_extensions">Safari web extensions</a></li>
+<li><a href="https://webauthn.guide/">Guide to Web Authentication</a></li>
+<li><a href="https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app">The Delta Emulator is changing its logo after Adobe threatened it</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0CSPHXJYM?tag=bulknews-22&th=1">8BitDo Pro 2 Switch用のBluetoothコントローラー</a></li>
+<li><a href="https://www.youtube.com/watch?v=el4dGYF_38I">Delta&#39;s 10-year journey to the top of the App Store</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sun, 09 Jun 2024 21:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/385/</link>
+        <guid isPermaLink="true">https://rebuild.fm/385/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>naan</atom:name>
+          <atom:uri>https://rebuild.fm/people/naan/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Kazuho Okui さんをゲストに迎えて、WWDC, Swift UI, OpenAI, Web Extension などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:35:17</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep385.mp3" type="audio/mpeg" length="69058580" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>384: Tandem Pizza (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、iPad Pro, rabbit r1, ゲーム、Intel などについて話しました。</p>
 <h3>Show Notes</h3><ul>
@@ -46,7 +93,7 @@
 <li><a href="https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/">A New Era for Mixed Reality | Meta Quest Blog</a></li>
 <li><a href="https://www.amazon.co.jp/dp/B0CN4H1V9F?tag=bulknews-22">Fallout</a></li>
 <li><a href="https://www.netflix.com/jp-en/title/81454087">City Hunter | Netflix</a></li>
-<li><a href="https://www.amazon.co.jp/dp/B0CXMFMDTS?tag=bulknews-22">鬼太郎誕生 ゲゲゲの謎o</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0CXMFMDTS?tag=bulknews-22">鬼太郎誕生 ゲゲゲの謎</a></li>
 <li><a href="https://www.jp.square-enix.com/ffvii_rebirth/">FINAL FANTASY VII REBIRTH</a></li>
 <li><a href="https://www.playstation.com/ja-jp/games/stellar-blade/">Stellar Blade</a></li>
 <li><a href="https://preducts.jp/">PREDUCTS - Desk for Good Work</a></li>
