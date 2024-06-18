@@ -25,6 +25,65 @@
     
     
       <item>
+        <title>386: Craig in Paris (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、WWDC, Copilot+ PC, コンテンツなどについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://news.yahoo.co.jp/expert/articles/bdabf6f6fdde368be80c405928e7e46579b40012">もはや酒屋？「狂ったセブン」コロナ禍乗り越え今日もクラフトビールだらけ</a></li>
+<li><a href="https://developer.apple.com/videos/play/wwdc2024/101/">Keynote - WWDC24</a></li>
+<li><a href="https://www.youtube.com/watch?v=D7TB8b2t3QE">Project Glass: Live Demo At Google I/O</a></li>
+<li><a href="https://www.uploadvr.com/apple-vision-pro-enterprise-raw-camera-access/">Apple Will Give Enterprise Access To Vision Pro&#39;s Cameras</a></li>
+<li><a href="https://x.com/googlejapan/status/1798127592853160151">Chrome のロゴ、実は微妙にグラデーションがかかってる！？</a></li>
+<li><a href="https://zenless.hoyoverse.com/en-us/">Zenless Zone Zero</a></li>
+<li><a href="https://www.theverge.com/2024/6/13/24177599/apple-google-japan-law-third-party-app-stores-competition">Apple and Google won’t be able to stop third-party app stores in Japan</a></li>
+<li><a href="https://www.reuters.com/technology/apple-meta-set-face-eu-charges-under-landmark-tech-rules-sources-say-2024-06-14/">Apple, Meta set to face EU charges under landmark tech rules, sources say</a></li>
+<li><a href="https://9to5mac.com/2024/06/14/spatial-audio-over-airplay-ios-18/">Spatial Audio now works over AirPlay with iOS 18</a></li>
+<li><a href="https://numi.app/">Numi</a></li>
+<li><a href="https://www.vogue.co.jp/article/parkour-next-trend">パルクールがネクストブームの予感</a></li>
+<li><a href="https://security.apple.com/blog/private-cloud-compute/">Private Cloud Compute: A new frontier for AI privacy in the cloud</a></li>
+<li><a href="https://daringfireball.net/2024/06/the_talk_show_live_from_wwdc_2024">Daring Fireball: The Talk Show Live From WWDC 2024</a></li>
+<li><a href="https://www.macrumors.com/2024/06/13/apple-not-paying-openai-chatgpt-ios-18/">Apple Reportedly Not Paying OpenAI to Use ChatGPT in iOS 18</a></li>
+<li><a href="https://techcrunch.com/2024/06/10/elon-musk-threatens-to-ban-apple-devices-from-his-companies-over-apples-chatgpt-integrations/">Elon Musk threatens to ban Apple devices from his companies over Apple&#39;s ChatGPT integrations</a></li>
+<li><a href="https://www.youtube.com/watch?v=pMX2cQdPubk">Talking Tech and AI with Tim Cook!</a></li>
+<li><a href="https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/">Introducing Copilot+ PCsg</a></li>
+<li><a href="https://www.microsoft.com/en-us/surface/devices/surface-laptop-7th-edition">Meet the new Surface Laptop 7th Edition, a Copilot+ PC</a></li>
+<li><a href="https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay">Microsoft’s all-knowing Recall AI feature is being delayed</a></li>
+<li><a href="https://lumalabs.ai/dream-machine">Luma Dream Machine</a></li>
+<li><a href="https://blog.nicovideo.jp/niconews/225099.html">ニコニコインフォ</a></li>
+<li><a href="https://www.reddit.com/r/macapps/comments/1d7zjv8/bartender_5_not_safe_anymore_warning_from/">Bartender 5 not safe anymore ?</a></li>
+<li><a href="https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12">Hidden Bar</a></li>
+<li><a href="https://www.crunchyroll.com/series/G8DHV7827/dead-dead-demons-dededede-destruction">DEAD DEAD DEMONS DEDEDEDE DESTRUCTION</a></li>
+<li><a href="https://www.st-trigger.co.jp/works/did/">ダンジョン飯</a></li>
+<li><a href="https://shumatsu-train.com/">終末トレインどこへいく？</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Mon, 17 Jun 2024 21:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/386/</link>
+        <guid isPermaLink="true">https://rebuild.fm/386/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、WWDC, Copilot+ PC, コンテンツなどについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:39:33</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep386.mp3" type="audio/mpeg" length="115325707" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>385: Too Many Context Switches (naan)</title>
         <description><![CDATA[ <p>Kazuho Okui さんをゲストに迎えて、WWDC, Swift UI, OpenAI, Web Extension などについて話しました。</p>
 <h3>Show Notes</h3><ul>
