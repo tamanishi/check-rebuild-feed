@@ -25,6 +25,55 @@
     
     
       <item>
+        <title>401: Super Deep Think (らんぶる)</title>
+        <description><![CDATA[ <p>らんぶるさんをゲストに迎えて、DeepSeek について話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.theverge.com/news/604902/chagpt-deep-research-ai-agent">ChatGPT’s agent can now do deep research for you</a></li>
+<li><a href="https://tamuramble.theletter.jp/posts/cb5efb30-e148-11ef-b109-6990bedecfd4">DeepSeekとハッカー魂 | ｺｯｶﾗSaaS</a></li>
+<li><a href="https://stratechery.com/2025/deepseek-faq/">DeepSeek FAQ – Stratechery by Ben Thompson</a></li>
+<li><a href="https://docs.nvidia.com/cuda/parallel-thread-execution/">PTX ISA 8.7 documentation</a></li>
+<li><a href="https://www.barrons.com/articles/ai-deepseek-microsoft-jevons-paradox-f0467141">Jevons Paradox: Why Microsoft CEO Satya Nadella Says It Applies to AI Too</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%9C%E3%83%B3%E3%82%BA%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9">ジェボンズのパラドックス</a></li>
+<li><a href="https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/">David Sacks claims there&#39;s &#39;substantial evidence&#39; that DeepSeek used OpenAI&#39;s models to train its own</a></li>
+<li><a href="https://deepmind.google/technologies/gemini/flash-thinking/">Gemini Flash Thinking - Google DeepMind</a></li>
+<li><a href="https://ollama.com/">Ollama</a></li>
+<li><a href="https://ollama.com/library/deepseek-r1">deepseek-r1</a></li>
+<li><a href="https://aws.amazon.com/blogs/aws/deepseek-r1-models-now-available-on-aws/">DeepSeek-R1 models now available on AWS</a></li>
+<li><a href="https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/">DeepSeek R1 is now available on Azure AI Foundry and GitHub</a></li>
+<li><a href="https://thechinaacademy.org/interview-with-deepseek-founder-were-done-following-its-time-to-lead/">Interview with Deepseek Founder: We&#39;re Done Following. It&#39;s Time to Lead.</a></li>
+<li><a href="https://github.com/huggingface/open-r1">huggingface/open-r1: Fully open reproduction of DeepSeek-R1</a></li>
+<li><a href="https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit">Air Canada ordered to pay customer who was misled by airline’s chatbot</a></li>
+<li><a href="https://darioamodei.com/on-deepseek-and-export-controls">Dario Amodei — On DeepSeek and Export Controls</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Mon, 03 Feb 2025 21:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/401/</link>
+        <guid isPermaLink="true">https://rebuild.fm/401/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>tamuramble</atom:name>
+          <atom:uri>https://rebuild.fm/people/tamuramble/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>らんぶるさんをゲストに迎えて、DeepSeek について話しました。
+</itunes:subtitle>
+        <itunes:duration>1:24:57</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep401.mp3" type="audio/mpeg" length="61611954" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>400: Synthetic Sushi Ecosystem (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、サポータープログラム、CES, DeepSeek, OpenAI, TikTok などについて話しました。</p>
 <h3>Show Notes</h3><ul>
