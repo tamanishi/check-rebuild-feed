@@ -25,6 +25,1202 @@
     
     
       <item>
+        <title>401: Super Deep Think (らんぶる)</title>
+        <description><![CDATA[ <p>らんぶるさんをゲストに迎えて、DeepSeek について話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.theverge.com/news/604902/chagpt-deep-research-ai-agent">ChatGPT’s agent can now do deep research for you</a></li>
+<li><a href="https://tamuramble.theletter.jp/posts/cb5efb30-e148-11ef-b109-6990bedecfd4">DeepSeekとハッカー魂 | ｺｯｶﾗSaaS</a></li>
+<li><a href="https://stratechery.com/2025/deepseek-faq/">DeepSeek FAQ – Stratechery by Ben Thompson</a></li>
+<li><a href="https://docs.nvidia.com/cuda/parallel-thread-execution/">PTX ISA 8.7 documentation</a></li>
+<li><a href="https://www.barrons.com/articles/ai-deepseek-microsoft-jevons-paradox-f0467141">Jevons Paradox: Why Microsoft CEO Satya Nadella Says It Applies to AI Too</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%9C%E3%83%B3%E3%82%BA%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9">ジェボンズのパラドックス</a></li>
+<li><a href="https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/">David Sacks claims there&#39;s &#39;substantial evidence&#39; that DeepSeek used OpenAI&#39;s models to train its own</a></li>
+<li><a href="https://deepmind.google/technologies/gemini/flash-thinking/">Gemini Flash Thinking - Google DeepMind</a></li>
+<li><a href="https://ollama.com/">Ollama</a></li>
+<li><a href="https://ollama.com/library/deepseek-r1">deepseek-r1</a></li>
+<li><a href="https://aws.amazon.com/blogs/aws/deepseek-r1-models-now-available-on-aws/">DeepSeek-R1 models now available on AWS</a></li>
+<li><a href="https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/">DeepSeek R1 is now available on Azure AI Foundry and GitHub</a></li>
+<li><a href="https://thechinaacademy.org/interview-with-deepseek-founder-were-done-following-its-time-to-lead/">Interview with Deepseek Founder: We&#39;re Done Following. It&#39;s Time to Lead.</a></li>
+<li><a href="https://github.com/huggingface/open-r1">huggingface/open-r1: Fully open reproduction of DeepSeek-R1</a></li>
+<li><a href="https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit">Air Canada ordered to pay customer who was misled by airline’s chatbot</a></li>
+<li><a href="https://darioamodei.com/on-deepseek-and-export-controls">Dario Amodei — On DeepSeek and Export Controls</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Mon, 03 Feb 2025 21:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/401/</link>
+        <guid isPermaLink="true">https://rebuild.fm/401/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>tamuramble</atom:name>
+          <atom:uri>https://rebuild.fm/people/tamuramble/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>らんぶるさんをゲストに迎えて、DeepSeek について話しました。
+</itunes:subtitle>
+        <itunes:duration>1:24:57</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep401.mp3" type="audio/mpeg" length="61611954" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>400: Synthetic Sushi Ecosystem (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、サポータープログラム、CES, DeepSeek, OpenAI, TikTok などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.yodobashi.com/product/100000001005842024/">audio-technica ATR2100x-USB</a></li>
+<li><a href="https://rebuild.fm/portal/">Rebuild Supporter</a></li>
+<li><a href="https://www.youtube.com/@rebuild_fm">Rebuild Podcast - YouTube</a></li>
+<li><a href="https://www.dji.com/osmo-pocket-3">Osmo Pocket 3</a></li>
+<li><a href="https://www.auxia.io/">Auxia</a></li>
+<li><a href="https://www.youtube.com/watch?v=fjO9GPh_vJI">Nvdia&#39;s CES 2025 Event: Everything Revealed in 12 Minutes</a></li>
+<li><a href="https://www.nvidia.com/en-us/ai/cosmos/">NVIDIA Cosmos</a></li>
+<li><a href="https://www.nvidia.com/en-us/project-digits/">NVIDIA Project DIGITS</a></li>
+<li><a href="https://www.ces.tech/ces-innovation-awards/2025/electric-salt-spoon/">Electric Salt Spoon</a></li>
+<li><a href="https://api-docs.deepseek.com/news/news250120">DeepSeek-R1</a></li>
+<li><a href="https://stratechery.com/2025/deepseek-faq/">DeepSeek FAQ</a></li>
+<li><a href="https://openai.com/index/introducing-operator/">Introducing Operator research preview | OpenAI</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2025-01-24/apple-enlists-company-veteran-kim-vorrath-to-help-fix-ai-and-siri">Apple Enlists Company Veteran Kim Vorrath to Help Fix AI, Siri</a></li>
+<li><a href="https://daringfireball.net/2025/01/siri_is_super_dumb_and_getting_dumber">Daring Fireball: Siri Is Super Dumb and Getting Dumber</a></li>
+<li><a href="https://openai.com/index/announcing-the-stargate-project/">Announcing The Stargate Project | OpenAI</a></li>
+<li><a href="https://9to5mac.com/2025/01/22/lawyer-explains-why-apple-cant-bring-tiktok-back-to-the-app-store-yet/">Lawyer explains why Apple can’t bring TikTok back to the App Store yet</a></li>
+<li><a href="https://www.nintendo.com/successor/en-us/index.html?srsltid=AfmBOoqYeDrhr1KNAX2nQq25BDYZRE9U1jhJa_SytnJzLucVsXxoqXfB">Nintendo Switch 2</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0DG58FMBD?tag=bulknews-22&th=1">CIO スパイラルケーブル</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Metasyntactic_variable">Metasyntactic variable</a></li>
+<li><a href="https://www.amazon.co.jp/%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%82%8F%E3%82%8B%E3%81%8D%E3%82%85%E3%83%BC%E3%82%8C-%E9%AB%99%E7%9F%B3%E3%81%82%E3%81%8B%E3%82%8A/dp/B0C9FVXWPG">ベイビーわるきゅーれ</a></li>
+<li><a href="https://www.amazon.co.jp/%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%EF%BD%A5%E3%83%AC%E3%83%99%E3%83%AB/dp/B0DK72G6Z3/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=20D2FYLMWS8MH&dib=eyJ2IjoiMSJ9.7g82MTMZQmX1y53-Igf5H4PNxINqySZ9KzpobVUor7DVw8kQ0F9PcvJ0K9sioJ7-BJZG_EtH7OVUkqoG1LdhPDcMvUfbQcZfWQrRK7u7NlZa8DBZdDdl6v8vZ822Td7n.o6OrSMPco8pycs3KeJlbm6t60uFB3_L8TkQrh4oUshQ&dib_tag=se&keywords=secret+level&qid=1738132760&sprefix=secret+level%2Caps%2C99&sr=8-1">シークレット･レベル シーズン１</a></li>
+<li><a href="https://disneyplus.disney.co.jp/program/shogun">SHOGUN 将軍</a></li>
+<li><a href="https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx">Severance - Apple TV+</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 28 Jan 2025 23:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/400/</link>
+        <guid isPermaLink="true">https://rebuild.fm/400/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、サポータープログラム、CES, DeepSeek, OpenAI, TikTok などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:01:04</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep400.mp3" type="audio/mpeg" length="87623371" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>399: Speakeasy Kissa (craigmod)</title>
+        <description><![CDATA[ <p>Craig Mod さんをゲストに迎えて、Kissa by Kissa, クラウドファンディング、Boox Palma, Daylight Computer などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://flipboard.com/">Flipboard</a></li>
+<li><a href="https://craigmod.com/journal/gf1-fieldtest/">GF1 Field Test — 16 Days in the Himalayas — by Craig Mod</a></li>
+<li><a href="https://ia.net/">iA</a></li>
+<li><a href="https://craigmod.com/books/kissa_by_kissa-ja/">Kissa by Kissa: 路上と喫茶ー僕が日本を歩いて旅する理由 — by Craig Mod</a></li>
+<li><a href="https://www.tbs.co.jp/matsuko-sekai/oldv8/202311141/">昭和レトロ喫茶店の世界：マツコの知らない世界</a></li>
+<li><a href="https://athleticbrewing.com/">Athletic Brewing Company</a></li>
+<li><a href="https://www.nytimes.com/interactive/2023/travel/52-places-travel-2023.html">52 Places for Travelers to Visit in 2023 - The New York Times</a></li>
+<li><a href="https://craigmod.com/ridgeline/200/">Nytimes Pick 2025: Toyama and Noto — Ridgeline issue 200</a></li>
+<li><a href="https://github.com/cmod/craigstarter">craigstarter: An open source crowdfunding tool built on Shopify</a></li>
+<li><a href="https://rebuild.fm/portal/">Rebuild Supporter</a></li>
+<li><a href="https://stripe.com/payments/payment-links">Stripe Payment Links</a></li>
+<li><a href="https://memberful.com/">Memberful</a></li>
+<li><a href="https://craigmod.com/membership/">SPECIAL PROJECTS — Become a Supporting Member of Craig Mod and his Work</a></li>
+<li><a href="https://www.campaignmonitor.com/">Campaign Monitor</a></li>
+<li><a href="https://listmonk.app/">listmonk</a></li>
+<li><a href="https://rmondello.com/2025/01/02/magic-links-and-passkeys/">Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over</a></li>
+<li><a href="https://www.corbado.com/blog/webauthn-conditional-ui-passkeys-autofill">WebAuthn Conditional UI (Passkeys Autofill)</a></li>
+<li><a href="https://shop.boox.com/products/palma2?srsltid=AfmBOor2MN5h_Kvf7RngdSJJ7ysb-4n0xUoum3ZpnVSbSUQRY2IB8mnT">BOOX Palma 2</a></li>
+<li><a href="https://remarkable.com/store/remarkable-2">reMarkable 2</a></li>
+<li><a href="https://daylightcomputer.com/">Daylight | A More Caring Computer</a></li>
+<li><a href="https://readwise.io/read">Readwise Reader</a></li>
+<li><a href="https://apps.apple.com/us/app/balatro/id6502453075">Balatro</a></li>
+<li><a href="https://brettterpstra.com/projects/nvalt/">nvALT</a></li>
+<li><a href="https://getbrick.app/">Brick</a></li>
+<li><a href="https://freedom.to/freedom-for-mac">Freedom for Mac</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Fri, 10 Jan 2025 02:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/399/</link>
+        <guid isPermaLink="true">https://rebuild.fm/399/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>craigmod</atom:name>
+          <atom:uri>https://rebuild.fm/people/craigmod/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Craig Mod さんをゲストに迎えて、Kissa by Kissa, クラウドファンディング、Boox Palma, Daylight Computer などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:53:27</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep399.mp3" type="audio/mpeg" length="82134883" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>398: Emacs Hashtag Is Trending (typester)</title>
+        <description><![CDATA[ <p>Daisuke Murase さんをゲストに迎えて、レイオフ、MacBook Pro, Bluesky, ゲームなどについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://unknownplace.org/blog/2024/12/13/i-was-laid-off/">レイオフされてまじで大変でした - unknownplace.org</a></li>
+<li><a href="https://news.ycombinator.com/show">Show | Hacker News</a></li>
+<li><a href="https://lobste.rs/">Lobsters</a></li>
+<li><a href="https://www.healthinsurance.org/short-term-health-insurance/oregon/">Short-term health insurance in Oregon</a></li>
+<li><a href="https://reeder.app/">Reeder</a></li>
+<li><a href="https://openvibe.social/">Openvibe</a></li>
+<li><a href="https://diablo4.blizzard.com/en-us/">Diablo IV</a></li>
+<li><a href="https://pathofexile2.com/early-access">Path of Exile 2</a></li>
+<li><a href="https://www.youtube.com/watch?v=K_nXpdLC85M">AIが画面を見ながらサポートしてくれるマイクラ実況</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sun, 22 Dec 2024 22:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/398/</link>
+        <guid isPermaLink="true">https://rebuild.fm/398/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>typester</atom:name>
+          <atom:uri>https://rebuild.fm/people/typester/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Daisuke Murase さんをゲストに迎えて、レイオフ、MacBook Pro, Bluesky, ゲームなどについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:38:21</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep398.mp3" type="audio/mpeg" length="71265677" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>397: Nostalgia Overdose (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、台湾、Intel, MacBook Pro, OpenAI などについて話しました。</p>
+
+<p>スポンサー: <a href="https://2025.srekaigi.net">SRE Kaigi</a></p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://jp.candyhouse.co/products/hub3?srsltid=AfmBOooJOwGGl-6yHd8ALNMC6BwGsAKijbmRAhHctVARWFGEo6-vvFat">Hub3</a></li>
+<li><a href="https://listen.style/p/listennews/qwremm0e">12/3 ポッドキャスターインタビュー・宮川達彦さん【Rebuild】 - LISTEN NEWS</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0D4DS4FC8?tag=bulknews-22&th=1">Loop Experience 2 Plus 耳栓</a></li>
+<li><a href="https://www.theverge.com/2024/12/2/24310983/intel-ceo-pat-gelsinger-retired">Intel’s CEO is out after only three years</a></li>
+<li><a href="https://www.intel.com/content/www/us/en/newsroom/news/intel-chips-act.html#gs.ij06hl">Intel, Biden-Harris Administration Finalize $7.86 Billion Funding...</a></li>
+<li><a href="https://x.com/PGelsinger">Pat Gelsinger (@PGelsinger) </a></li>
+<li><a href="https://openai.com/index/introducing-chatgpt-pro/">Introducing ChatGPT Pro</a></li>
+<li><a href="https://www.linemo.jp/service/perplexity-ai/">Perplexity Pro｜LINEMO </a></li>
+<li><a href="https://www.worldlabs.ai/">World Labs</a></li>
+<li><a href="https://techcrunch.com/2024/11/14/ai-pioneer-francois-chollet-leaves-google/">AI pioneer François Chollet leaves Google</a></li>
+<li><a href="https://asia.siggraph.org/2024/">Home - SIGGRAPH Asia 2024</a></li>
+<li><a href="https://www.sfgate.com/bayarea/article/popular-video-game-company-to-close-sf-studio-19962035.php">Popular video game company to close SF studio amid mass layoffs</a></li>
+<li><a href="https://www.youtube.com/channel/UC5CTV3JSdrlo5Pa42QkK8SA">桜井政博のゲーム作るには</a></li>
+<li><a href="https://www.amazon.co.jp/%E3%80%8E%E3%83%87%E3%83%83%E3%83%89%E3%83%87%E3%83%83%E3%83%89%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%BA%E3%83%87%E3%83%87%E3%83%87%E3%83%87%E3%83%87%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8F%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/dp/B0DMFVRP73/ref=sr_1_1?crid=1SVFDUY1P99JU&dib=eyJ2IjoiMSJ9.17afsUX76kdserP8moazPTIG_Y5sDKl2xPUJjHolpixNo2CeVTumTKOwkqSWDQYm-ChvlSGqxn8k54lon4ZuvtaTe5kFJLuC1O93FTglpEYhLAjhSNzCoXM-YZC9nrdAeI80psl7p4vPUKAt1pAC-M3LoaqbI-CC22UA6NTY5AtUy5JVwOdL2SJM2_Z1f7Hdq4Xir7y7br1sryeXC-Ov-x4RK4IHZAgjnA9mz3Y9DJrwvT2PeUm6ZPl76mCXtzULeRe0BKo21Ug5XC3spXCS67bu6qfTHCYrBlLxtWfxTyLg_AhKsKYslzQY_Y10Tcgh_5a_nPIucMs1NVFPbkPY62rckM7pifXxCvd6iXKj6Z85ps1EX6McYC7gsUQsHI3ams7rRlTaRbjB3RDboNPeJ4tq5KQwWJQKfrC1p3TW8VCB6qipiV_BWW6VGf07EFiD.6lbk6TXbUzeHJ8duZrDp-HhSHXbybF3AVzeNLb51aiI&dib_tag=se&keywords=%E3%83%87%E3%83%83%E3%83%89%E3%83%87%E3%83%83%E3%83%89%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%BA%E3%83%87%E3%83%87%E3%83%87%E3%83%87%E3%83%87%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3&qid=1733971421&sprefix=%E3%83%87%E3%83%83%E3%83%89%E3%83%87%E3%83%83%E3%83%89%2Caps%2C190&sr=8-1">デッドデッドデーモンズデデデデデストラクション</a></li>
+<li><a href="https://anime-dandadan.com/">ダンダダン</a></li>
+<li><a href="https://movies.shochiku.co.jp/shotai-movie/">正体</a></li>
+<li><a href="https://happinet-phantom.com/honshin/">本心</a></li>
+<li><a href="https://www.rottentomatoes.com/m/gladiator_ii">Gladiator II</a></li>
+<li><a href="https://www.youtube.com/watch?v=VZaqtgVtL1M">機動戦士Gundam GQuuuuuuX（ジークアクス）</a></li>
+<li><a href="https://blog.playstation.com/2024/09/24/ghost-of-yotei-is-coming-in-2025/">Ghost of Yōtei is coming in 2025</a></li>
+<li><a href="https://www.dragonquest.jp/roto-trilogy/">HD-2D版 ドラゴンクエスト</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0D5PWPB2V?tag=bulknews-22">198Xのファミコン狂騒曲</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B1%B1%E7%BE%8E%E7%A9%82%E3%81%AE%E3%83%88%E3%82%AD%E3%83%A1%E3%82%AD%E3%83%8F%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB">中山美穂のトキメキハイスクール</a></li>
+<li><a href="https://2025.srekaigi.net/">SRE Kaigi 2025 ★</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Wed, 11 Dec 2024 22:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/397/</link>
+        <guid isPermaLink="true">https://rebuild.fm/397/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、台湾、Intel, MacBook Pro, OpenAI などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:39:41</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep397.mp3" type="audio/mpeg" length="72222299" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>396: The Show Must Go On (N)</title>
+        <description><![CDATA[ <p>Naoki Hiroshima さんをゲストに迎えて、モロッコ、Mac mini, CI, Chrome, 大統領選、Bluesky などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E6%96%87%E5%AD%97">アラビア文字</a></li>
+<li><a href="https://x.com/miyagawa/status/1855169999859855479">M1 Pro and M4 comparison</a></li>
+<li><a href="https://docs.astral.sh/uv/">uv</a></li>
+<li><a href="https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-a-merge-queue">Managing a merge queue - GitHub Docs</a></li>
+<li><a href="https://engineering.fb.com/2014/01/07/core-infra/scaling-mercurial-at-facebook/">Scaling Mercurial at Facebook</a></li>
+<li><a href="https://www.theverge.com/2024/11/20/24300617/doj-google-search-antitrust-chrome-breakup">DOJ says Google must sell Chrome to crack open its search monopoly</a></li>
+<li><a href="https://www3.nhk.or.jp/news/special/primeminister_2024/structure/">自民党総裁選挙2024 選挙の仕組み</a></li>
+<li><a href="https://www.wired.com/story/donald-trump-manosphere-won/">The Manosphere Won</a></li>
+<li><a href="https://www.theverge.com/2024/10/18/24273435/bluesky-user-spike-x-tos-ai-changes-blocking">People are flocking to Bluesky as X makes more unwanted changes</a></li>
+<li><a href="https://www.cnbc.com/2024/11/21/bluesky-ceo-jay-graber-says-x-rival-is-billionaire-proof.html">Bluesky CEO Jay Graber says X rival is &#39;billionaire proof&#39;</a></li>
+<li><a href="https://www.theverge.com/2024/11/21/24302400/threads-algorithm-focus-people-you-follow">Threads’ algorithm will focus more on the people you follow</a></li>
+<li><a href="https://www.bloodinthemachine.com/p/blueskys-success-is-a-rejection-of">Bluesky&#39;s success is a rejection of big tech&#39;s operating system</a></li>
+<li><a href="https://www.theverge.com/2024/11/16/24298338/netflix-mike-ttyson-vs-jake-paul-fight-netflix-60-million-households-streaming-quality-buffering">Netflix served the Tyson vs. Paul fight to 60 million households</a></li>
+<li><a href="https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx">Severance</a></li>
+<li><a href="https://www.shogi.or.jp/match/ryuuou/">竜王戦</a></li>
+<li><a href="https://www.theguardian.com/uk-news/2024/nov/20/tokyo-metro-wins-contract-operate-london-elizabeth-line">Tokyo Metro wins contract to operate London’s Elizabeth line</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Mon, 25 Nov 2024 00:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/396/</link>
+        <guid isPermaLink="true">https://rebuild.fm/396/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>N</atom:name>
+          <atom:uri>https://rebuild.fm/people/N/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Naoki Hiroshima さんをゲストに迎えて、モロッコ、Mac mini, CI, Chrome, 大統領選、Bluesky などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:55:57</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep396.mp3" type="audio/mpeg" length="127129036" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>395: Bruno Mars Fancam (kansai_takako)</title>
+        <description><![CDATA[ <p>閑歳孝子さんをゲストに迎えて、XG, No No Girls, 藤井風、ギグエコノミーなどについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.youtube.com/watch?v=L7spCJxloLY">XG - SHOOTING STAR (Official Music Video)</a></li>
+<li><a href="https://www.youtube.com/watch?v=wecUlakWtko">XG - WINTER WITHOUT YOU / THE FIRST TAKE</a></li>
+<li><a href="https://www.youtube.com/watch?v=QiYOkmrI1jg">XG - IYKYK (Official Music Video)</a></li>
+<li><a href="https://x.com/miyagawa/status/1844282695209406579">XG Live Photos</a></li>
+<li><a href="https://www.youtube.com/watch?v=VmududtUdlk">XG - New Dance JURIA Fancam 4K (2024/10/9 San Francisco) </a></li>
+<li><a href="https://www.youtube.com/watch?v=ekr2nIex040">ROSÉ &amp; Bruno Mars - APT. (Official Music Video)</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL52OyqYAfVEfIkHgGErZdFdMmkTz4Z4fp">No No Girls Episode</a></li>
+<li><a href="https://rebuild.fm/312/">Rebuild: 312: Face in the Box (kansai_takako)</a></li>
+<li><a href="https://www.youtube.com/watch?v=MPFSDFyGLWE">Fujii Kaze 藤井 風 drops his keyboard and doesn’t miss a beat!</a></li>
+<li><a href="https://www.youtube.com/watch?v=rGyQHyDMZZI">Fujii Kaze: Tiny Desk Concerts JAPAN</a></li>
+<li><a href="https://www.saigaivc.com/20240103/">2024(令和６)年能登半島地震 ボランティア</a></li>
+<li><a href="https://www.theverge.com/2024/10/10/24265530/tesla-robotaxi-elon-musk-features-range-price-release-date">Tesla Cybercab announced: Elon Musk’s robotaxi is finally here</a></li>
+<li><a href="https://www.audible.co.jp/series/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/B0CM6YL11J?tag=bulknews-22">イーロン・マスク | Audible.co.jp</a></li>
+<li><a href="https://shonenjumpplus.com/episode/17106567254627463963">[1話]サンキューピッチ - 住吉九 | 少年ジャンプ＋</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sun, 10 Nov 2024 22:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/395/</link>
+        <guid isPermaLink="true">https://rebuild.fm/395/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>kansai_takako</atom:name>
+          <atom:uri>https://rebuild.fm/people/kansai_takako/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>閑歳孝子さんをゲストに迎えて、XG, No No Girls, 藤井風、ギグエコノミーなどについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:21:37</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep395.mp3" type="audio/mpeg" length="59212990" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>394: Mac mini as old as Hibiki (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、Mac mini, MacBook Pro, Kindle, WordPress などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.sony.net/Products/LDAC/">LDAC</a></li>
+<li><a href="https://www.apple.com/leadership/john-ternus/">John Ternus</a></li>
+<li><a href="https://www.apple.com/leadership/johny-srouji/">Johny Srouji</a></li>
+<li><a href="https://www.theverge.com/2024/10/7/24264707/apple-m4-macbook-pro-russia-leak-video">Apple’s next MacBook Pros might have leaked in Russia</a></li>
+<li><a href="https://www.backblaze.com/cloud-backup/personal/invite">Backblaze</a></li>
+<li><a href="https://www.macrumors.com/2023/09/06/apple-modem-in-2025-kuo/">Kuo: Apple-Designed 5G Modem for iPhones to Debut in 2025</a></li>
+<li><a href="https://www.theverge.com/2024/10/16/24271603/kindle-2024-colorsoft-scribe-paperwhite-specs-price-date">Amazon’s new Kindle family includes the first color Kindle</a></li>
+<li><a href="https://shop.boox.com/collections/all-products">BOOX ePaper Tablets</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0D2W55JMC?tag=bulknews-22&th=1">Shokz  OpenRun Pro 2</a></li>
+<li><a href="https://www.reddit.com/r/24hoursupport/comments/1g0p8ce/macbook_pro_google_chrome_bluetooth_audio_lag/">Macbook Pro + Google Chrome = Bluetooth Audio Lag</a></li>
+<li><a href="https://www.theverge.com/2024/9/27/24256361/wordpress-wp-engine-drama-explained-matt-mullenweg">The messy WordPress drama, explained</a></li>
+<li><a href="https://world.hey.com/dhh/open-source-royalty-and-mad-kings-a8f79d16">DHH: Open source royalty and mad kings</a></li>
+<li><a href="https://homebridge.io/">Homebridge</a></li>
+<li><a href="https://preducts.jp/products/desk-polar-wide">モジュール式電動昇降デスク POLAR ワイドモデル | PREDUCTS</a></li>
+<li><a href="https://www.logitechg.com/en-us/products/gaming-mice/pro-2-lightspeed.910-007246.html?srsltid=AfmBOoo2FetoyyGPDPacfulLaWmpU3p7jHbrlz71rnYPdQwbZtroy9G-">PRO 2 | Logitech G</a></li>
+<li><a href="https://www.reuters.com/technology/qualcomm-has-explored-acquiring-pieces-intel-chip-design-business-sources-say-2024-09-06/">Qualcomm explores acquiring pieces of Intel chip-design business</a></li>
+<li><a href="https://www.tomsguide.com/tech/apple-reportedly-considering-buying-intel-as-chipmaker-continues-to-struggle">Apple rumor says it&#39;s considering buying Intel</a></li>
+<li><a href="https://www.reuters.com/technology/arm-qualcomm-legal-battle-seen-disrupting-ai-powered-pc-wave-2024-06-10/">Arm, Qualcomm legal battle seen disrupting AI-powered PC wave</a></li>
+<li><a href="https://happinet-phantom.com/a24/civilwar/">シビル・ウォー アメリカ最後の日</a></li>
+<li><a href="https://www.rottentomatoes.com/m/joker_folie_a_deux">Joker: Folie à Deux</a></li>
+<li><a href="https://www.netflix.com/title/81276500">Gundam: Requiem for Vengeance</a></li>
+<li><a href="https://anime-chi.jp/">チ。 ―地球の運動について―</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0CW1M28W2?tag=bulknews-22">ふつうの軽音部</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sat, 02 Nov 2024 15:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/394/</link>
+        <guid isPermaLink="true">https://rebuild.fm/394/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、Mac mini, MacBook Pro, Kindle, WordPress などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:25:51</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep394.mp3" type="audio/mpeg" length="105462529" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>393: Welcome To Deep Dive (naan)</title>
+        <description><![CDATA[ <p>Kazuho Okui さんをゲストに迎えて、生成AI, iPhone 16 Pro, Apple Watch S10, Meta Orion などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://lumalabs.ai/dream-machine">Luma Dream Machine | AI Video Generator</a></li>
+<li><a href="https://www.theverge.com/2024/9/25/24254431/openai-cto-mira-murati-leaving">OpenAI CTO Mira Murati is leaving</a></li>
+<li><a href="https://www.ipitaka.com/products/sunset-moonrise-phone-cases?variant=42131402489926">Sunset Moonrise Phone Cases | PITAKA</a></li>
+<li><a href="https://9to5mac.com/2024/10/01/photographic-styles-favorite-iphone-16-feature/">The new Photographic Styles are my favorite iPhone 16 feature</a></li>
+<li><a href="https://duo.com/">Duo Security</a></li>
+<li><a href="https://dayoneapp.com/">Day One Journal App</a></li>
+<li><a href="https://www.craft.do/">Craft</a></li>
+<li><a href="https://apps.apple.com/us/app/journal/id6447391597">Journal</a></li>
+<li><a href="https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/">Introducing Orion, Our First True Augmented Reality Glasses</a></li>
+<li><a href="https://www.gamedeveloper.com/business/meta-laying-off-workers-within-reality-labs-division">Meta laying off workers within Reality Labs division</a></li>
+<li><a href="https://www.youtube.com/watch?v=I7JyydkqDeI&t=1s">Connect Keynote 2024</a></li>
+<li><a href="https://notebooklm.google/">NotebookLM | Note Taking &amp; Research Assistant Powered by AI</a></li>
+<li><a href="https://www.wired.com/story/ai-podcast-google-notebooklm/">How to Generate an AI Podcast Using Google’s NotebookLM</a></li>
+<li><a href="https://www.nytimes.com/2024/09/24/health/ai-patient-messages-mychart.html?unlocked_article_code=1.QE4.I1gv.MyTSKusKGWIP&smid=url-share">That Message From Your Doctor? It May Have Been Drafted by A.I.</a></li>
+<li><a href="https://www.nintendo.com/jp/switch/ar3na/index.html?srsltid=AfmBOoq0BLOqXYaNRxA5VlBBFGte-0tmx7j8aMK1aDa8F9sdT8rNE1MA">ゼルダの伝説 夢をみる島 | Nintendo Switch</a></li>
+<li><a href="https://www.nintendo.com/jp/switch/bdgea/index.html?srsltid=AfmBOopC8u93OTUO-HV2PnP5EdhkHydUa7M-xE0jpXqM6ffpoGXRdGpd">ゼルダの伝説 知恵のかりもの | Nintendo Switch</a></li>
+<li><a href="https://tv.apple.com/jp/show/%E3%82%B5%E3%83%8B%E3%83%BC/umc.cmc.7c5t9dde8dxoaxwyl5rkuw38p">サニー Apple TV</a></li>
+<li><a href="https://tv.apple.com/us/show/bad-monkey/umc.cmc.2qoep59s6qukjonprttysfs8x">Bad Monkey</a></li>
+<li><a href="https://www.hulu.com/series/shogun-5422a5f9-e4f1-475e-9217-65e8249388d0">Shōgun</a></li>
+<li><a href="https://www.moj.go.jp/isa/applications/faq/kanji.html">在留カードの漢字氏名表記について | 出入国在留管理庁</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sun, 06 Oct 2024 00:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/393/</link>
+        <guid isPermaLink="true">https://rebuild.fm/393/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>naan</atom:name>
+          <atom:uri>https://rebuild.fm/people/naan/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Kazuho Okui さんをゲストに迎えて、生成AI, iPhone 16 Pro, Apple Watch S10, Meta Orion などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:09:43</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep393.mp3" type="audio/mpeg" length="93845025" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>392: It Wakes Up, But Doesn't Wake Up (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、Apple Watch, AirPods, iPhone 16, Google Pixel, PS5 Pro などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.nhk.jp/p/ts/P1124VMJ6R/episode/te/263LZK1851/">日本発!革命アプリ世界へ - 新プロジェクトX〜挑戦者たち〜 - NHK</a></li>
+<li><a href="https://www.apple.com/watch/">Apple Watch Series 10</a></li>
+<li><a href="https://www.theverge.com/2024/9/9/24240167/apple-finewoven-cases-dead">It sure looks like FineWoven is dead</a></li>
+<li><a href="https://www.npr.org/2024/09/14/nx-s1-5112400/fda-airpods-hearing-aids-software-update">FDA approves some Apple AirPods to be used as hearing aids</a></li>
+<li><a href="https://support.bose.com/s/product/bose-hearphones/01t8c00000Oyd9pAAB?language=en_US">Bose Hearphones</a></li>
+<li><a href="https://www.apple.com/iphone-16/">iPhone 16 and iPhone 16 Plus</a></li>
+<li><a href="https://9to5mac.com/2024/09/14/iphone-16-pro-m1/">iPhone 16&#39;s A18 Pro chip outperforms the M1 chip in new benchmark</a></li>
+<li><a href="https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell">End of the Road: An AnandTech Farewell</a></li>
+<li><a href="https://www.theverge.com/2024/9/10/24240700/huawei-mate-xt-ultimate-design-tri-fold-price-launch">Huawei’s new trifold phone costs more than a 16-inch MacBook Pro</a></li>
+<li><a href="https://blog.playstation.com/2024/09/10/welcome-playstation-5-pro-the-most-visually-impressive-way-to-play-games-on-playstation/">Welcome PlayStation 5 Pro</a></li>
+<li><a href="https://cedil.cesa.or.jp/">CEDiL</a></li>
+<li><a href="https://openai.com/index/introducing-openai-o1-preview/">Introducing OpenAI o1</a></li>
+<li><a href="https://www.creativebloq.com/ai/tencents-gamegen-o-looks-like-the-first-step-towards-an-ai-game-engine">Tencent&#39;s GameGen-O looks like the first step towards an AI game engine</a></li>
+<li><a href="https://www.playstation.com/en-us/games/black-myth-wukong/">Black Myth: Wukong</a></li>
+<li><a href="https://www.20thcenturystudios.jp/movies/alien-romulus">エイリアン：ロムルス式</a></li>
+<li><a href="https://kiminoiro.jp/">きみの色</a></li>
+<li><a href="https://www.aniplex.co.jp/ninjakamui/">NINJA KAMUI</a></li>
+<li><a href="https://www.ticketmaster.com/xg-1st-world-tour-the-first-san-francisco-california-10-09-2024/event/1C00611AA3B128D9?refArtist=K8vZ917jwk7&f_simplified_filter=true">XG 1st WORLD TOUR &quot;The First Howl&quot; Landing at San Francisco</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 17 Sep 2024 00:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/392/</link>
+        <guid isPermaLink="true">https://rebuild.fm/392/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、Apple Watch, AirPods, iPhone 16, Google Pixel, PS5 Pro などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:41:28</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep392.mp3" type="audio/mpeg" length="116702192" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>391: Miyagawa Intelligence (yuka)</title>
+        <description><![CDATA[ <p>Yuka Ohishi さんをゲストに迎えて、Gemini, Pixel 9, GPT API, Shortcut などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.youtube.com/watch?v=N_y2tP9of8A">MadeByGoogle ‘24: Keynote</a></li>
+<li><a href="https://www.theverge.com/2024/8/13/24219736/gemini-live-hands-on-pixel-event">Using Gemini Live was faster than Google, but also more awkward</a></li>
+<li><a href="https://store.google.com/jp/product/pixel_9_pro?hl=ja">Pixel 9 Pro</a></li>
+<li><a href="https://www.tomsguide.com/news/iphone-flip-everything-we-know-about-apples-foldable-phone-plans">iPhone Flip: Everything we know about Apple&#39;s foldable phone</a></li>
+<li><a href="https://store.google.com/intl/en/ideas/articles/pixel-screenshots/">Pixel Screenshots</a></li>
+<li><a href="https://www.wired.com/story/google-new-pixel-watch-3-can-detect-a-loss-of-pulse/">Google’s New Pixel Watch 3 Can Detect a Loss of Pulse</a></li>
+<li><a href="https://www.theverge.com/2024/8/12/24218629/patreon-membership-ios-30-percent-apple-tax">Patreon adds Apple tax to avoid getting kicked out of the App Store</a></li>
+<li><a href="https://9to5mac.com/2024/08/14/developers-nfc-api-iphone-ios-18-1/">Here&#39;s what developers can do with the new NFC API for iPhone</a></li>
+<li><a href="https://x.com/miyagawa/status/1813001642200932538">GPT Shortcut Demo video</a></li>
+<li><a href="https://scriptable.app/">Scriptable</a></li>
+<li><a href="https://platform.openai.com/docs/guides/function-calling">Function Calling - OpenAI API</a></li>
+<li><a href="https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/">GPT-4o mini</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sun, 18 Aug 2024 02:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/391/</link>
+        <guid isPermaLink="true">https://rebuild.fm/391/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>yuka</atom:name>
+          <atom:uri>https://rebuild.fm/people/yuka/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Yuka Ohishi さんをゲストに迎えて、Gemini, Pixel 9, GPT API, Shortcut などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:05:23</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep391.mp3" type="audio/mpeg" length="47530518" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>390: Epic Fail Close (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、退職、Google、チップ、ゲーム開発などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.latimes.com/california/story/2024-08-08/record-heat-in-july">July was officially California&#39;s hottest month ever</a></li>
+<li><a href="https://rebuild.fm/portal/">Rebuild Supporter</a></li>
+<li><a href="https://www.vox.com/policy/366680/no-tax-on-tips-trump-harris-subminimum-wage">Harris endorsed Trump’s “no tax on tips” policy. It’s a bad idea.</a></li>
+<li><a href="https://wired.jp/article/google-search-antitrust-monopoly-ruling/">「Google 検索」は“違法な独占”、米連邦地方裁判所が判決</a></li>
+<li><a href="https://www.theverge.com/2024/7/24/24205244/reddit-blocking-search-engine-crawlers-ai-bot-google">Reddit is now blocking major search engines and AI bots</a></li>
+<li><a href="https://rebuild.fm/usmobile">US Mobile</a></li>
+<li><a href="https://www.techradar.com/computing/macs/the-mac-mini-m4-is-coming-and-it-could-be-the-smallest-mac-that-apples-ever-made">The Mac Mini M4 is coming – and it could be the smallest Mac that Apple’s ever made</a></li>
+<li><a href="https://cedec.cesa.or.jp/2024/">CEDEC 2024</a></li>
+<li><a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-global-illumination-and-reflections-in-unreal-engine">Lumen Global Illumination and Reflections in Unreal Engine</a></li>
+<li><a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/nanite-virtualized-geometry-in-unreal-engine">Nanite Virtualized Geometry in Unreal Engine</a></li>
+<li><a href="https://www.avclub.com/tim-walz-sega-dreamcast-obsession">Tim Walz was obsessed with Sega Dreamcast games</a></li>
+<li><a href="https://wired.jp/article/susan-wojcicki-former-youtube-ceo-dies-at-56/">スーザン・ウォジスキが56歳で死去。YouTubeの元CEO</a></li>
+<li><a href="https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf">CrowdStrike Analysis</a></li>
+<li><a href="https://www.geminivalve.com/fail-safe-open-close-valves/">Fail Open vs. Fail Close</a></li>
+<li><a href="https://www.monogatari-series.com/oms/">〈物語〉シリーズ オフ＆モンスターシーズン</a></li>
+<li><a href="https://lookback-anime.com/">劇場アニメ「ルックバック」</a></li>
+<li><a href="https://www.netflix.com/title/81574118">地面師たち</a></li>
+<li><a href="https://www.imdb.com/title/tt21867434/">BlackBerry</a></li>
+<li><a href="https://www.amazon.co.jp/Winny-%E6%9D%B1%E5%87%BA%E6%98%8C%E5%A4%A7/dp/B0CH9YSQ55">Winny</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 13 Aug 2024 23:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/390/</link>
+        <guid isPermaLink="true">https://rebuild.fm/390/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、退職、Google、チップ、ゲーム開発などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:54:39</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep390.mp3" type="audio/mpeg" length="83000102" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>389: EU Strikes Again (N)</title>
+        <description><![CDATA[ <p>Naoki Hiroshima さんをゲストに迎えて、電話、王位戦、オリンピック、CrowdStrike, 大統領選などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://support.apple.com/en-us/111106">Detect and block spam phone calls - Apple Support</a></li>
+<li><a href="https://www.shogi.or.jp/match/oui/">王位戦</a></li>
+<li><a href="https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/">CrowdStrike</a></li>
+<li><a href="https://www.theverge.com/2024/7/24/24205020/crowdstrike-test-software-bug-windows-bsod-issue">CrowdStrike blames test software for taking down 8.5 million Windows machines</a></li>
+<li><a href="https://www.newsweek.com/donald-trump-photo-without-ear-bandage-raises-eyebrows-1931403">Donald Trump Photo Without Ear Bandage Raises Eyebrows</a></li>
+<li><a href="https://www.theverge.com/2024/7/19/24201879/mark-zuckerberg-trump-rally-shooting-fist-pump-badass">Mark Zuckerberg says Trump’s fist pump was ‘one of the most badass things I’ve ever seen in my life’</a></li>
+<li><a href="https://www.bbc.com/news/articles/c977njnvq2do">What is Project 2025? Wish list for a Trump presidency, explained</a></li>
+<li><a href="https://thehill.com/homenews/campaign/4801445-vice-president-harris-trump-battleground-states-poll/">Kamala Harris pulls ahead of Donald Trump in swing states: Poll</a></li>
+<li><a href="https://www.theverge.com/2024/7/29/24208671/elon-musk-deepfake-ai-kamala-harris-parody">Elon Musk posts deepfake of Kamala Harris that violates X policy</a></li>
+<li><a href="https://www.fastcompany.com/91163644/elon-musk-ditched-the-water-gun-for-a-pistol-emoji-on-x-its-a-worrying-shot-in-the-culture-wars">Elon Musk redesigned X&#39;s gun emoji. Now it&#39;s a culture war symbol</a></li>
+<li><a href="https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/">Inside the powerful Peter Thiel tech network that launched JD Vance</a></li>
+<li><a href="https://www.vox.com/2024-elections/363560/gen-z-brat-coconut-kamala-harris-vote-young-voter">Kamala Harris memes: Will brat and coconut memes turn out Gen Z’s vote?</a></li>
+<li><a href="https://www.usatoday.com/story/news/politics/elections/2024/07/23/trump-campaign-money-refund-biden/74508726007/">Trump says GOP should get refund for money spent campaigning against Biden</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 30 Jul 2024 23:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/389/</link>
+        <guid isPermaLink="true">https://rebuild.fm/389/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>N</atom:name>
+          <atom:uri>https://rebuild.fm/people/N/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:subtitle>Naoki Hiroshima さんをゲストに迎えて、電話、王位戦、オリンピック、CrowdStrike, 大統領選などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:08:32</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep389.mp3" type="audio/mpeg" length="92991895" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>388: Don't Find Me On TikTok (higepon)</title>
+        <description><![CDATA[ <p>Taro Minowa さんをゲストに迎えて、TikTok, K-POP, Waymo などについて話しました。</p>
+
+<p>スポンサー: <a href="https://www.pagerduty.co.jp/pagerdutyontourtokyo/?cpcode=Podcast-Rebuild">PagerDuty</a></p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://rebuild.fm/376/">Rebuild: 376: I Practiced This Move 500 Times (higepon)</a></li>
+<li><a href="https://www.capcut.com/">CapCut</a></li>
+<li><a href="https://www.youtube.com/watch?v=UUErYzgHFNQ&t=178s">止まらない返礼品の“超”高額化　高収入ほど“お得”な制度？</a></li>
+<li><a href="https://buffer.com/">Buffer</a></li>
+<li><a href="https://developers.facebook.com/docs/threads/">Threads API</a></li>
+<li><a href="https://www.clippercard.com/ClipperWeb/apple-pay">Apple Pay | Clipper</a></li>
+<li><a href="https://www.tiktok.com/@le_sserafim/video/7367735174957632775?_r=1&_t=8nq2KWAuqgv">🎸Get A Guitar by #SAKURA</a></li>
+<li><a href="https://www.tiktok.com/@newjeans_official/video/7372751827336547601?_r=1&_t=8nq2HlmmArt">HANNI says #HowSweet it tastes🤭 #NewJeans</a></li>
+<li><a href="https://www.youtube.com/watch?v=QU9c0053UAU">정국 (Jung Kook) &#39;Seven (feat. Latto)&#39;</a></li>
+<li><a href="https://www.youtube.com/watch?v=Rj7N4ThLGQY">青い珊瑚礁 | 240626 BUNNIESCAMP</a></li>
+<li><a href="https://x.com/HigeponJa/status/1699423937757655267">パソコンをカタカタするのが得意な人達</a></li>
+<li><a href="https://www.youtube.com/watch?v=L7spCJxloLY">XG - SHOOTING STAR</a></li>
+<li><a href="https://github.com/takahiroanno2024/election2024">takahiroanno2024/election2024: 東京都知事選2024のリポジトリ</a></li>
+<li><a href="https://www.theverge.com/2024/7/6/24193094/phoenix-waymo-car-pulled-over-traffic-stop-oncoming-lane-police">Police pulled over a Waymo car for driving in the oncoming lane</a></li>
+<li><a href="https://www.pagerduty.co.jp/pagerdutyontourtokyo/?cpcode=Podcast-Rebuild">PagerDuty on Tour Japan 2024 ★</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 09 Jul 2024 20:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/388/</link>
+        <guid isPermaLink="true">https://rebuild.fm/388/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>higepon</atom:name>
+          <atom:uri>https://rebuild.fm/people/higepon/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Taro Minowa さんをゲストに迎えて、TikTok, K-POP, Waymo などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:26:10</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep388.mp3" type="audio/mpeg" length="62487110" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>387: Time To Sleep (N)</title>
+        <description><![CDATA[ <p>Naoki Hiroshima さんをゲストに迎えて、米最高裁、大統領選、叡王戦、Apple, ローカライゼーションなどについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.theverge.com/2024/6/28/24180118/supreme-court-chevron-deference-decision-opinion">Supreme Court overrules Chevron, kneecapping federal regulators</a></li>
+<li><a href="https://www.vox.com/2024-elections/357739/biden-trump-debate-democrats-replace-nominee-whitmer-moore-newsom">Could Democrats Replace Biden as their nominee?</a></li>
+<li><a href="https://apnews.com/article/trump-green-cards-immigration-colleges-1366591ba263018305ee6eb924803d7f">Election 2024: Trump proposes green cards for foreign grads of US colleges</a></li>
+<li><a href="https://www.youtube.com/watch?v=jrnRU3ocIH4">McCain Counters Obama &#39;Arab&#39; Question</a></li>
+<li><a href="https://www.youtube.com/watch?v=gYwqpx6lp_s">Trump’s Second Term: Last Week Tonight with John Oliver</a></li>
+<li><a href="https://www.barstoolsports.com/blog/3517953/caitlin-clarks-days-are-numbered-theres-a-16-year-old-73-chinese-womens-basketball-player-whos-about-to-set-the-game-back-half-a-century">There&#39;s a 16-Year Old, 7&#39;3&quot; Chinese Women&#39;s Basketball Player</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Caitlin_Clark">Caitlin Clark</a></li>
+<li><a href="https://haikyu.jp/movie/">ハイキュー!!</a></li>
+<li><a href="http://live.shogi.or.jp/eiou/">叡王戦</a></li>
+<li><a href="https://x.com/KADOKAWA_corp/status/1806616393363656996">KADOKAWA広報: 当社へのランサムウェア攻撃による情報漏洩に関して</a></li>
+<li><a href="https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling">Apple is first company charged with violating EU’s DMA rules</a></li>
+<li><a href="https://www.theverge.com/2024/6/21/24183251/apple-eu-delay-ai-screen-mirroring-shareplay-dma">Apple Intelligence features probably won’t launch in the EU in 2024</a></li>
+<li><a href="https://oracle-base.com/blog/2015/01/02/a-sql-or-an-sql/">“a SQL” or “an SQL”?</a></li>
+<li><a href="https://bessey.dev/blog/2024/05/24/why-im-over-graphql/">Why, after 6 years, I’m over GraphQL</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 02 Jul 2024 21:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/387/</link>
+        <guid isPermaLink="true">https://rebuild.fm/387/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>N</atom:name>
+          <atom:uri>https://rebuild.fm/people/N/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Naoki Hiroshima さんをゲストに迎えて、米最高裁、大統領選、叡王戦、Apple, ローカライゼーションなどについて話しました。
+</itunes:subtitle>
+        <itunes:duration>3:09:30</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep387.mp3" type="audio/mpeg" length="136887166" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>386: Craig in Paris (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、WWDC, Copilot+ PC, コンテンツなどについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://news.yahoo.co.jp/expert/articles/bdabf6f6fdde368be80c405928e7e46579b40012">もはや酒屋？「狂ったセブン」コロナ禍乗り越え今日もクラフトビールだらけ</a></li>
+<li><a href="https://developer.apple.com/videos/play/wwdc2024/101/">Keynote - WWDC24</a></li>
+<li><a href="https://www.youtube.com/watch?v=D7TB8b2t3QE">Project Glass: Live Demo At Google I/O</a></li>
+<li><a href="https://www.uploadvr.com/apple-vision-pro-enterprise-raw-camera-access/">Apple Will Give Enterprise Access To Vision Pro&#39;s Cameras</a></li>
+<li><a href="https://x.com/googlejapan/status/1798127592853160151">Chrome のロゴ、実は微妙にグラデーションがかかってる！？</a></li>
+<li><a href="https://zenless.hoyoverse.com/en-us/">Zenless Zone Zero</a></li>
+<li><a href="https://www.theverge.com/2024/6/13/24177599/apple-google-japan-law-third-party-app-stores-competition">Apple and Google won’t be able to stop third-party app stores in Japan</a></li>
+<li><a href="https://www.reuters.com/technology/apple-meta-set-face-eu-charges-under-landmark-tech-rules-sources-say-2024-06-14/">Apple, Meta set to face EU charges under landmark tech rules, sources say</a></li>
+<li><a href="https://9to5mac.com/2024/06/14/spatial-audio-over-airplay-ios-18/">Spatial Audio now works over AirPlay with iOS 18</a></li>
+<li><a href="https://numi.app/">Numi</a></li>
+<li><a href="https://www.vogue.co.jp/article/parkour-next-trend">パルクールがネクストブームの予感</a></li>
+<li><a href="https://security.apple.com/blog/private-cloud-compute/">Private Cloud Compute: A new frontier for AI privacy in the cloud</a></li>
+<li><a href="https://daringfireball.net/2024/06/the_talk_show_live_from_wwdc_2024">Daring Fireball: The Talk Show Live From WWDC 2024</a></li>
+<li><a href="https://www.macrumors.com/2024/06/13/apple-not-paying-openai-chatgpt-ios-18/">Apple Reportedly Not Paying OpenAI to Use ChatGPT in iOS 18</a></li>
+<li><a href="https://techcrunch.com/2024/06/10/elon-musk-threatens-to-ban-apple-devices-from-his-companies-over-apples-chatgpt-integrations/">Elon Musk threatens to ban Apple devices from his companies over Apple&#39;s ChatGPT integrations</a></li>
+<li><a href="https://www.youtube.com/watch?v=pMX2cQdPubk">Talking Tech and AI with Tim Cook!</a></li>
+<li><a href="https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/">Introducing Copilot+ PCsg</a></li>
+<li><a href="https://www.microsoft.com/en-us/surface/devices/surface-laptop-7th-edition">Meet the new Surface Laptop 7th Edition, a Copilot+ PC</a></li>
+<li><a href="https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay">Microsoft’s all-knowing Recall AI feature is being delayed</a></li>
+<li><a href="https://lumalabs.ai/dream-machine">Luma Dream Machine</a></li>
+<li><a href="https://blog.nicovideo.jp/niconews/225099.html">ニコニコインフォ</a></li>
+<li><a href="https://www.reddit.com/r/macapps/comments/1d7zjv8/bartender_5_not_safe_anymore_warning_from/">Bartender 5 not safe anymore ?</a></li>
+<li><a href="https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12">Hidden Bar</a></li>
+<li><a href="https://www.crunchyroll.com/series/G8DHV7827/dead-dead-demons-dededede-destruction">DEAD DEAD DEMONS DEDEDEDE DESTRUCTION</a></li>
+<li><a href="https://www.st-trigger.co.jp/works/did/">ダンジョン飯</a></li>
+<li><a href="https://shumatsu-train.com/">終末トレインどこへいく？</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Mon, 17 Jun 2024 21:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/386/</link>
+        <guid isPermaLink="true">https://rebuild.fm/386/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、WWDC, Copilot+ PC, コンテンツなどについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:39:33</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep386.mp3" type="audio/mpeg" length="115325707" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>385: Too Many Context Switches (naan)</title>
+        <description><![CDATA[ <p>Kazuho Okui さんをゲストに迎えて、WWDC, Swift UI, OpenAI, Web Extension などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.hillspet.com/dog-care/dog-breeds/morkie">Morkie Dog Breed</a></li>
+<li><a href="https://www.youtube.com/watch?v=TP4VQTUbypM">MKBHD: The Best Mac I&#39;ve Ever Reviewed!</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2024-06-07/apple-wwdc-2024-what-to-expect-ai-ipados-18-macos-15-siri-updates-more?embedded-checkout=true">Apple WWDC 2024 What to Expect: AI, iPadOS, iOS 18, macOS 15, Siri Updates, More</a></li>
+<li><a href="https://forums.swift.org/t/swift-6-0-release-process/70220">Swift 6.0 Release Process</a></li>
+<li><a href="https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2024">The Talk Show Live From WWDC 2024</a></li>
+<li><a href="https://www.theverge.com/2024/5/22/24162429/scarlett-johansson-openai-legal-right-to-publicity-likeness-midler-lawyers">Lawyers say OpenAI could be in real trouble with Scarlett Johansson</a></li>
+<li><a href="https://x.com/sama/status/1790075827666796666?lang=en">Sam Altman on X: &quot;her&quot;</a></li>
+<li><a href="https://www.vox.com/future-perfect/353933/openai-open-letter-safety-whistleblowers-right-to-warn">OpenAI insiders have signed an open letter demanding a &quot;right to warn&quot; the public about AI risks</a></li>
+<li><a href="https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3">Extensions / Manifest V3</a></li>
+<li><a href="https://developer.apple.com/documentation/safariservices/safari_web_extensions">Safari web extensions</a></li>
+<li><a href="https://webauthn.guide/">Guide to Web Authentication</a></li>
+<li><a href="https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app">The Delta Emulator is changing its logo after Adobe threatened it</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0CSPHXJYM?tag=bulknews-22&th=1">8BitDo Pro 2 Switch用のBluetoothコントローラー</a></li>
+<li><a href="https://www.youtube.com/watch?v=el4dGYF_38I">Delta&#39;s 10-year journey to the top of the App Store</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sun, 09 Jun 2024 21:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/385/</link>
+        <guid isPermaLink="true">https://rebuild.fm/385/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>naan</atom:name>
+          <atom:uri>https://rebuild.fm/people/naan/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Kazuho Okui さんをゲストに迎えて、WWDC, Swift UI, OpenAI, Web Extension などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:35:17</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep385.mp3" type="audio/mpeg" length="69058580" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>384: Tandem Pizza (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、iPad Pro, rabbit r1, ゲーム、Intel などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://rubykaigi.org/2024/">RubyKaigi 2024</a></li>
+<li><a href="https://phpcon.kagawa.jp/2024/">PHPカンファレンス香川2024</a></li>
+<li><a href="https://www.apple.com/apple-events/">Apple Events</a></li>
+<li><a href="https://www.apple.com/ipad-air/">iPad Air</a></li>
+<li><a href="https://www.youtube.com/watch?v=3moprE5S3Qc">What Nobody Else Told You About Tandem OLED and M4!</a></li>
+<li><a href="https://www.anandtech.com/show/18833/tsmc-details-3nm-evolution-n3e-on-schedule-n3p-n3x-deliver-five-percent-gains">TSMC Details 3nm Evolution</a></li>
+<li><a href="https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology">Apple apologizes for iPad ‘Crush’ ad that ‘missed the mark’</a></li>
+<li><a href="https://9to5mac.com/2024/05/08/apple-ceo-tim-cook-john-ternus-successor/">John Ternus emerging as most likely successor to Tim Cook as Apple CEO</a></li>
+<li><a href="https://store.google.com/product/pixel_8a?hl=ja">Google Pixel 8a</a></li>
+<li><a href="https://www.theverge.com/2024/4/18/24133881/google-android-pixel-teams-reorg-rick-osterloh">Google’s newly formed platforms and devices team is all about AI</a></li>
+<li><a href="https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes">FTC Announces Rule Banning Noncompetes</a></li>
+<li><a href="https://www.rabbit.tech/">rabbit r1</a></li>
+<li><a href="https://www.youtube.com/watch?v=jhXb0XugwXM&t=637s">rabbit r1 - YouTube</a></li>
+<li><a href="https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news">Switch 2: all the news and rumors on Nintendo’s next console</a></li>
+<li><a href="https://www.ign.com/articles/microsoft-closes-redfall-developer-arkane-austin-hifi-rush-developer-tango-gameworks-and-more-in-devastating-cuts-at-bethesda">Microsoft Closes Redfall Developer Arkane Austin, Hi-Fi Rush Developer Tango Gameworks</a></li>
+<li><a href="https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/">A New Era for Mixed Reality | Meta Quest Blog</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0CN4H1V9F?tag=bulknews-22">Fallout</a></li>
+<li><a href="https://www.netflix.com/jp-en/title/81454087">City Hunter | Netflix</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0CXMFMDTS?tag=bulknews-22">鬼太郎誕生 ゲゲゲの謎</a></li>
+<li><a href="https://www.jp.square-enix.com/ffvii_rebirth/">FINAL FANTASY VII REBIRTH</a></li>
+<li><a href="https://www.playstation.com/ja-jp/games/stellar-blade/">Stellar Blade</a></li>
+<li><a href="https://preducts.jp/">PREDUCTS - Desk for Good Work</a></li>
+<li><a href="https://www.temu.com/">Temu</a></li>
+<li><a href="https://jp.shein.com/">SHEIN Japan</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 14 May 2024 02:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/384/</link>
+        <guid isPermaLink="true">https://rebuild.fm/384/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、iPad Pro, rabbit r1, ゲーム、Intel などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:15:41</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep384.mp3" type="audio/mpeg" length="98138263" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>383: After Humane Before WWDC (yuka)</title>
+        <description><![CDATA[ <p>Yuka Ohishi さんをゲストに迎えて、Humane Ai Pin, rabbit r1, AI などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://humane.com/">Ai Pin | Humane</a></li>
+<li><a href="https://www.theverge.com/24126502/humane-ai-pin-review">Humane AI Pin review: the post-smartphone future isn’t here yet</a></li>
+<li><a href="http://imranchaudhri.com/">Imran Chaudhri</a></li>
+<li><a href="https://www.youtube.com/watch?v=TitZV6k8zfA">The Worst Product I&#39;ve Ever Reviewed... For Now</a></li>
+<li><a href="https://www.youtube.com/watch?v=pU87MftK3wg">YouTuberの酷評レビューで会社倒産寸前?! クリエイターとして色々考えた。</a></li>
+<li><a href="https://techcrunch.com/2024/04/17/mkbhd-humane-ai-review-fisker/">Don’t blame MKBHD for the fate of Humane AI and Fisker</a></li>
+<li><a href="https://www.youtube.com/watch?v=q7Qk1QDYZLw">Humane Ai Pin vs rabbit r1, unedited 1-shot benchmark test</a></li>
+<li><a href="https://www.limitless.ai/">Limitless</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%AB">バウリンガル</a></li>
+<li><a href="https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html">How Tech Giants Cut Corners to Harvest Data for A.I. - The New York Times</a></li>
+<li><a href="https://openai.com/blog/introducing-openai-japan">Introducing OpenAI Japan</a></li>
+<li><a href="https://ai.meta.com/blog/meta-llama-3/">Introducing Meta Llama 3: The most capable openly available LLM to date</a></li>
+<li><a href="https://spyglass.org/modern-news-consumption-trump/">A Glimpse Into Modern News Consumption</a></li>
+<li><a href="https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition">Yahoo is acquiring Artifact to bring its AI features to Yahoo News</a></li>
+<li><a href="https://www.nytimes.com/games/connections">Connections: Group words by topic.</a></li>
+<li><a href="https://www.netflix.com/title/81587446">Physical: 100</a></li>
+<li><a href="https://www.youtube.com/watch?v=Ixh-cp4Ju_8">Rebuild.fm 宮川さんとテックニュース雑談回</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 23 Apr 2024 20:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/383/</link>
+        <guid isPermaLink="true">https://rebuild.fm/383/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>yuka</atom:name>
+          <atom:uri>https://rebuild.fm/people/yuka/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Yuka Ohishi さんをゲストに迎えて、Humane Ai Pin, rabbit r1, AI などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:39:10</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep383.mp3" type="audio/mpeg" length="71847089" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>382: CIA Agent John (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、GDC, 生成AI、Apple、XZバックドア、コーヒーなどについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://twitter.com/Adscience12000/status/1776638597694644714">F1インタビュアー、AMDのリサ・スーに英語話せる？と聞いてしまう</a></li>
+<li><a href="https://rebuild.fm/portal/">Rebuild Supporter</a></li>
+<li><a href="https://www.ign.com/articles/game-developers-choice-awards-2024-winners-the-full-list">Game Developers Choice Awards 2024 Winners</a></li>
+<li><a href="https://venbagame.com/">Venba | A game about cooking, family and more</a></li>
+<li><a href="https://www.bose.com/p/home-theater/bass-module-700-uscanada/CMSP-BM700-NAPL-BASSMODULE.html">Bose Bass Module 700</a></li>
+<li><a href="https://www.bose.com/p/home-theater/bose-surround-speakers-700/SS700-SPEAKERWIRELESS.html">Bose Surround Speakers 700</a></li>
+<li><a href="https://aba.hatenablog.com/entry/2024/03/09/181531">Claude 3 OpusはGPT-4では難しい「オホーツクに消ゆ」ライクなアドベンチャーゲーム生成ができる</a></li>
+<li><a href="https://techcrunch.com/2024/03/22/stability-ai-ceo-resigns-because-youre-not-going-to-beat-centralized-ai-with-more-centralized-ai/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAL2P2x7ar8KbA3g-Agmgn61ieeqpDY2LPKn0JZus9NmZVwmpMSO6-mohDufos342jyIppnLK4GajB-4zAvGzWMku09s2u6mr0xNn74YtAHK-iLHoRsv3vAAXamM37Dxi099E60tQ60K49uLsN25DJzhw0UznhBiXX46mVjtkCbVs">Stability AI CEO resigns because you’re ‘not going to beat centralized AI with more centralized AI’</a></li>
+<li><a href="https://www.youtube.com/watch?v=h5qnl81AonE">かまいたちが音声会話型AIアプリ「Cotomo」と話してみたら驚愕のクオリティだった！</a></li>
+<li><a href="https://www.imdb.com/title/tt1798709/">Her</a></li>
+<li><a href="https://www.investopedia.com/investing/bitcoin-etfs-explained/">Bitcoin Futures ETF: Definition, How It Works, and How to Invest</a></li>
+<li><a href="https://www.theverge.com/2024/3/21/24105363/apple-doj-monopoly-lawsuit">US sues Apple for illegal monopoly over smartphones</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B09QPMNWS5?tag=bulknews-22">Androids: The Team that Built the Android Operating System</a></li>
+<li><a href="https://research.swtch.com/xz-timeline">Timeline of the xz open source attack</a></li>
+<li><a href="https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard">NuPhy Halo75 V2 QMK/VIA Wireless Custom Mechanical Keyboard</a></li>
+<li><a href="https://sites.google.com/view/gamedesign24/home">ゲームデザイン論2024</a></li>
+<li><a href="https://eiga.com/movie/99887/">オッペンハイマー</a></li>
+<li><a href="https://dededede.jp/">デッドデッドデーモンズデデデデデストラクション</a></li>
+<li><a href="https://www.imdb.com/title/tt15239678/">Dune: Part Two</a></li>
+<li><a href="https://disneyplus.disney.co.jp/program/shogun">SHOGUN 将軍</a></li>
+<li><a href="https://www.netflix.com/title/81024821">3 Body Problem</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0CH6JGWC8?tag=bulknews-22">BLUE GIANT</a></li>
+<li><a href="https://acaia.co/collections/coffee-scales">Coffee Scales – acaia</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0CMZJP9V8?tag=bulknews-22">TIMEMORE タイムモア Black Mirror Basic 2.0</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sun, 07 Apr 2024 23:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/382/</link>
+        <guid isPermaLink="true">https://rebuild.fm/382/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、GDC, 生成AI、Apple、XZバックドア、コーヒーなどについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:15:48</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep382.mp3" type="audio/mpeg" length="98227772" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>381: Not Canceled Yet (N)</title>
+        <description><![CDATA[ <p>Naoki Hiroshima さんをゲストに迎えて、歯科矯正、TikTok, Swift, App Store, AI などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.invisalign.com/">Invisalign</a></li>
+<li><a href="https://smartandresponsible.com/blog/fsa-hsa-hra/">FSA、HSA、HRAって？ - 健康保険と消費者の責任</a></li>
+<li><a href="https://twitter.com/rebuildfm">Rebuild Podcast (@rebuildfm) / X</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0CM1W3JDT?tag=bulknews-22">Extremely Hardcore</a></li>
+<li><a href="https://www.vox.com/24100812/tiktok-ban-congress-bill-impact-senate-stakes-bytedance-china-gen-z">TikTok ban: The impact on users would stretch far beyond Gen Z</a></li>
+<li><a href="https://usds.tiktok.com/usds-about/">About Project Texas | TikTok</a></li>
+<li><a href="https://www.theverge.com/2024/3/14/24101116/pornhub-texas-age-verification-law-shut-down">Pornhub shuts down in Texas to protest age verification law</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B09QPMNWS5?tag=bulknews-22">Androids: The Team that Built the Android Operating System</a></li>
+<li><a href="https://www.youtube.com/watch?v=vCgqhHmgrrE">ONE PIECE知らないサーヤ</a></li>
+<li><a href="https://www.netflix.com/title/81024821">3 Body Problem</a></li>
+<li><a href="https://www.netflix.com/title/81726701">Vivant</a></li>
+<li><a href="https://event.1242.com/events/audreyann_in_tokyodome/">オードリーのオールナイトニッポン in 東京ドーム</a></li>
+<li><a href="https://www.oricon.co.jp/news/2318776/full/">オードリー春日、極秘で1年間英語レッスンを受けていた</a></li>
+<li><a href="https://play2048.co/">2048</a></li>
+<li><a href="http://play.threesgame.com/">Threes</a></li>
+<li><a href="https://www.epicgames.com/site/en-US/news/apple-terminated-epic-s-developer-account">Apple Terminated Epic’s Developer Account</a></li>
+<li><a href="https://9to5mac.com/2024/02/22/as-500m-eu-fine-looms-apple-accuses-spotify-of-wanting-limitless-access-to-its-tools-for-free/">Apple accuses Spotify of wanting &#39;limitless access&#39; to its tools for free</a></li>
+<li><a href="https://developer.apple.com/support/web-distribution-eu/">Getting ready for Web Distribution in the EU</a></li>
+<li><a href="https://www.perplexity.ai/pro?referral_code=V1SEQHMM">Perplexity Pro</a></li>
+<li><a href="https://www.youtube.com/watch?v=Y2F8yisiS6E">GTC March 2024 Keynote with NVIDIA CEO Jensen Huang</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers">Nvidia bans using translation layers for CUDA software</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Thu, 21 Mar 2024 22:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/381/</link>
+        <guid isPermaLink="true">https://rebuild.fm/381/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>N</atom:name>
+          <atom:uri>https://rebuild.fm/people/N/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Naoki Hiroshima さんをゲストに迎えて、歯科矯正、TikTok, Swift, App Store, AI などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>3:15:26</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep381.mp3" type="audio/mpeg" length="141162045" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>380: The One and Only Leather Jacket (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、Vision Pro, Gemini, Sora, GPU, PWA などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://yapcjapan.org/2024hiroshima/">YAPC::Hiroshima 2024</a></li>
+<li><a href="https://9to5google.com/2023/11/29/google-maps-colors-update/">Google Maps rolls out new colors on Android, iOS, and web</a></li>
+<li><a href="https://athleticbrewing.com/">Athletic Brewing Co.</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0C283R23H?tag=bulknews-22">よなよなエール 正気のサタン</a></li>
+<li><a href="https://www.youtube.com/watch?v=8xI10SFgzQ8">I Spent 24 Hours Wearing Apple’s Vision Pro Headset | WSJ</a></li>
+<li><a href="https://apps.apple.com/us/app/juno-for-youtube/id6476961640">Juno for YouTube</a></li>
+<li><a href="https://www.youtube.com/watch?v=dncb-FlUhlM">Apple Vision Pro Accessibility Features: Navigating Without Hands</a></li>
+<li><a href="https://www.instagram.com/zuck/reel/C3TkhmivNzt/">Mark Zuckerberg: I tried Vision Pro. Here&#39;s my take, shot with Quest&#39;s high resolution mixed reality passthrough.</a></li>
+<li><a href="https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/">Introducing Gemini 1.5, Google&#39;s next-generation AI model</a></li>
+<li><a href="https://www.theverge.com/2024/2/23/24081309/google-gemini-embarrassing-ai-pictures-diverse-nazi">Google explains Gemini’s ‘embarrassing’ AI pictures of diverse Nazis</a></li>
+<li><a href="https://openai.com/sora">Sora</a></li>
+<li><a href="https://www.youtube.com/watch?v=NXpdyAWLDas">MKBHD: AI Generated Videos Just Changed Forever</a></li>
+<li><a href="https://newsletter.pragmaticengineer.com/p/scaling-chatgpt">Scaling ChatGPT: Five Real-World Engineering Challenges</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BB%AE%E8%AA%AC">シミュレーション仮説</a></li>
+<li><a href="https://www.cnbc.com/2024/02/21/nvidia-nvda-earnings-report-q4-2024.html">Nvidia (NVDA) earnings report Q4 2024</a></li>
+<li><a href="https://www.theverge.com/2023/12/6/23991113/amd-ai-mi300-chips-generative-gpu">AMD releases new chips to power faster AI training</a></li>
+<li><a href="https://www.theverge.com/2024/2/22/24079978/reddit-ipo-public-offering-shares-power-users">Reddit is going public and inviting power users to invest</a></li>
+<li><a href="https://www.macrumors.com/2024/02/15/ios-17-4-web-apps-removed-apple/">Apple Confirms iOS 17.4 Disables Home Screen Web Apps in the European Union</a></li>
+<li><a href="https://daringfireball.net/2024/02/eu_rcs_imessage">The European Commission Had Nothing to Do With Apple’s Reversal on Supporting RCS</a></li>
+<li><a href="https://blog.google/products/search/google-circle-to-search-android/">Google introduces new Circle to Search feature on Android</a></li>
+<li><a href="https://baldursgate3.game/">Baldur&#39;s Gate 3</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B09S3R44WM?tag=bulknews-22">Doom Guy: Life in First Person</a></li>
+<li><a href="https://store.steampowered.com/app/1623730/Palworld/">Palworld</a></li>
+<li><a href="https://www.theverge.com/2024/2/12/24067370/microsoft-xbox-playstation-switch-games-future-hardware">Microsoft prepares to take Xbox everywhere</a></li>
+<li><a href="https://www.eldenring.jp/newsdetail/news_detail_240221_1.html">DLC『SHADOW OF THE ERDTREE』発売日決定・トレーラー公開</a></li>
+<li><a href="https://gmodecorp.com/cs/okhotsk/">北海道連鎖殺人 オホーツクに消ゆ ～追憶の流氷・涙のニポポ人形～</a></li>
+<li><a href="https://www.searchlightpictures.jp/movies/poorthings">哀れなるものたち</a></li>
+<li><a href="https://note.com/hakuroum/n/n4c2ee9f84923?sub_rt=share_pb">買ってよかったBestBuy2023 IT&amp;家電編｜hakuroum</a></li>
+<li><a href="https://www.tohoho-web.com/ot/hiroshima-hassho.html">広島のお好み焼き「八昌」 - とほほのWWW入門</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Mon, 26 Feb 2024 18:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/380/</link>
+        <guid isPermaLink="true">https://rebuild.fm/380/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、Vision Pro, Gemini, Sora, GPU, PWA などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:23:15</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep380.mp3" type="audio/mpeg" length="103594067" />
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>379: Vision Pro For Hernia Treatment (naan)</title>
+        <description><![CDATA[ <p>Kazuho Okui さんをゲストに迎えて、App Store, LLM, Vision Pro などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.youtube.com/@rebuild_fm">Rebuild Podcast - YouTube</a></li>
+<li><a href="https://www.theverge.com/2024/1/16/24040881/apple-outside-payments-app-store-policies-iphone-ipad">Apple’s App Store policies now let US developers link to outside payments</a></li>
+<li><a href="https://techcrunch.com/2022/03/30/apple-to-now-allow-reader-apps-like-streaming-music-books-video-and-more-to-use-external-links-if-approved/">Apple to now allow ‘reader’ apps to use external links, if approved</a></li>
+<li><a href="https://www.macstories.net/stories/understanding-apples-response-to-the-dma/">Understanding Apple&#39;s Response to the DMA</a></li>
+<li><a href="https://daringfireball.net/2024/01/apples_plans_for_the_dma">Daring Fireball: Apple’s Plans for the DMA in the European Union</a></li>
+<li><a href="https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/">Apple announces changes to iOS, Safari, and the App Store in the European Union</a></li>
+<li><a href="https://www.theverge.com/2024/1/25/24050478/apple-ios-17-4-browser-engines-eu">Apple is allowing alternative browser engines in iOS 17.4 — but only in the EU</a></li>
+<li><a href="https://business.nikkei.com/atcl/gen/19/00297/030800117/?P=2">iOSとAndroidの寡占で「競争不十分」と公取委の調査、政府は規制に踏み切るか</a></li>
+<li><a href="https://www.theverge.com/2024/1/25/24050430/apple-app-store-game-streaming">Apple opens App Store to game streaming services</a></li>
+<li><a href="https://www.macstories.net/news/apple-introduces-transcripts-for-podcasts/">Apple Introduces Transcripts for Podcasts</a></li>
+<li><a href="https://hq.getmatter.com/">Matter</a></li>
+<li><a href="https://pypi.org/project/llm/">llm · PyPI</a></li>
+<li><a href="https://techcrunch.com/2024/01/25/openai-drops-prices-and-fixes-lazy-gpt-4-that-refused-to-work/">OpenAI drops prices and fixes ‘lazy’ GPT-4 that refused to work</a></li>
+<li><a href="https://www.wired.com/story/most-news-sites-block-ai-bots-right-wing-media-welcomes-them/">Most Top News Sites Block AI Bots. Right-Wing Media Welcomes Them</a></li>
+<li><a href="https://www.youtube.com/watch?v=X-MNgciL5hw">Rabbit CEO Jesse Lyu on launching the R1, future of AI hardware, and going viral at CES</a></li>
+<li><a href="https://www.perplexity.ai/">Perplexity</a></li>
+<li><a href="https://9to5mac.com/2024/01/19/vision-pro-apps-ipad-apps/">Vision Pro apps: Why some big brands have actively opted out</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 30 Jan 2024 00:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/379/</link>
+        <guid isPermaLink="true">https://rebuild.fm/379/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>naan</atom:name>
+          <atom:uri>https://rebuild.fm/people/naan/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Kazuho Okui さんをゲストに迎えて、App Store, LLM, Vision Pro などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:43:05</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep379.mp3" type="audio/mpeg" length="74665516" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>378: Can't You See This Rabbit? (yuka)</title>
         <description><![CDATA[ <p>Yuka Ohishi さんをゲストに迎えて、YouTube, CES, Vision Pro, Boox Palma などについて話しました。</p>
 <h3>Show Notes</h3><ul>
