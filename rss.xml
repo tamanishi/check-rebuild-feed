@@ -25,6 +25,61 @@
     
     
       <item>
+        <title>409: An OS for Complicated People (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、WWDC 2025 などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.rottentomatoes.com/m/f1_the_movie">F1 The Movie</a></li>
+<li><a href="https://www.theverge.com/news/684560/amazon-alexa-plus-one-million-users-coming-summer-2025">Alexa Plus now has a million users and could be coming to you this summer</a></li>
+<li><a href="https://developer.apple.com/videos/play/wwdc2025/101/">Keynote - WWDC25</a></li>
+<li><a href="https://developer.apple.com/videos/play/wwdc2025/102/">Platforms State of the Union - WWDC25</a></li>
+<li><a href="https://www.lux.camera/physicality-the-new-age-of-ui/">Physicality: the new age of UI</a></li>
+<li><a href="https://rebuild.fm/57/#t=00:44:44">Rebuild: 57: The Extinction of 2D Minded (naan, hak)</a></li>
+<li><a href="https://bsky.app/profile/ismh86.net/post/3lr7lspevrc2e">Tahoe flips the colors in the Finder icon</a></li>
+<li><a href="https://www.alfredapp.com/">Alfred - Productivity App for macOS</a></li>
+<li><a href="https://www.raycast.com/">Raycast</a></li>
+<li><a href="https://github.com/apple/container">apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac</a></li>
+<li><a href="https://www.engadget.com/computing/macos-tahoe-is-the-end-of-the-line-for-intel-macs-113036626.html">macOS Tahoe is the end of the line for Intel Macs</a></li>
+<li><a href="https://www.youtube.com/watch?v=wCEkK1YzqBo">Apple Execs on What Went Wrong with Siri, iOS 26 and More (Full Interview) | WSJ</a></li>
+<li><a href="https://blog.google/products/android/android-16/">Android 16: Productivity, security and more features on Android</a></li>
+<li><a href="https://www.xbox.com/en-US/handhelds/rog-xbox-ally">ROG Xbox Ally X &amp; ROG Xbox Ally</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B0DPKXZGTL?tag=bulknews-22&th=1">Anker Nano Charger (130W, 6 Ports)</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B%E5%88%A5%E7%BE%86%E4%BA%8B%E4%BB%B6">三毛別羆事件 - Wikipedia</a></li>
+<li><a href="https://www.amazon.co.jp/dp/B08R6XW591?tag=bulknews-22">今夜は車内でおやすみなさい。</a></li>
+<li><a href="https://apocalypse-hotel.jp/">アポカリプスホテル</a></li>
+<li><a href="https://mumei-no-jinsei.jp/">映画『無名の人生』</a></li>
+<li><a href="https://junkworld-movie.com/">JUNK WORLD</a></li>
+<li><a href="https://rebuild.fm/339/">Rebuild: 339: We Had Udon for Dinner (higepon)</a></li>
+<li><a href="https://www.youtube.com/watch?v=aSugSGCC12I">Sabrina Carpenter - Manchild (Official Video) </a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 17 Jun 2025 22:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/409/</link>
+        <guid isPermaLink="true">https://rebuild.fm/409/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、WWDC 2025 などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>3:02:41</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep409.mp3" type="audio/mpeg" length="131982791" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>408: Democratize Coding for $200 a Month (yuka)</title>
         <description><![CDATA[ <p>Yuka Ohishi さんをゲストに迎えて、Google I/O, Android XR, MCP, Claude Code, Vibe Coding, WWDC などについて話しました。</p>
 <h3>Show Notes</h3><ul>
