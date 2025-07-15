@@ -25,6 +25,58 @@
     
     
       <item>
+        <title>410: Hitting the Context Window Limit (naoya)</title>
+        <description><![CDATA[ <p>Naoya Ito さんをゲストに迎えて、Claude Code, AI, K-POP などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://rebuild.fm/405/">Rebuild: 405: MCP for Reporting to HR (naoya)</a></li>
+<li><a href="https://aws.amazon.com/bedrock/">Amazon Bedrock – AWS</a></li>
+<li><a href="https://www.anthropic.com/claude-code">Claude Code</a></li>
+<li><a href="https://www.cnbc.com/2025/04/07/shopify-ceo-prove-ai-cant-do-jobs-before-asking-for-more-headcount.html">Shopify CEO: Prove AI can&#39;t do jobs before asking for more headcount</a></li>
+<li><a href="https://docs.anthropic.com/en/docs/claude-code/github-actions">Claude Code GitHub Actions - Anthropic</a></li>
+<li><a href="https://www.cnn.com/2024/04/03/opinions/32-hour-work-week-sanders/index.html">Bernie Sanders: It’s time for a 4-day work week</a></li>
+<li><a href="https://www.theverge.com/openai/705999/google-windsurf-ceo-openai">Windsurf’s CEO is going to Google</a></li>
+<li><a href="https://llm.datasette.io/en/stable/">LLM: A CLI utility and Python library for interacting with Large Language Models</a></li>
+<li><a href="https://x.com/miyagawa/status/1944249398285754502">llm Discord bot カレンダーとTodoを自然言語で適当にかけてよい</a></li>
+<li><a href="https://2025.fp-matsuri.org/">関数型まつり</a></li>
+<li><a href="https://speakerdeck.com/naoya/guan-shu-xing-yan-yu-dejing-ji-puroguramingu">Haskell でアルゴリズムを抽象化する / 関数型言語で競技プログラミング</a></li>
+<li><a href="https://www.youtube.com/watch?v=eHHQaoEW30Q">TWICE &quot;THIS IS FOR&quot;</a></li>
+<li><a href="https://www.youtube.com/watch?v=M2WTUoy4y6E">aespa 에스파 &#39;Dirty Work&#39;</a></li>
+<li><a href="https://www.youtube.com/watch?v=BiTEQGmPRfQ">IVE - After LIKE / THE FIRST TAKE</a></li>
+<li><a href="https://www.youtube.com/watch?v=HFZUAXhdnHk">LE SSERAFIM (르세라핌) &#39;DIFFERENT&#39; OFFICIAL MV</a></li>
+<li><a href="https://www.youtube.com/watch?v=uf888ifNUws">aespa - 2024 aespa LIVE TOUR – SYNK : PARALLEL LINE – in TOKYO DOME</a></li>
+<li><a href="https://x.com/miyagawa/status/1806710883315495279">WE❤NJ </a></li>
+<li><a href="https://www.youtube.com/@MohaJP">MOHA JP【モハブログ】</a></li>
+<li><a href="https://www.youtube.com/watch?v=zKO8cpYSrYQ">CANDY TUNE「倍倍FIGHT!」【海外の反応】</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Mon, 14 Jul 2025 20:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/410/</link>
+        <guid isPermaLink="true">https://rebuild.fm/410/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>naoya</atom:name>
+          <atom:uri>https://rebuild.fm/people/naoya/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Naoya Ito さんをゲストに迎えて、Claude Code, AI, K-POP などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:56:26</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep410.mp3" type="audio/mpeg" length="84276769" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>409: An OS for Complicated People (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、WWDC 2025 などについて話しました。</p>
 <h3>Show Notes</h3><ul>
