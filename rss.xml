@@ -25,6 +25,54 @@
     
     
       <item>
+        <title>411: Asking For A Friend (kansai_takako)</title>
+        <description><![CDATA[ <p>閑歳孝子さんをゲストに迎えて、Claude Code, GPT-5、LLMエージェント、藤井風などについて話しました。</p>
+
+<p>スポンサー: <a href="https://news.fixstars.com/">株式会社フィックスターズ</a></p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/">Anthropic tightens usage limits for Claude Code — without telling users | TechCrunch</a></li>
+<li><a href="https://docs.anthropic.com/en/docs/claude-code/sub-agents">Subagents - Anthropic</a></li>
+<li><a href="https://www.theregister.com/2025/08/07/github_ceo_ai_coding/">GitHub CEO: Future devs will not code, they will manage AI • The Register</a></li>
+<li><a href="https://openai.com/index/introducing-gpt-5/">Introducing GPT-5 | OpenAI</a></li>
+<li><a href="https://openai.com/index/introducing-gpt-oss/">Introducing gpt-oss | OpenAI</a></li>
+<li><a href="https://groq.com/">Groq is fast inference for AI builders</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en_US">Tasker - Apps on Google Play</a></li>
+<li><a href="https://www.limitless.ai/">Limitless</a></li>
+<li><a href="https://store.google.com/intl/en/ideas/articles/pixel-screenshots/">Pixel Screenshots: AI-powered screenshot memory + organization</a></li>
+<li><a href="https://www.reddit.com/r/ChatGPT/comments/1mm9hns/we_request_to_keep_4o_forever/">We request to keep 4o forever. : r/ChatGPT</a></li>
+<li><a href="https://rebuild.fm/portal/">Rebuild - Podcast by Tatsuhiko Miyagawa</a></li>
+<li><a href="https://sfoutsidelands.com/">Home | Outside Lands Music Festival</a></li>
+<li><a href="https://news.fixstars.com/">フィックスターズ *</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Mon, 11 Aug 2025 23:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/411/</link>
+        <guid isPermaLink="true">https://rebuild.fm/411/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>kansai_takako</atom:name>
+          <atom:uri>https://rebuild.fm/people/kansai_takako/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>閑歳孝子さんをゲストに迎えて、Claude Code, GPT-5、LLMエージェント、藤井風などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:33:16</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep411.mp3" type="audio/mpeg" length="67595365" />
+        
+      </item>
+    
+    
+    
+      <item>
         <title>410: Hitting the Context Window Limit (naoya)</title>
         <description><![CDATA[ <p>Naoya Ito さんをゲストに迎えて、Claude Code, AI, K-POP などについて話しました。</p>
 <h3>Show Notes</h3><ul>
