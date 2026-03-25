@@ -25,6 +25,67 @@
     
     
       <item>
+        <title>422: Abstracting K-Pop (naoya)</title>
+        <description><![CDATA[ <p>Naoya Ito さんをゲストに迎えて、AI エージェント、Codex, Claude Code, K-Pop などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://x.com/rebuildfm/status/2007630463838376352">Rebuild Podcast: watercooler ep31 with @naoya_ito サポーター限定フィードにアップしました👑</a></li>
+<li><a href="https://openai.com/codex/">Codex | AI Coding Partner from OpenAI</a></li>
+<li><a href="https://ghostty.org/">Ghostty</a></li>
+<li><a href="https://code.claude.com/docs/en/remote-control">Remote Control - Claude Code</a></li>
+<li><a href="https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/">Claude Code can now take over your computer to complete tasks</a></li>
+<li><a href="https://obsidian.md/">Obsidian</a></li>
+<li><a href="https://agentskills.io/home">Agent Skills</a></li>
+<li><a href="https://claude.com/contact-sales/claude-for-oss">Claude for Open Source</a></li>
+<li><a href="https://openai.com/form/codex-for-oss/">Codex for Open Source</a></li>
+<li><a href="https://cursor.com/blog/composer-2">Introducing Composer 2</a></li>
+<li><a href="https://arxiv.org/abs/2603.14133">Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency</a></li>
+<li><a href="https://x.com/nodacry/status/2033184666291982497">マヂカルラブリー 野田クリスタル: Claude CodeがXcodeのビルドできるとろまでやってくれるのキモすぎるんだけど</a></li>
+<li><a href="https://www.youtube.com/watch?v=F7sGJVUrkjQ">Hearts2Hearts 하츠투하츠 &#39;RUDE!&#39;</a></li>
+<li><a href="https://www.youtube.com/watch?v=r_dVIEF1Sq4">IVE &#39;소원을 말해봐 (Genie)&#39;</a></li>
+<li><a href="https://www.youtube.com/watch?v=hAEfi_SKTEU">KiiiKiii 키키 I DO ME</a></li>
+<li><a href="https://www.youtube.com/watch?v=xLNmyB1iCig">GIRLSET - Tweak</a></li>
+<li><a href="https://x.com/miyagawa/status/2026301024961699858">XG - Just Stand Up! 2024-10-09 San Francisco</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 24 Mar 2026 19:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/422/</link>
+        <guid isPermaLink="true">https://rebuild.fm/422/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>naoya</atom:name>
+          <atom:uri>https://rebuild.fm/people/naoya/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>Naoya Ito さんをゲストに迎えて、AI エージェント、Codex, Claude Code, K-Pop などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:25:09</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep422.mp3" type="audio/mpeg" length="61758006" />
+        
+        <psc:chapters version="1.2">
+          <psc:chapter start="00:00" title="近況" />
+          <psc:chapter start="01:23" title="AI開発、Codex" />
+          <psc:chapter start="09:19" title="Non-coding AI Agent" />
+          <psc:chapter start="27:06" title="AI エージェントによる開発" />
+          <psc:chapter start="37:47" title="Codex で Wiki" />
+          <psc:chapter start="47:34" title="モデル開発とスイッチングコスト" />
+          <psc:chapter start="1:00:08" title="K-POP" />
+          </psc:chapters>
+        
+        
+      </item>
+    
+    
+    
+      <item>
         <title>421: Nirvana of Unreal Engine (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、Apple 発表、Studio Display, MacBook Neo, Anthropic, Unreal Engine などについて話しました。</p>
 <h3>Show Notes</h3><ul>
