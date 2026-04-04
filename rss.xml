@@ -25,6 +25,59 @@
     
     
       <item>
+        <title>423: Stylish Magazine Like Brutus (kyuukanba)</title>
+        <description><![CDATA[ <p>漫画家の山田胡瓜さんをゲストに迎えて、AIの遺電子、AI、Sora, Anthropic, Nano Banana, 著作権、自動運転などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://brutus.jp/mook/issue/manga/">BRUTUS特別編集 合本 マンガが好きで好きで好きでたまらない</a></li>
+<li><a href="https://championcross.jp/series/ceabc2ae32883">AIの遺電子 - 山田胡瓜</a></li>
+<li><a href="https://emaqi.com/manga/the-gene-of-ai">The Gene of AI</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws">Amazon’s cloud ‘hit by two outages caused by AI tools last year’</a></li>
+<li><a href="https://www.youtube.com/watch?v=p8gfDnK05IY">【利きボケAI】かまいたち山内の本当のボケをAI回答の中から濱家は当てることができるのか！？</a></li>
+<li><a href="https://www.youtube.com/watch?v=g0UwIWrXZQc">m-flo loves Diggy-MO&#39; &amp; しのだりょうすけ / &quot;GateWay&quot; Official Music Video</a></li>
+<li><a href="https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/">Why OpenAI really shut down Sora</a></li>
+<li><a href="https://www.platformer.news/grammarly-expert-review-reviewed/">Grammarly turned me into an AI editor against my will and I hate it</a></li>
+<li><a href="https://www.wsj.com/tech/ai/anthropic-amanda-askell-philosopher-ai-3c031883?st=1Mr5L3&reflink=desktopwebshare_permalink">Anthropic’s Philosopher Amanda Askell Is Teaching Claude AI to Have Morals</a></li>
+<li><a href="https://www.amazon.co.jp/dp/4197735812?tag=rebuildfm-22">風の谷のナウシカ 1: 宮崎 駿</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Fri, 03 Apr 2026 15:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/423/</link>
+        <guid isPermaLink="true">https://rebuild.fm/423/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>kyuukanba</atom:name>
+          <atom:uri>https://rebuild.fm/people/kyuukanba/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>漫画家の山田胡瓜さんをゲストに迎えて、AIの遺電子、AI、Sora, Anthropic, Nano Banana, 著作権、自動運転などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:03:05</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep423.mp3" type="audio/mpeg" length="45870523" />
+        
+        <psc:chapters version="1.2">
+          <psc:chapter start="00:00" title="AIの遺電子" />
+          <psc:chapter start="11:40" title="AIと仕事、クリエイティビティ" />
+          <psc:chapter start="29:36" title="モデル性能" />
+          <psc:chapter start="36:42" title="著作権" />
+          <psc:chapter start="42:12" title="Waymo" />
+          <psc:chapter start="50:24" title="ライセンス" />
+          </psc:chapters>
+        
+        
+      </item>
+    
+    
+    
+      <item>
         <title>422: Abstracting K-Pop (naoya)</title>
         <description><![CDATA[ <p>Naoya Ito さんをゲストに迎えて、AI エージェント、Codex, Claude Code, K-Pop などについて話しました。</p>
 <h3>Show Notes</h3><ul>
@@ -40,9 +93,9 @@
 <li><a href="https://cursor.com/blog/composer-2">Introducing Composer 2</a></li>
 <li><a href="https://arxiv.org/abs/2603.14133">Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency</a></li>
 <li><a href="https://x.com/nodacry/status/2033184666291982497">マヂカルラブリー 野田クリスタル: Claude CodeがXcodeのビルドできるとろまでやってくれるのキモすぎるんだけど</a></li>
-<li><a href="https://www.youtube.com/watch?v=F7sGJVUrkjQ">Hearts2Hearts 하츠투하츠 &#39;RUDE!&#39;</a></li>
-<li><a href="https://www.youtube.com/watch?v=r_dVIEF1Sq4">IVE &#39;소원을 말해봐 (Genie)&#39;</a></li>
-<li><a href="https://www.youtube.com/watch?v=hAEfi_SKTEU">KiiiKiii 키키 I DO ME</a></li>
+<li><a href="https://www.youtube.com/watch?v=F7sGJVUrkjQ">Hearts2Hearts - RUDE!</a></li>
+<li><a href="https://www.youtube.com/watch?v=8Qwwd0wpLp8">IVE - Genie</a></li>
+<li><a href="https://www.youtube.com/watch?v=hAEfi_SKTEU">KiiiKiii - I DO ME</a></li>
 <li><a href="https://www.youtube.com/watch?v=xLNmyB1iCig">GIRLSET - Tweak</a></li>
 <li><a href="https://x.com/miyagawa/status/2026301024961699858">XG - Just Stand Up! 2024-10-09 San Francisco</a></li>
 </ul>
