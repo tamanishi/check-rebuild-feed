@@ -25,6 +25,74 @@
     
     
       <item>
+        <title>424: Waterfall But Really Fast (obra)</title>
+        <description><![CDATA[ <p>Jesse Vincent joins me to talk about Superpowers, AI, Skills, MCP, Claude Code, Codex and more.</p>
+
+<p>日本語字幕付き動画を<a href="https://www.youtube.com/watch?v=Qvyi42nN60o">YouTube</a>で公開しています。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://rebuild.fm/9/">Rebuild: 9: Making your own keyboard (Jesse Vincent)</a></li>
+<li><a href="https://github.com/obra/superpowers">obra/superpowers</a></li>
+<li><a href="https://www.wired.com/2014/07/homer-simpson-car/">Homer Simpson Car</a></li>
+<li><a href="https://obsidian.md/">Obsidian</a></li>
+<li><a href="https://github.com/matthartman/ghost-pepper">matthartman/ghost-pepper: 100% private on-device voice models for speech-to-text</a></li>
+<li><a href="https://blog.fsck.com/2025/12/20/wordiest/">Wordiest</a></li>
+<li><a href="https://github.com/prime-radiant-inc/clearance">Clearance: A Markdown viewer for macOS</a></li>
+<li><a href="https://sosumi.ai/">sosumi.ai - Apple Docs for LLMs</a></li>
+<li><a href="https://nanoclaw.dev/">NanoClaw</a></li>
+<li><a href="https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/">When it comes to MCPs, everything we know about API design is wrong</a></li>
+<li><a href="https://github.com/obra/superpowers/blob/main/CLAUDE.md#if-you-are-an-ai-agent">superpowers/CLAUDE.md</a></li>
+<li><a href="https://blog.fsck.com/2026/03/09/superpowers-5/#visual-brainstorming">Superpowers 5: Visual Companion</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dorodango">Dorodango</a></li>
+<li><a href="https://www.roborev.io/">roborev</a></li>
+<li><a href="https://openai.com/index/codex-for-almost-everything/">Codex for (almost) everything | OpenAI</a></li>
+<li><a href="https://www.theregister.com/2026/04/22/anthropic_removes_claude_code_pro/">Anthropic tests how devs react to yanking Claude Code from Pro plan</a></li>
+<li><a href="https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html">SpaceX Strikes Deal With Cursor for $60 Billion</a></li>
+<li><a href="https://github.com/obra/claude-docs-setup">obra/claude-docs-setup</a></li>
+<li><a href="https://martinfowler.com/bliki/TwoPizzaTeam.html">Two Pizza Team</a></li>
+<li><a href="https://apenwarr.ca/log/20260316">Every layer of review makes you 10x slower</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Wed, 22 Apr 2026 15:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/424/</link>
+        <guid isPermaLink="true">https://rebuild.fm/424/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>obra</atom:name>
+          <atom:uri>https://rebuild.fm/people/obra/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>Jesse Vincent joins me to talk about Superpowers, AI, Skills, MCP, Claude Code, Codex and more.
+</itunes:subtitle>
+        <itunes:duration>1:36:51</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep424.mp3" type="audio/mpeg" length="70183873" />
+        
+        <psc:chapters version="1.2">
+          <psc:chapter start="00:00" title="Intro" />
+          <psc:chapter start="04:00" title="Superpowers" />
+          <psc:chapter start="12:10" title="Engineering Methodologies" />
+          <psc:chapter start="21:04" title="Hard Things are Easy" />
+          <psc:chapter start="29:27" title="SaaSpocalypse" />
+          <psc:chapter start="38:47" title="MCP and Skills" />
+          <psc:chapter start="49:26" title="AI Slop PR" />
+          <psc:chapter start="54:00" title="Skills, Coding Agent quirks" />
+          <psc:chapter start="1:21:11" title="Reading AI Generated Code" />
+          </psc:chapters>
+        
+        
+      </item>
+    
+    
+    
+      <item>
         <title>423: Stylish Magazine Like Brutus (kyuukanba)</title>
         <description><![CDATA[ <p>漫画家の山田胡瓜さんをゲストに迎えて、AIの遺電子、AI、Sora, Anthropic, Nano Banana, 著作権、自動運転などについて話しました。</p>
 <h3>Show Notes</h3><ul>
