@@ -25,6 +25,82 @@
     
     
       <item>
+        <title>426: Keynote as Org Chart (yuka)</title>
+        <description><![CDATA[ <p>Yuka Ohishi さんをゲストに迎えて、Google I/O 2026, Gemini 3.5 Flash, Google Search AI Mode, Gemini Spark, Voice dictation, BTS Arirang Tour, WWDC 2026 などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://io.google/2026/">Google I/O 2026</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/">Gemini 3.5</a></li>
+<li><a href="https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/">Google: Transitioning Gemini CLI to Antigravity CLI</a></li>
+<li><a href="https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/">Google adds voice-based prompting to Docs and Keep</a></li>
+<li><a href="https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/">You can no longer Google the word &#39;disregard&#39;</a></li>
+<li><a href="https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/">Gemini Spark</a></li>
+<li><a href="https://www.typewhisper.com/en/">TypeWhisper</a></li>
+<li><a href="https://lingory.net/">Lingory</a></li>
+<li><a href="https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/">Google Shopping introduces Universal Cart, agentic shopping</a></li>
+<li><a href="https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce">Stripe: Developing an open standard for agentic commerce</a></li>
+<li><a href="https://developers.google.com/merchant/ucp">Google Universal Commerce Protocol (UCP) Guide</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/">Google: Introducing Gemini Omni</a></li>
+<li><a href="https://labs.google/fx/tools/flow/about">Google: Flow</a></li>
+<li><a href="https://workspace.google.com/products/pics/">Google Pics: AI Image Generator and Editor</a></li>
+<li><a href="https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/">Google: Intelligent eyewear with Gemini is coming this fall</a></li>
+<li><a href="https://www.ray-ban.com/usa/ray-ban-meta-ai-glasses">Ray-Ban Meta AI glasses Gen 2 &amp; Gen 1</a></li>
+<li><a href="https://www.bbc.com/news/articles/ce8pqd54qneo">Former Google CEO Eric Schmidt booed by graduates at mention of AI</a></li>
+<li><a href="https://developers.google.com/youtube/v3">YouTube Data API</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Arirang_World_Tour">Arirang World Tour</a></li>
+<li><a href="https://developer.apple.com/wwdc26/">Apple: WWDC26</a></li>
+<li><a href="https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/">OpenAI considering legal action against Apple</a></li>
+<li><a href="https://obsidian.md/">Obsidian</a></li>
+<li><a href="https://claude.com/product/cowork">Claude Cowork</a></li>
+<li><a href="https://cmux.com/">cmux — The terminal built for multitasking</a></li>
+<li><a href="https://ghostty.org/">Ghostty</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Tue, 26 May 2026 23:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/426/</link>
+        <guid isPermaLink="true">https://rebuild.fm/426/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>yuka</atom:name>
+          <atom:uri>https://rebuild.fm/people/yuka/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>Yuka Ohishi さんをゲストに迎えて、Google I/O 2026, Gemini 3.5 Flash, Google Search AI Mode, Gemini Spark, Voice dictation, BTS Arirang Tour, WWDC 2026 などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:12:54</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep426.mp3" type="audio/mpeg" length="52939457" />
+        
+        <psc:chapters version="1.2">
+          <psc:chapter start="00:00" title="Google I/O" />
+          <psc:chapter start="03:39" title="Gemini 3.5 Flash" />
+          <psc:chapter start="08:34" title="Docs, YouTube, Gmail" />
+          <psc:chapter start="15:04" title="Google Search AI Mode" />
+          <psc:chapter start="19:10" title="Gemini Spark" />
+          <psc:chapter start="20:48" title="Voice dictation" />
+          <psc:chapter start="29:17" title="Universal Cart" />
+          <psc:chapter start="31:21" title="Gemini Omni" />
+          <psc:chapter start="35:50" title="Google Intelligent Eyewear" />
+          <psc:chapter start="43:40" title="AI Backlash" />
+          <psc:chapter start="47:55" title="ポッドキャストAIワークフロー" />
+          <psc:chapter start="55:42" title="BTS Arirang Tour" />
+          <psc:chapter start="59:59" title="WWDC 2026" />
+          <psc:chapter start="1:05:19" title="Vibe Coding, Obsidian" />
+          </psc:chapters>
+        
+        
+      </item>
+    
+    
+    
+      <item>
         <title>425: Walls Have Ears, Hail Mary (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、John Ternus, Mac Pro, レイオフ、OpenAI, Musk v. Altman, Anthropic, Claude Code, デスク環境、プロジェクト・ヘイル・メアリーなどについて話しました。</p>
 <h3>Show Notes</h3><ul>
