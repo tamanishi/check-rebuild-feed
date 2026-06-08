@@ -7,12 +7,12 @@
     <link>https://rebuild.fm</link>
     <atom:link href="https://feeds.rebuild.fm/rebuildfm" rel="self" type="application/rss+xml" />
     <itunes:new-feed-url>https://feeds.rebuild.fm/rebuildfm</itunes:new-feed-url>
-    <media:thumbnail url="https://cdn.rebuild.fm/images/icon240.png" />
+    <media:thumbnail url="https://rebuild.fm/images/icon240.png" />
     <media:keywords>tech,technology,programming,perl,ruby,mobile,web,miyagawa,apple,google,android,development,software</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
     <itunes:author>Tatsuhiko Miyagawa</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://cdn.rebuild.fm/images/icon1400.jpg" />
+    <itunes:image href="https://rebuild.fm/images/icon1400.jpg" />
     <itunes:keywords>tech,technology,programming,perl,ruby,mobile,web,miyagawa,apple,google,android,development,software</itunes:keywords>
     <itunes:subtitle>A Podcast by Tatsuhiko Miyagawa. Talking about Tech, Software Development and Gadgets.</itunes:subtitle>
     <itunes:summary>ウェブ開発、プログラミング、モバイル、ガジェットなどにフォーカスしたテクノロジー系ポッドキャストです。 #rebuildfm</itunes:summary>
@@ -22,6 +22,87 @@
       <itunes:email>miyagawa@bulknews.net</itunes:email>
     </itunes:owner>
     <language>ja</language>
+    
+    
+      <item>
+        <title>427: Tokenmaxxing (twada)</title>
+        <description><![CDATA[ <p>和田卓人さんをゲストに迎えて、MS Build 2026, GitHub Copilot App, TDD, Anthropic IPO, OSS vs AI Slop, Vite などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://build.microsoft.com/en-US/home">Microsoft Build 2026</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZhZqeo7SD0Y">Microsoft Build: Satya Nadella&#39;s Opening Keynote</a></li>
+<li><a href="https://openclaw.ai/">OpenClaw</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows/core-utils/overview">Microsoft: Coreutils for Windows</a></li>
+<li><a href="https://github.com/microsoft/mxc">microsoft/mxc</a></li>
+<li><a href="https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/">Microsoft: Introducing Scout</a></li>
+<li><a href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id">Microsoft Entra ID</a></li>
+<li><a href="https://github.com/googleworkspace/cli">googleworkspace/cli</a></li>
+<li><a href="https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/">GitHub Copilot App</a></li>
+<li><a href="https://cmux.com/">cmux — The terminal built for multitasking</a></li>
+<li><a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/">GitHub Copilot: Usage-based billing</a></li>
+<li><a href="https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/">Uber: AI spending cap</a></li>
+<li><a href="https://microsoft.ai/news/introducingmai-code-1-flash/">Microsoft: Introducing MAI-Code-1-Flash</a></li>
+<li><a href="https://build.microsoft.com/en-US/sessions/BRK245">Microsoft Build: Build the thing that builds the thing (Peter Steinberger)</a></li>
+<li><a href="https://build.microsoft.com/en-US/sessions/BRK233">Microsoft Build: Software Defensibility in the era of AI coding (Chip Huyen)</a></li>
+<li><a href="https://www.amazon.co.jp/dp/4814401388?tag=rebuildfm-22">AIエンジニアリング (Chip Huyen)</a></li>
+<li><a href="https://t-wada.hatenablog.jp/entry/canon-tdd-by-kent-beck">【翻訳】テスト駆動開発の定義</a></li>
+<li><a href="https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/">Simon Willison: Red/green TDD</a></li>
+<li><a href="https://simonwillison.net/2026/May/27/product-market-fit/">I think Anthropic and OpenAI have found product-market fit</a></li>
+<li><a href="https://www.anthropic.com/news/confidential-draft-s1-sec">Anthropic: Draft S-1</a></li>
+<li><a href="https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0">Andrew Tridgell: rsync and outrage</a></li>
+<li><a href="https://www.theregister.com/ai-and-ml/2026/06/04/please-do-not-vibe-f-up-this-software-broken-backups-spark-ai-coding-row-in-rsync-project/5251189">&#39;Please do not vibe f--- up this software&#39;: AI coding row in rsync</a></li>
+<li><a href="https://nodejs.org/en/blog/release/v26.0.0">Node.js v26</a></li>
+<li><a href="https://github.com/sqlite/sqlite/blob/master/AGENTS.md">sqlite/AGENTS.md</a></li>
+<li><a href="https://github.com/mitchellh/vouch">mitchellh/vouch</a></li>
+<li><a href="https://voidzero.dev/posts/voidzero-cloudflare">Cloudflare: VoidZero is Joining Cloudflare</a></li>
+<li><a href="https://astral.sh/blog/openai">Astral to join OpenAI</a></li>
+<li><a href="https://bun.com/blog/bun-joins-anthropic">Bun: Joining Anthropic</a></li>
+<li><a href="https://vercel.com/blog/turbopack">Vercel: Turbopack</a></li>
+<li><a href="https://blog.cloudflare.com/vinext/">Cloudflare: How we rebuilt Next.js with AI in one week</a></li>
+<li><a href="https://github.com/oven-sh/bun/pull/30412">oven-sh/bun: Rewrite Bun in Rust</a></li>
+<li><a href="https://code.claude.com/docs/en/workflows">Claude Code: Orchestrate subagents at scale with dynamic workflows</a></li>
+<li><a href="https://simonwillison.net/2026/Mar/5/chardet/">Simon Willison: Can coding agents relicense open source?</a></li>
+<li><a href="https://www.reddit.com/r/ClaudeCode/comments/1rnfn9p/protip_adversarial_reviews_are_stupidly_easy_and/">Adversarial reviews are stupidly easy and unfairly useful</a></li>
+<li><a href="https://www.amazon.co.jp/dp/4798068535?tag=rebuildfm-22">プログラマー脳 (Felienne Hermans)</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sun, 07 Jun 2026 21:00:00 -0700</pubDate>
+        <link>https://rebuild.fm/427/</link>
+        <guid isPermaLink="true">https://rebuild.fm/427/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>twada</atom:name>
+          <atom:uri>https://rebuild.fm/people/twada/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>和田卓人さんをゲストに迎えて、MS Build 2026, GitHub Copilot App, TDD, Anthropic IPO, OSS vs AI Slop, Vite などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>1:30:11</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep427.mp3" type="audio/mpeg" length="65379947" />
+        
+        <psc:chapters version="1.2">
+          <psc:chapter start="00:00" title="MS Build 2026" />
+          <psc:chapter start="08:32" title="OpenClaw" />
+          <psc:chapter start="27:26" title="GitHub Copilot App" />
+          <psc:chapter start="43:56" title="TDD" />
+          <psc:chapter start="49:46" title="Build" />
+          <psc:chapter start="56:27" title="Anthropic IPO" />
+          <psc:chapter start="1:00:25" title="OSS vs AI Slop" />
+          <psc:chapter start="1:08:25" title="Vite joins Cloudflare" />
+          <psc:chapter start="1:20:49" title="OSS, Code Review" />
+          </psc:chapters>
+        
+        
+      </item>
+    
     
     
       <item>
@@ -40,7 +121,7 @@
 <li><a href="https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce">Stripe: Developing an open standard for agentic commerce</a></li>
 <li><a href="https://developers.google.com/merchant/ucp">Google Universal Commerce Protocol (UCP) Guide</a></li>
 <li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/">Google: Introducing Gemini Omni</a></li>
-<li><a href="https://labs.google/fx/tools/flow/about">Google: Flow</a></li>
+<li><a href="https://labs.google/fx/tools/flow/about">Google Flow</a></li>
 <li><a href="https://workspace.google.com/products/pics/">Google Pics: AI Image Generator and Editor</a></li>
 <li><a href="https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/">Google: Intelligent eyewear with Gemini is coming this fall</a></li>
 <li><a href="https://www.ray-ban.com/usa/ray-ban-meta-ai-glasses">Ray-Ban Meta AI glasses Gen 2 &amp; Gen 1</a></li>
