@@ -25,6 +25,99 @@
     
     
       <item>
+        <title>435: AI Agents Are Tamagotchi (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、HomeView, MacBook Pro, iPhone Duo, サイバーアタック、AI エージェントなどについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/">Apple: Meet Apple HomeView</a></li>
+<li><a href="https://sixcolors.com/post/2026/10/third-party-homeview-apps-think-carplay/">Six Colors: Third-party HomeView apps? Think CarPlay</a></li>
+<li><a href="https://www.macworld.com/article/3259650/apple-home-collection-build-your-smart-home.html">Apple Home Collection is an expensive way to build your smart home</a></li>
+<li><a href="https://www.apple.com/apple-tv-4k/">Apple TV 4K</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/">Apple unveils new iMac with M6</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/">Apple gives iPad mini its biggest update ever</a></li>
+<li><a href="https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/">Apple unveils new 14-inch MacBook Pro with M6 chip</a></li>
+<li><a href="https://developer.apple.com/videos/play/tech-talks/111456/">Design for touch on Mac</a></li>
+<li><a href="https://blakecrosley.com/blog/touch-on-mac-for-developers">Touch on Mac for Developers: 36 Points, Recognizers, Sidecar</a></li>
+<li><a href="https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/">The Inside Story of Why Apple Finally Brought a Touch Display to the Mac</a></li>
+<li><a href="https://www.macrumors.com/guide/macbook-pro-mini-led-vs-oled/">MacBook Pro Mini-LED vs. OLED Buyer&#39;s Guide</a></li>
+<li><a href="https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/">Sam Altman argues that it&#39;s bad you want DRAM in your computer and not a data center, actually</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-10-26/apple-s-foldable-iphone-duo-draws-early-complaints-of-the-screen-cracking">Apple&#39;s Foldable iPhone Duo Draws Early Complaints of the Screen Cracking</a></li>
+<li><a href="https://www.pcworld.com/article/3262052/i-tested-microsofts-2600-surface-laptop-ultra-with-rtx-spark-8-things-i-learned.html">I tested Microsoft&#39;s $2,600 Surface Laptop Ultra with RTX Spark: 8 things I learned</a></li>
+<li><a href="https://x.ai/bot">Grok Bot</a></li>
+<li><a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/">Anthropic expected to receive high &#39;junk&#39; rating from credit agencies following IPO</a></li>
+<li><a href="https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11">Claude Code Leader Cat Wu Exits Anthropic Before Big IPO</a></li>
+<li><a href="https://finance.yahoo.com/economy/policy/articles/france-approves-proposal-0-055-161418750.html">France Approves Proposal for €0.055 Tax per GB of Internet Traffic</a></li>
+<li><a href="https://www.watch.impress.co.jp/docs/news/2151375.html">GMO不正アクセス、犯人が27日12時の利用者PC攻撃を予告 80億円の金銭要求</a></li>
+<li><a href="https://gizmodo.com/binance-investigating-possibly-massive-hack-2000832787">Binance estimates $6.3 billion hacked in crypto&#39;s biggest heist</a></li>
+<li><a href="https://www.wiz.io/blog/php2shell-php-rce">PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet</a></li>
+<li><a href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/">PHP Foundation: Today&#39;s PHP Security Release, and How We&#39;re Strengthening PHP Security</a></li>
+<li><a href="https://tailscale.com/">Tailscale</a></li>
+<li><a href="https://emudhra.we-have-a-problem.com/">eMudhra Intermediate CA Compromise</a></li>
+<li><a href="https://rebuild.fm/433/">Rebuild: 433: That Meeting Was So Jev (らんぶる)</a></li>
+<li><a href="https://about.fb.com/ja/news/2026/10/muse-personal-ai-agent-launches-in-japan/">Meta、パーソナルAIエージェント「Muse」を日本で提供開始</a></li>
+<li><a href="https://openai.com/index/introducing-dots/">OpenAI: Introducing dots</a></li>
+<li><a href="https://bear.app/">Bear</a></li>
+<li><a href="https://code.claude.com/docs/en/workflows">Claude Code: Orchestrate subagents at scale with dynamic workflows</a></li>
+<li><a href="https://rebuild.fm/434/">Rebuild: 434: Agent Leadership (Matz)</a></li>
+<li><a href="https://herdr.dev/">Herdr</a></li>
+<li><a href="https://www.itsworthmore.com/">ItsWorthMore</a></li>
+<li><a href="https://www.youtube.com/@rebuild_fm/shorts">YouTube: Rebuild Shorts</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Advanced_Authoring_Format">Advanced Authoring Format</a></li>
+<li><a href="https://miyagawa.co/blog/logic-projectdata">miyagawa: Inside Logic Pro&#39;s ProjectData</a></li>
+<li><a href="https://www.blender.org/">Blender</a></li>
+<li><a href="https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/">&quot;Software is over&quot;: Bold AI developer takes aim at Adobe with open source clones</a></li>
+<li><a href="https://www.netflix.com/title/81054853">サイバーパンク エッジランナーズ</a></li>
+<li><a href="https://nothingnew.film/wearealiens/">我々は宇宙人</a></li>
+<li><a href="https://www.unrealengine.com/events/unreal-fest-tokyo-2026">Unreal Fest Tokyo 2026</a></li>
+<li><a href="https://www.pcgamer.com/software/ai/yes-we-are-vibe-coding-things-epic-confirms-its-using-ai-tools-to-code-unreal-engine-6-fortnite-and-more/">&#39;Yes, we are vibe-coding things&#39;: Epic confirms it&#39;s using AI tools to code Unreal Engine 6, Fortnite, and more</a></li>
+<li><a href="https://fastly-japan.connpass.com/event/405641/">Fastly Yamagoya Night 2026</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Thu, 05 Nov 2026 22:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/435/</link>
+        <guid isPermaLink="true">https://rebuild.fm/435/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、HomeView, MacBook Pro, iPhone Duo, サイバーアタック、AI エージェントなどについて話しました。
+</itunes:subtitle>
+        <itunes:duration>2:34:53</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep435.mp3" type="audio/mpeg" length="111966273" />
+        
+        <psc:chapters version="1.2">
+          <psc:chapter start="00:00" title="DST, 中間選挙" />
+          <psc:chapter start="05:32" title="HomeView" />
+          <psc:chapter start="26:49" title="HomePod mini 2" />
+          <psc:chapter start="31:17" title="Apple TV 4K" />
+          <psc:chapter start="38:14" title="iMac, Mac mini, Mac Studio" />
+          <psc:chapter start="45:55" title="iPad mini" />
+          <psc:chapter start="49:16" title="MacBook Pro" />
+          <psc:chapter start="1:10:53" title="iPhone Duo" />
+          <psc:chapter start="1:18:12" title="Surface Laptop Ultra" />
+          <psc:chapter start="1:21:32" title="Tech Stocks" />
+          <psc:chapter start="1:32:38" title="サイバーアタック" />
+          <psc:chapter start="1:49:22" title="Muse, dots" />
+          <psc:chapter start="2:01:40" title="AI エージェント" />
+          <psc:chapter start="2:23:12" title="コンテンツ" />
+          </psc:chapters>
+        
+        
+      </item>
+    
+    
+    
+      <item>
         <title>434: Agent Leadership (Matz)</title>
         <description><![CDATA[ <p>まつもとゆきひろさんをゲストに迎えて、Spinel, エージェント開発、DHH Keynote, YAPC などについて話しました。</p>
 <h3>Show Notes</h3><ul>
