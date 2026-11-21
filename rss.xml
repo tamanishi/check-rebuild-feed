@@ -25,6 +25,70 @@
     
     
       <item>
+        <title>436: Elephant in the Room (hak)</title>
+        <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、Nvidia, Jensen Huang, Anthropic IPO などについて話しました。</p>
+<h3>Show Notes</h3><ul>
+<li><a href="https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition">NVIDIA Announces CEO Transition</a></li>
+<li><a href="https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html">Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?</a></li>
+<li><a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">NVIDIA: Statement From NVIDIA Board of Directors</a></li>
+<li><a href="https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/">Former Nvidia CEO Huang had a relationship with a second employee, sources say</a></li>
+<li><a href="https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/">Trump says ex-Nvidia CEO Jensen Huang&#39;s affair with an alleged Chinese spy did not threaten national security</a></li>
+<li><a href="https://standwithjensen.com/">Stand with Jensen: An Open Letter to The NVIDIA Board of Directors</a></li>
+<li><a href="https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/">Nvidia&#39;s board of directors is against bringing back Jensen Huang as CEO</a></li>
+<li><a href="https://www.nbcnews.com/business/corporations/jensen-huang-agrees-house-interview-nvidias-chip-smuggling-rcna609803">Jensen Huang says he would be ‘honored’ to return as Nvidia’s CEO</a></li>
+<li><a href="https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/">Silicon Valley Is Still Defending Jensen Huang</a></li>
+<li><a href="https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed">Jensen Huang might be plotting a return and more of the latest Nvidia drama</a></li>
+<li><a href="https://fortune.com/2026/11/12/nvidia-next-ceo-the-outside-contenders-to-succeed-jensen-huang/">Nvidia’s next CEO: The outside contenders to succeed Jensen Huang</a></li>
+<li><a href="https://www.tweaktown.com/news/114692/nvidias-jensen-huang-is-involved-in-finding-new-ceo-amds-lisa-su-tipped-for-the-shortlist/index.html">NVIDIA&#39;s Jensen Huang is involved in finding new CEO, AMD&#39;s Lisa Su tipped for the shortlist</a></li>
+<li><a href="https://www.notateslaapp.com/news/4992/tesla-to-hire-nvidia-ceo-musk-says-it-would-be-an-honor">Tesla to Hire NVIDIA CEO? Musk Says It Would Be &#39;an Honor&#39;</a></li>
+<li><a href="https://x.com/arikuschnir/status/2118433753030922551">@arikuschnir: We were always blue</a></li>
+<li><a href="https://www.wunc.org/national/2026-11-16/u-s-tightens-controls-on-remote-access-to-ai-technology-amid-nvidia-fallout">U.S. tightens controls on remote access to AI technology amid Nvidia fallout</a></li>
+<li><a href="https://rebuild.fm/314/">Rebuild: 314: Takeda Shingen of Silicon Valley (hak)</a></li>
+<li><a href="https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/">Anthropic valued at $1.5 trillion as IPO raises record $81 billion</a></li>
+<li><a href="https://thenextweb.com/news/cat-wu-claude-code-anthropic-openai-core-products">Claude Code’s product lead Cat Wu leaves Anthropic to join OpenAI</a></li>
+<li><a href="https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra">Surface Laptop Ultra</a></li>
+<li><a href="https://rode.com/ja-jp/products/wireless-micro">RØDE Wireless Micro</a></li>
+<li><a href="https://www.insta360.com/jp/product/insta360-link">Insta360 Link</a></li>
+<li><a href="https://godzilla-minuszero.toho-movie.jp/">ゴジラ-0.0</a></li>
+</ul>
+ ]]></description>
+        <pubDate>Sat, 21 Nov 2026 01:00:00 -0800</pubDate>
+        <link>https://rebuild.fm/436/</link>
+        <guid isPermaLink="true">https://rebuild.fm/436/</guid>
+        <itunes:author>Tatsuhiko Miyagawa</itunes:author>
+        <dc:creator>Tatsuhiko Miyagawa</dc:creator>
+        
+        <atom:contributor>
+          <atom:name>hak</atom:name>
+          <atom:uri>https://rebuild.fm/people/hak/</atom:uri>
+        </atom:contributor>
+        
+        <atom:contributor>
+          <atom:name>miyagawa</atom:name>
+          <atom:uri>https://rebuild.fm/people/miyagawa/</atom:uri>
+        </atom:contributor>
+        
+        
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>Hakuro Matsuda さんをゲストに迎えて、Nvidia, Jensen Huang, Anthropic IPO などについて話しました。
+</itunes:subtitle>
+        <itunes:duration>49:48</itunes:duration>
+        <enclosure url="https://cache.rebuild.fm/podcast-ep436.mp3" type="audio/mpeg" length="36300994" />
+        
+        <psc:chapters version="1.2">
+          <psc:chapter start="00:00" title="Nvidia, Jensen Huang" />
+          <psc:chapter start="32:07" title="Anthropic IPO" />
+          <psc:chapter start="38:18" title="Surface Laptop Ultra" />
+          <psc:chapter start="42:10" title="音声入力" />
+          <psc:chapter start="47:00" title="コンテンツ" />
+          </psc:chapters>
+        
+        
+      </item>
+    
+    
+    
+      <item>
         <title>435: AI Agents Are Tamagotchi (hak)</title>
         <description><![CDATA[ <p>Hakuro Matsuda さんをゲストに迎えて、HomeView, MacBook Pro, iPhone Duo, サイバーアタック、AI エージェントなどについて話しました。</p>
 <h3>Show Notes</h3><ul>
